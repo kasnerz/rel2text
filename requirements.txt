@@ -1,0 +1,12 @@
+datasets==1.15.1
+pytorch-lightning==1.5.10
+transformers==4.18.0
+torch==1.12.0
+protobuf==3.20
+pandas
+sacrebleu
+sentence_transformers
+sparqlwrapper
+stanza
+wheel
+-e ./utils/GEM-metrics[heavy]

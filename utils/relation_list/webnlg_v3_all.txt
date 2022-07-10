@@ -1,0 +1,411 @@
+1st runway length feet
+1st runway length metre
+1st runway number
+1st runway surface type
+2nd runway surface type
+3rd runway length feet
+3rd runway surface type
+4th runway length feet
+4th runway surface type
+5th runway number
+5th runway surface type
+abbreviation
+absolute magnitude
+academic discipline
+academic staff size
+active years end date
+active years end year
+active years start date
+active years start year
+added to the national register of historic places
+address
+administrative arrondissement
+affiliation
+aircraft fighter
+aircraft helicopter
+album
+alma mater
+alternative name
+anthem
+apoapsis
+architect
+architectural style
+architecture
+area code
+area metro
+area of land
+area of water
+area total
+area urban
+artist
+assembly
+associated band/associated musical artist
+associated rocket
+attack aircraft
+author
+average speed
+award
+awards
+background
+backup pilot
+band member
+battle
+bed count
+bird
+birth date
+birth name
+birth place
+birth year
+body style
+broadcasted by
+budget
+build date
+builder
+building start date
+building type
+campus
+capital
+carbohydrate
+category
+ceremonial county
+certification
+chairman
+chairman title
+chairperson
+champions
+chancellor
+chief
+child
+christening date
+cinematography
+citizenship
+city
+city served
+class
+club
+coach
+coden code
+college
+colour
+commander
+comparable
+compete in
+completion date
+cospar id
+cost
+country
+country origin
+county seat
+course
+creator
+creator of dish
+crew members
+currency
+currentclub
+currentteam
+current tenants
+cylinder count
+date of retirement
+dean
+death cause
+death date
+death place
+death year
+debut team
+dedicated to
+demonym
+density
+derivative
+design company
+designer
+developer
+diameter
+director
+discovered
+discoverer
+dish variation
+dissolution year
+distributing company
+distributing label
+distributor
+district
+division
+doctoral advisor
+doctoral student
+draft pick
+draft round
+draft team
+draft year
+editing
+editor
+eissn number
+elevation above the sea level
+elevation above the sea level in feet
+elevation above the sea level in metres
+employer
+engine
+epoch
+escape velocity
+established
+ethnic group
+extinction date
+failed launches
+family
+fat
+fate
+final flight
+first aired
+first appearance in film
+first publication year
+floor area
+floor count
+followed by
+format
+former band member
+former name
+former team
+fossil
+foundation place
+founded by
+founder
+founding date
+founding year
+frequency
+full name
+function
+garrison
+gemstone
+general manager
+genre
+genus
+governing body
+government type
+grid reference
+gross
+ground
+has deputy
+has to its north
+has to its northeast
+has to its northwest
+has to its southeast
+has to its southwest
+has to its west
+headquarter
+height
+higher
+hub airport
+iata location identifier
+icao location identifier
+imdb id
+impact factor
+inauguration date
+industry
+influenced by
+ingredient
+in office while governor
+in office while monarch
+in office while president
+in office while prime minister
+in office while vice president
+instrument
+isbn number
+iso6391Code
+iso6392Code
+is part of
+is part of military conflict
+issn number
+jurisdiction
+key person
+known for
+language
+largest city
+last aired
+latin name
+launch site
+layout
+LCCN number
+leader
+leader party
+leader title
+league
+legislature
+length
+libraryof congress classification
+literary genre
+location
+location identifier
+long name
+maiden flight
+maiden voyage
+main ingredient
+manager
+manufacturer
+mascot
+mass
+material
+maximum temperature
+mayor
+meaning
+mean temperature
+media type
+military branch
+military rank
+minimum temperature
+mission
+model start year
+model years
+most champions
+motto
+municipality
+musical artist
+musical band
+music composer
+music fusion genre
+music subgenre
+nationality
+National register of historic places reference number
+native name
+nearest city
+neighboring municipality
+net income
+nickname
+notable work
+number of doctoral students
+number of employees
+number of locations
+number of members
+number of pages
+number of postgraduate students
+number of rooms
+number of students
+number of undergraduate students
+number of votes attained
+occupation
+oclc number
+office
+official language
+official school colour
+operating income
+operating organisation
+operator
+orbital period
+order
+origin
+outlook ranking
+owner
+owning organisation
+parent company
+part
+partial failures
+parts type
+party
+patron saint
+percentage of area water
+periapsis
+place
+player number
+population density
+population metro
+population metro density
+population total
+position
+postal code
+power type
+preceded by
+predecessor
+president
+producer
+product
+production end year
+production start year
+profession
+professional field
+protein
+publisher
+recorded in
+record label
+rector
+region
+region served
+related
+related mean of transportation
+release date
+religion
+representative
+residence
+revenue
+ribbon award
+river
+rocket stages
+rotation period
+runtime
+runway length
+runway name
+runway surface type
+saint
+season
+selected by nasa
+senators
+series
+served
+served as chief of the astronaut office in
+service
+service start year
+serving size
+serving temperature
+ship beam
+ship class
+ship displacement
+ship draft
+ship in service
+ship laid down
+ship launch
+ship ordered
+ship power
+significant building
+significant project
+similar dish
+sister station
+site
+spoken in
+sport governing body
+sports offered
+spouse
+stadium
+staff
+starring
+state
+state of origin
+status
+stylistic origin
+subsidiary
+successor
+surface area
+temperature
+tenant
+time in space
+timeshift channel
+time zone
+title
+top speed
+total launches
+total production
+trainer aircraft
+training
+transmission
+transport aircraft
+type
+unit
+university team
+utc offset
+vice chancellor
+voice
+was given the technical campus status by
+website
+weight
+wheelbase
+width
+writer
+year
+year of construction
+youthclub
