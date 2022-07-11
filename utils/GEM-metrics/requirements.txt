@@ -1,0 +1,9 @@
+datasets>=1.2.1
+nltk
+numpy
+rouge-score
+logzero
+pycountry
+sacrebleu>=1.5.0
+sacremoses
+

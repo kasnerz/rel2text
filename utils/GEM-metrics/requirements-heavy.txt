@@ -1,0 +1,2 @@
+nubia-score
+git+https://github.com/google-research/bleurt.git
