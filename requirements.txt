@@ -8,5 +8,4 @@ sacrebleu
 sentence_transformers
 sparqlwrapper
 stanza
-wheel
 -e ./utils/GEM-metrics[heavy]
