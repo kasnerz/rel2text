@@ -38,7 +38,7 @@ def add_special_tokens(tokenizer, model, tokens):
     special_tokens_dict = {'additional_special_tokens': tokens}
     tokenizer.add_special_tokens(special_tokens_dict)
 
-    logger.info(f"Adding tokens to model vocabulary: {tokens}")
+    # logger.info(f"Adding tokens to model vocabulary: {tokens}")
 
     if model is not None:
         model.resize_token_embeddings(len(tokenizer))

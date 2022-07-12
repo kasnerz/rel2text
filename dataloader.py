@@ -87,6 +87,7 @@ class DataModule(pl.LightningDataModule):
             batch_size=self.args.batch_size,
             num_workers=self.args.max_threads,
             collate_fn=self._pad_sequence,
+            shuffle=True
         )
 
     def val_dataloader(self):

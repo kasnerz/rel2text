@@ -12,14 +12,14 @@ In this paper, we examine if finetuned BART-base can generate a fluent and seman
 ## Requirements
 The framework uses Python 3, PyTorch Lightning and HuggingFace Transformers. 
 
-See `requirements.txt` for the full list of requirements.
+See `requirements.txt` for the full list of packages.
 
 Installing the requirements:
 ```
 pip install -r requirements.txt
 ```
 
-*Note that we use a slighly customized version of GEM-metrics which is included in the repository. If you do not wish to install the GEM-metrics requirements, you may remove the line `-e ./utils/GEM-metrics[heavy]` from `requirements.txt`.*
+*Note that we use a slighly customized version of GEM-metrics which is included in the repository. If you do not wish to use the GEM-metrics, you may remove the line `-e ./utils/GEM-metrics[heavy]` from `requirements.txt`.*
 
 
 ## Data
@@ -29,7 +29,7 @@ The raw **Rel2Text** dataset contains 7,334 RDF triples
 
 The **WebNLG** dataset is loaded automatically from [HuggingFace Datasets](https://huggingface.co/datasets/web_nlg).
 
-The **KeLM** dataset needs to be [downloaded](https://storage.googleapis.com/gresearch/kelm-corpus/updated-2021/kelm_generated_corpus.jsonl) from the original [repository](https://github.com/google-research-datasets/KELM-corpus) and placed in the `data/orig/kelm` folder (if you want to replicate the KeLM experiments).
+The **KeLM** dataset needs to be [downloaded](https://storage.googleapis.com/gresearch/kelm-corpus/updated-2021/kelm_generated_corpus.jsonl) from the original [repository](https://github.com/google-research-datasets/KELM-corpus) and placed in the `data/orig/kelm` folder (in case you wish to replicate the KeLM experiments).
 
 ## System Outputs
 You can find sample system outputs (using a single random seed) in the [system_outputs](system_outputs) folder.
@@ -48,16 +48,16 @@ The flags `-t`, `-d` and `-e` can be used to run *training*, *decoding*, or *eva
 
 
 ### Interactive Mode
-You can use the finetuned models in the interactive mode using the script `interact.py`. The special tokens `<head>`, `<rel>`, `<tail>` and `<rel_desc>` should be used as separators. 
+You can use the finetuned models in the interactive mode using the script `interact.py`. The special tokens `<head>`, `<rel>`, `<tail>`, and `<rel_desc>` (for *desc\** models only) are used as separators. 
 
 Example:
 ```
-./interact.py --experiment full_rel2text --beam_size 1
+./interact.py --experiment full_rel2text/seed_1 --beam_size 3
 ```
 
 ```
 [In]: <head> Commando <rel> actor <tail> Leo Anchóriz
-[Out]: TODO
+[Out]: ['Leo Anchóriz is the actor in Commando.', 'Leo Anchóriz is an actor in Commando.', 'Leo Anchóriz is the actor who played Commando.']
 ```
 
 ### Downstream Tasks
