@@ -6,6 +6,7 @@ echo "Preprocessing datasets"
 echo "=========================="
 
 # Rel2Text
+# currently filters relations for every setup: TODO speedup
 for MODE in "full" "desc_cat" "desc_repl" "mask_rel"; do
     ./preprocess.py \
         --dataset rel2text \
@@ -59,7 +60,7 @@ echo "=========================="
 for EXPERIMENT in  \
     "full_rel2text" \
     "full_webnlg" \
-    "full_kelm" \
+    # "full_kelm" \
     "mask_train" \
     "mask_test" \
     "mask_all" \
