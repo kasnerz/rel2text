@@ -1,6 +1,6 @@
-# Generalizing to Unseen Relations in Graph-to-Text Generation
+# Mind the Labels: Describing Relations in Knowledge Graphs With Pretrained Models
 
-This repository contains code and data for the paper *Generalizing to Unseen Relations in Graph-to-Text Generation*, which is under review for EMNLP 2022.
+This repository contains code and data for the paper *Mind the Labels: Describing Relations in Knowledge Graphs With Pretrained Models*, which is under review for EACL 2023.
 
 In this paper, we examine if finetuned BART-base can generate a fluent and semantically accurate verbalizations for a single RDF triple (`<head>`, `<relation>`, `<tail>`), if the `<relation>` was not present in the finetuning corpus.
 
