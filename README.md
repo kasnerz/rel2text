@@ -5,7 +5,7 @@ This repository contains code and data for the paper *Mind the Labels: Describin
 In this paper, we examine if finetuned BART-base can generate a fluent and semantically accurate verbalizations for a single RDF triple (`<head>`, `<relation>`, `<tail>`), if the `<relation>` was not present in the finetuning corpus.
 
 <p align="left">
-  <img src="img/preview.png" width=400px />
+  <img src="img/intro.png" width=400px />
 </p>
 
 
