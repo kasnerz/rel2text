@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "in": "<head> GSC 00227-00148 <rel> companion of <tail> GSC 00227-00221",
+            "out": "GSC 00227-00148 is a companion of GSC 00227-00221."
+        },
+        {
+            "in": "<head> Valencian State-Valencian Sovereignity <rel> political ideology <tail> Valencian nationalism",
+            "out": "Valencian State-Valencian Sovereignity have an ideology of Valencian Nationalism."
+        },
+        {
+            "in": "<head> History: Reviews of New Books <rel> ISO 4 abbreviation <tail> Hist. Rev. New Books",
+            "out": "The ISO 4 abbreviation of History: Reviews of New Books is Hist. Rev. New Books."
+        },
+        {
+            "in": "<head> Brionnais-Charolais dialect <rel> dialect of <tail> French",
+            "out": "Brionnais-Charolais dialect is a dialect of French."
+        },
+        {
+            "in": "<head> mental representation <rel> studied by <tail> cognitive science",
+            "out": "Cognitive science studies mental representation."
+        },
+        {
+            "in": "<head> Catharina Boudewijnshof <rel> named after <tail> Katherina Boudewyns",
+            "out": "Catharina Boudewijnshof was named after Katherina Boudewyns."
+        },
+        {
+            "in": "<head> trial of Violat Leyis <rel> prosecutor <tail> Alexander Jaffry",
+            "out": "The prosecutor at the trial of Violat Leyis was called Alexander Jaffry."
+        },
+        {
+            "in": "<head> Summertime Blues <rel> recorded at studio or venue <tail> University of Leeds Refectory",
+            "out": "Summertime Blues was recorded at the University of Leeds Refectory."
+        },
+        {
+            "in": "<head> Villemarette <rel> attested in <tail> 2010 United States Census surname index",
+            "out": "Villemarette was attested in the 2010 United States Census surname index."
+        },
+        {
+            "in": "<head> Rawl Lewis <rel> bowling style <tail> leg spin",
+            "out": "The leg spin is Rawl Lewis' bowling style."
+        },
+        {
+            "in": "<head> Muscle Car 3: Illegal Street <rel> maximum number of players <tail> 1",
+            "out": "The maximum number of players in Muscle Car 3: Illegal Street is 1."
+        },
+        {
+            "in": "<head> Steyr WD 815.74 <rel> engine displacement <tail> 11.97",
+            "out": "The Steyr WD 815.74 engine has an engine displacement of 11.97."
+        },
+        {
+            "in": "<head> Emilíana Torrini <rel> patronym or matronym for this person <tail> Davíðsdóttir",
+            "out": "The patronym or matronym for Emilíana Torrini is Davíðsdóttir."
+        },
+        {
+            "in": "<head> Rickrolling <rel> different from <tail> Never Gonna Give You Up",
+            "out": "Rickrolling is different from Never Gonna Give You Up."
+        },
+        {
+            "in": "<head> Julian Geske <rel> title of chess person <tail> International Master",
+            "out": "Julian Geske is an International Master of Chess."
+        },
+        {
+            "in": "<head> Encyclopedic Lexicon. Volume XV, 1838 <rel> RSL scanned books identifier <tail> 01003822962",
+            "out": "01003822962 is the RSL book identifier for Encyclopedic Lexicon. Volume XV, 1838."
+        },
+        {
+            "in": "<head> Prosody <rel> protocol <tail> XMPP",
+            "out": "XMPP is the communications protocol used by Prosody."
+        },
+        {
+            "in": "<head> Bay genomics ES cell line LST012 <rel> parent cell line <tail> ES-E14TG2a",
+            "out": "BayGenomics ES cell line LST012 has the parent cell line ES-E14TG2a."
+        },
+        {
+            "in": "<head> Shubh Vivah <rel> number of seasons <tail> 1",
+            "out": "Shubh Vivah had 1 season."
+        },
+        {
+            "in": "<head> UCAC2 13676232 <rel> surface gravity <tail> 224",
+            "out": "The surface gravity of UCAC2 13676232 is 224."
+        },
+        {
+            "in": "<head> Osana Najimi <rel> narrative age <tail> 17",
+            "out": "Osana Najimi is 17."
+        },
+        {
+            "in": "<head> Idrettsgallaen <rel> month of the year <tail> January",
+            "out": "Idrettsgallaen takes place in January."
+        },
+        {
+            "in": "<head> 2008 AP129 <rel> albedo <tail> 0.07",
+            "out": "2008 AP129 has a reflection coefficient of 0.07."
+        },
+        {
+            "in": "<head> Iriomote Island <rel> taxon found at location <tail> Iriomote cat",
+            "out": "Iriomote Island is home to the Iriomote cat."
+        },
+        {
+            "in": "<head> Die Tüdelband <rel> inception <tail> 2009",
+            "out": "Die Tüdelband was established in 2009."
+        }
+    ]
+}

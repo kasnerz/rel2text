@@ -1,0 +1,404 @@
+{
+    "data": [
+        {
+            "in": "<head> Audiological Disturbances in Vitiligo <rel> minimum age <tail> 3",
+            "out": "The minimum age for Audiological Disturbances in Vitiligo is 3 years."
+        },
+        {
+            "in": "<head> Ibex Airlines <rel> airline hub <tail> Sendai Airport",
+            "out": "Sendai Airport acts as a hub for Ibex Airlines."
+        },
+        {
+            "in": "<head> Brunei <rel> driving side <tail> left",
+            "out": "Brunei drives on the left."
+        },
+        {
+            "in": "<head> Samsung SGH-G600 <rel> storage device <tail> Secure Digital card",
+            "out": "The storage on a Samsung SGH-G600 is a Secure Digital card."
+        },
+        {
+            "in": "<head> Roman Catholic Diocese of Saint Clement at Saratov <rel> Christian liturgical rite <tail> Roman Rite",
+            "out": "Roman Rite is a Christian liturgical rite performed at the Roman Catholic Diocese of Saint Clement at Saratov."
+        },
+        {
+            "in": "<head> Holeulone <rel> video designer <tail> Thierry Van Hasselt",
+            "out": "Thierry Van Hasselt was the video designer of Holeulone."
+        },
+        {
+            "in": "<head> 2MASS J07352860+4529026 <rel> spectral class <tail> M5V",
+            "out": "2Mass J07352860+4529026 is in the spectral class M5V."
+        },
+        {
+            "in": "<head> The Witch and the Hundred Knight <rel> game artist <tail> Takehito Harada",
+            "out": "Takehito Harada did the game art for The Witch and the Hundred Knight."
+        },
+        {
+            "in": "<head> 2012 United States presidential election in Arkansas <rel> candidate <tail> Barack Obama",
+            "out": "Barack Obama was a 2012 United States presidential election in Arkansas canidate."
+        },
+        {
+            "in": "<head> metre per square centisecond <rel> measured physical quantity <tail> acceleration",
+            "out": "Acceleration is measured in metre per square centisecond."
+        },
+        {
+            "in": "<head> Sun <rel> age estimated by a dating method <tail> 4.57",
+            "out": "The Sun's age, estimated by a dating method is 4.57."
+        },
+        {
+            "in": "<head> ARIA Music Awards of 2007 <rel> broadcast by <tail> Network 10",
+            "out": "ARIA Music Awards of 2007 is broadcasted by Network 10."
+        },
+        {
+            "in": "<head> MV Astoria <rel> owner <tail> Classic International Cruises",
+            "out": "Classic International Cruises owns the MV Astoria."
+        },
+        {
+            "in": "<head> Rosa 'Rotfassade' <rel> flower color <tail> red",
+            "out": "Rosa 'Rotfassade' produces flowers that are red."
+        },
+        {
+            "in": "<head> Rosa Metzner <rel> date of burial or cremation <tail> 1944-06-02",
+            "out": "Rosa Metzner was buried/cremated on 1944-06-02."
+        },
+        {
+            "in": "<head> Sofala <rel> language used <tail> Sena",
+            "out": "The language used in Sofala is Sena."
+        },
+        {
+            "in": "<head> 83 Beatrix <rel> average speed <tail> 68652.0",
+            "out": "The 83 Beatrix has an average speed of 68652.0."
+        },
+        {
+            "in": "<head> 2018 Tour du Haut Var <rel> mountains classification <tail> Fernando Barceló",
+            "out": "Fernando Barceló received the mountains classification in the 2018 Tour du Haut Var."
+        },
+        {
+            "in": "<head> KPS tram trailers series 50–51 <rel> total produced <tail> 2",
+            "out": "A total of 2 KPS tram trailers series 50–51 were produced."
+        },
+        {
+            "in": "<head> Ernst Derday <rel> work location <tail> German South-West Africa",
+            "out": "Ernst Derday works in German South-West Africa."
+        },
+        {
+            "in": "<head> Bosnia and Herzegovina <rel> WIPO ST.3 <tail> BA",
+            "out": "BA is the code for Bosnia and Herzegovina."
+        },
+        {
+            "in": "<head> Meredydd Evans <rel> ethnic group <tail> Wales",
+            "out": "Meredydd Evans is from Wales."
+        },
+        {
+            "in": "<head> Anthony Pratt <rel> alma mater <tail> Monash University",
+            "out": "Anthony Pratt is a former student of Monash University."
+        },
+        {
+            "in": "<head> 2020 COVID-19 pandemic in Jordan <rel> number of recoveries <tail> 315",
+            "out": "There are 315 people recovered in the 2020 COVID-19 pandemic in Jordan."
+        },
+        {
+            "in": "<head> Mayor of Audeux <rel> female form of label <tail> alcaldesa d'Audeux",
+            "out": "The female title for Mayor of Audeux is alcaldesa d'Audeux."
+        },
+        {
+            "in": "<head> Dol win gamma <rel> frequency <tail> 0",
+            "out": "DolWin gamma's frequency is 0."
+        },
+        {
+            "in": "<head> Baton 4 <rel> column <tail> 141–142",
+            "out": "Baton 4 is in column 141–142."
+        },
+        {
+            "in": "<head> John Tristan, Count of Anjou and Maine <rel> sibling <tail> Louis IX of France",
+            "out": "John Tristan, Count of Anjou and Maine was a sibling to Louis IX of France."
+        },
+        {
+            "in": "<head> Patriarch Tikhon of Moscow <rel> feast day <tail> 1926-10-09",
+            "out": "Patriarch Tikhon of Moscow has a feast day on 1926-10-09."
+        },
+        {
+            "in": "<head> COVID-19 pandemic in the state of Ceará <rel> case fatality rate <tail> 0.009",
+            "out": "The case fataility rate of COVID-19 pandemic in the state of Ceará was 0.009."
+        },
+        {
+            "in": "<head> Joe's Own Editor <rel> introduced feature <tail> text editor",
+            "out": "Joe's Own Editor pioneered the text editor."
+        },
+        {
+            "in": "<head> Lofty <rel> season <tail> Battle for Dream Island, season 1",
+            "out": "Lofty is an episode of Battle for Dream Island, season 1."
+        },
+        {
+            "in": "<head> computational mechanics <rel> All-Science Journal Classification Codes <tail> 2206",
+            "out": "Computational mechanics is coded 2206 in the All-Science Journal Classification Codes."
+        },
+        {
+            "in": "<head> German submarine U-563 <rel> commanded by <tail> Klaus Bargsten",
+            "out": "The German submarine U-563 was commanded by Klaus Bargsten."
+        },
+        {
+            "in": "<head> The Fisher Boy <rel> material <tail> Oil paint",
+            "out": "The Fisher Boy was created using Oil paint."
+        },
+        {
+            "in": "<head> Kona Branch Post Office <rel> owned by <tail> India Post",
+            "out": "The Kona Branch Post Office is owned by the India Post."
+        },
+        {
+            "in": "<head> René Dragon <rel> hair color <tail> blond hair",
+            "out": "René Dragon has blond hair."
+        },
+        {
+            "in": "<head> Peruvian ceviche <rel> max time <tail> 2400.0",
+            "out": "The max time of a Peruvian ceviche is 2400.0."
+        },
+        {
+            "in": "<head> PSA Mangualde Plant <rel> brand <tail> Opel",
+            "out": "PSA Mangualde Plant is maintained by Opel."
+        },
+        {
+            "in": "<head> 1998 Indian general election in Jaunpur Lok Sabha constituency <rel> electorate <tail> 1263162",
+            "out": "The 1998 Indian general election in Jaunpur Lok Sabha constituency had an electorate count of 1263162."
+        },
+        {
+            "in": "<head> Sante Marie railway station <rel> station class <tail> bronze station",
+            "out": "The Sante Marie railway station is a bronze station."
+        },
+        {
+            "in": "<head> Xenoblade Chronicles <rel> publisher <tail> Nintendo",
+            "out": "Xenoblade Chronicles was published by Nintendo."
+        },
+        {
+            "in": "<head> Brand of the Outlaws <rel> producer <tail> A. W. Hackel",
+            "out": "Brand of the Outlaws was produced by A. W. Hackel."
+        },
+        {
+            "in": "<head> The Fruit at the Bottom of the Bowl <rel> language <tail> English language",
+            "out": "The Fruit at the Bottom of the Bowl is written in the English language."
+        },
+        {
+            "in": "<head> Microsoft Power point 2016 <rel> readable file format <tail> mp3",
+            "out": "Microsoft PowerPoint 2016 can open mp3."
+        },
+        {
+            "in": "<head> Två tungor <rel> genre <tail> Protest song",
+            "out": "Två tungor belongs to the protest song genre."
+        },
+        {
+            "in": "<head> Jimmy White's 2: Cueball <rel> input method <tail> mouse",
+            "out": "Jimmy White's 2: Cueball needs to be played with a mouse."
+        },
+        {
+            "in": "<head> Cherokee High School <rel> mascot <tail> Braves",
+            "out": "Cherokee High School has a mascot called Braves."
+        },
+        {
+            "in": "<head> 2013 Rally Liepāja-Ventspils <rel> surface played on <tail> snow",
+            "out": "2013 Rally Liepāja-Ventspils was played in snow."
+        },
+        {
+            "in": "<head> Taishō Hospital <rel> number of hospital beds <tail> 173",
+            "out": "The number of beds at Taishō Hospital is 173."
+        },
+        {
+            "in": "<head> cladribine <rel> medical condition treated <tail> multiple sclerosis",
+            "out": "Cladribine is a drug used to treat multiple sclerosis."
+        },
+        {
+            "in": "<head> twenty pence <rel> face value <tail> 0.2",
+            "out": "Twenty pence has a value of 0.2 pounds."
+        },
+        {
+            "in": "<head> Jamie O'Neill <rel> highest break <tail> 133",
+            "out": "Jamie O'Neill's highest break is 133."
+        },
+        {
+            "in": "<head> The Settlers II <rel> Australian Classification <tail> PG",
+            "out": "The film The Settlers II has been classified as PG in Australia."
+        },
+        {
+            "in": "<head> Oberliga Süd <rel> league system <tail> German football league system",
+            "out": "Oberliga Süd is a part of the German football league system."
+        },
+        {
+            "in": "<head> Pearl <rel> place of publication <tail> Canada",
+            "out": "Pearl was published in Canada."
+        },
+        {
+            "in": "<head> Danny Seguin <rel> penalty minutes in career <tail> 50",
+            "out": "Danny Seguin has 50 penalty minutes in his career."
+        },
+        {
+            "in": "<head> MÁV XIIc <rel> number of cylinders <tail> 2",
+            "out": "The MÁV XIIc has 2 cylinders."
+        },
+        {
+            "in": "<head> War Cross for Military Valour <rel> next higher rank <tail> Award for Civil Valor",
+            "out": "The next higher rank for the War Cross for Military Valour is the Award for Civil Valor."
+        },
+        {
+            "in": "<head> Sant'Andrea Catabarbara <rel> dedicated to <tail> Andrew the Apostle",
+            "out": "Sant'Andrea Catabarbara is dedicated to Andrew the Apostle."
+        },
+        {
+            "in": "<head> Easy tag <rel> GUI toolkit or framework <tail> GTK",
+            "out": "EasyTag uses the interface of GTK."
+        },
+        {
+            "in": "<head> Blaise Pascal <rel> influenced <tail> Antoine Arnauld",
+            "out": "Blaise Pascal influenced Antoine Arnauld's work."
+        },
+        {
+            "in": "<head> Myllaena infuscata <rel> Status in the Red List of Threatened Species in the Czech Republic <tail> vulnerable",
+            "out": "The species Myllaena infuscata is deemed as vulnerable in the Czech Republic."
+        },
+        {
+            "in": "<head> 21 June 2019 <rel> day of week <tail> Friday",
+            "out": "21 June 2019 is a Friday."
+        },
+        {
+            "in": "<head> labrador retriever <rel> life expectancy <tail> 10",
+            "out": "The life expectancy of a labrador retriever is 10 years."
+        },
+        {
+            "in": "<head> androstenediol dipropionate <rel> mass <tail> 402.277",
+            "out": "Androstenediol dipropionate weighs 402.277."
+        },
+        {
+            "in": "<head> Carn Bhac <rel> topographic prominence <tail> 186.8",
+            "out": "Carn Bhac has a topographic prominence of 186.8."
+        },
+        {
+            "in": "<head> De brutas, nada <rel> format <tail> Stereophonic sound",
+            "out": "The format for De brutas, nada is Stereophonic sound."
+        },
+        {
+            "in": "<head> 1999 RN117 <rel> semi-major axis of an orbit <tail> 2.7799774",
+            "out": "1999 RN117 has a semi-major axix orbit of 2.7799774."
+        },
+        {
+            "in": "<head> Red acouchi <rel> highest observed lifespan <tail> 14.8",
+            "out": "The highest observed lifespan of the Red acouchi was 14.8."
+        },
+        {
+            "in": "<head> MRI Hydronephrosis Study <rel> maximum age <tail> 2",
+            "out": "MRI Hydronephrosis Study had a maximum participant age of 2."
+        },
+        {
+            "in": "<head> Final Fight: Streetwise <rel> PEGI rating <tail> PEGI 18",
+            "out": "Final Fight: Streetwise has a Pegi rating of PEGI 18."
+        },
+        {
+            "in": "<head> Macedonian presidential election <rel> total valid votes <tail> 651",
+            "out": "Macedonian presidential election had 651 total valid votes."
+        },
+        {
+            "in": "<head> Global Fund for Women <rel> founded by <tail> Anne Firth Murray",
+            "out": "Global Fund for Women was founded by Anne Firth Murray."
+        },
+        {
+            "in": "<head> human mission to Mars <rel> start point <tail> Earth",
+            "out": "Earth is the start point for a human mission to Mars."
+        },
+        {
+            "in": "<head> 292159 Jongoldstein <rel> longitude of ascending node <tail> 0.1",
+            "out": "292159 Jongoldstein has a longitude of ascending node of 0.1."
+        },
+        {
+            "in": "<head> Malta national badminton team <rel> participant in <tail> 1997 Sudirman Cup",
+            "out": "Malta national badminton team participated in the 1997 Sudirman Cup."
+        },
+        {
+            "in": "<head> Konecchlumí <rel> time of earliest written record <tail> 1226",
+            "out": "Konecchlumí was first mentioned in books as early as 1226."
+        },
+        {
+            "in": "<head> Gaetano Monachello <rel> member of sports team <tail> Inter Milan",
+            "out": "Gaetano Monachello was a member of the sports team Inter Milan."
+        },
+        {
+            "in": "<head> Guinean franc <rel> price <tail> 0.000095471",
+            "out": "Guinean franc's price is 0.000095471."
+        },
+        {
+            "in": "<head> 2001 ST113 <rel> orbital eccentricity <tail> 0.1",
+            "out": "2001 ST113 has an orbital eccentricity of 0.1."
+        },
+        {
+            "in": "<head> Seikan Tunnel <rel> carries <tail> Hokkaido Shinkansen",
+            "out": "Seikan Tunnel carries the Hokkaido Shinkansen."
+        },
+        {
+            "in": "<head> The Snow Queen <rel> recording location <tail> Tallinn",
+            "out": "The Snow Queen was filmed in Tallinn."
+        },
+        {
+            "in": "<head> Avalon <rel> has melody <tail> E lucevan le stelle",
+            "out": "Avalon uses the melody of E lucevan le stelle."
+        },
+        {
+            "in": "<head> James Webb Space Telescope <rel> carries scientific instrument <tail> MIRI",
+            "out": "MIRI is a scientific instrument carried by James Webb Space Telescope."
+        },
+        {
+            "in": "<head> Sonnet 21 <rel> last line <tail> I will not praise that purpose not to sell.",
+            "out": "Sonnet 21's last line is I will not praise that purpose not to sell."
+        },
+        {
+            "in": "<head> maté <rel> Common Procurement Vocabulary <tail> 03131300",
+            "out": "Maté has a Common Procurement number of 03131300."
+        },
+        {
+            "in": "<head> Virendra Kumar Pathak <rel> candidacy in election <tail> 2014 Indian general election in Ballia Lok Sabha constituency",
+            "out": "Virendra Kumar Pathak is a candidate in the 2014 Indian general election in Ballia Lok Sabha constituency."
+        },
+        {
+            "in": "<head> Pumbaa <rel> sidekick of <tail> Simba",
+            "out": "Simba's sidekick is Pumbaa."
+        },
+        {
+            "in": "<head> MACHO 57.5187.248 <rel> type of variable star <tail> eclipsing binary star",
+            "out": "MACHO 57.5187.248 is an eclipsing binary star."
+        },
+        {
+            "in": "<head> Helmut Käutner Prize <rel> conferred by <tail> Düsseldorf",
+            "out": "Helmut Käutner Prize was conferred by Düsseldorf."
+        },
+        {
+            "in": "<head> Texas caviar <rel> serving size <tail> 100.0",
+            "out": "The serving size of Texas caviar is 100.0."
+        },
+        {
+            "in": "<head> Strassendamm NM18 <rel> located on linear feature <tail> Ludwig Canal",
+            "out": "Strassendamm NM18 is located near the Ludwig Canal."
+        },
+        {
+            "in": "<head> Adaminaby Public School <rel> employees <tail> 1",
+            "out": "Adaminaby Public School has 1 employee."
+        },
+        {
+            "in": "<head> atenolol <rel> Liver tox likelihood score <tail> Liver tox toxicity likelihood category D",
+            "out": "The liver tox likelihood score of atenolol is LiverTox toxicity likelihood category D."
+        },
+        {
+            "in": "<head> Uganda Registration Services Bureau <rel> jurisdiction <tail> Politics of Uganda",
+            "out": "Uganda Registration Services Bureau is in the jurisdiction of the Politics of Uganda."
+        },
+        {
+            "in": "<head> Marwa Shili <rel> family name <tail> Tunisia",
+            "out": "Marwa Shili comes from the Tunisia family."
+        },
+        {
+            "in": "<head> Imaginary Portrait <rel> film editor <tail> Felipe Martinez Carbonell",
+            "out": "Felipe Martinez Carbonell is the film editor of Imaginary Portrait."
+        },
+        {
+            "in": "<head> Racek <rel> number of houses <tail> 53",
+            "out": "Racek has 53 houses."
+        },
+        {
+            "in": "<head> Great Commission church movement <rel> founder <tail> Jim Mc cotter",
+            "out": "Great Commission church movement was founded by Jim McCotter."
+        }
+    ]
+}

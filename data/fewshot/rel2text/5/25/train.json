@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "in": "<head> inferior oblique muscle <rel> arterial supply <tail> ophthalmic artery",
+            "out": "Inferior oblique muscle is supplied by the ophthalmic artery."
+        },
+        {
+            "in": "<head> Treaty on Literary and Artistic Property of 1889 <rel> ratified by <tail> Hungary",
+            "out": "The Treaty on Literary and Artistic Property of 1889 was ratified by Hungary."
+        },
+        {
+            "in": "<head> Marcus Aurelius <rel> copyright status as a creator <tail> copyrights on works have expired",
+            "out": "All copyrights on works have expired of the roman Marcus Aurelius."
+        },
+        {
+            "in": "<head> The Cape Cod Mystery <rel> author <tail> Phoebe Atwood Taylor",
+            "out": "The Cape Cod Mystery is a novel by Phoebe Atwood Taylor."
+        },
+        {
+            "in": "<head> Dwarf Fortress <rel> copyright holder <tail> Tarn Adams",
+            "out": "Tarn Adams has the copyrights for Dwarf Fortress."
+        },
+        {
+            "in": "<head> House of Marino <rel> ancestral home <tail> Genoa",
+            "out": "House of Marino originated from Genoa."
+        },
+        {
+            "in": "<head> Kanagawa Prefecture Medical Association <rel> members have occupation <tail> physician",
+            "out": "Kanagawa Prefecture Medical Association has members who are physicians."
+        },
+        {
+            "in": "<head> 2013 3-cushion world championships for national teams <rel> tournament format <tail> round-robin tournament",
+            "out": "The 2013 3-cushion world championships for national teams was a round-robin tournament."
+        },
+        {
+            "in": "<head> Goodbye, Franziska <rel> costume designer <tail> Margot Hielscher",
+            "out": "Goodbye, Franziska is a film with costumes designed by Margot Hielscher."
+        },
+        {
+            "in": "<head> Todd <rel> home world <tail> Earth",
+            "out": "Todd is from the planet Earth."
+        },
+        {
+            "in": "<head> Etarlis <rel> performer <tail> Mermaid Kiss",
+            "out": "Etarlis was performed by Mermaid Kiss."
+        },
+        {
+            "in": "<head> 1966 Campeonato Vasco-Navarro de Montaña <rel> winner <tail> Manuel Martín Piñera",
+            "out": "1966 Campeonato Vasco-Navarro de Montaña was won by Manuel Martín Piñera."
+        },
+        {
+            "in": "<head> Vandentoorn <rel> attested in <tail> 2010 United States Census surname index",
+            "out": "Vandentoorn was attested in the 2010 United States Census surname index."
+        },
+        {
+            "in": "<head> Sudhangshu Dasgupta <rel> occupation <tail> politician",
+            "out": "Sudhangshu Dasgupta is a politician."
+        },
+        {
+            "in": "<head> 2018 Wigan Metropolitan Borough Council election in Abram <rel> voting system <tail> first-past-the-post voting",
+            "out": "The 2018 Wigan Metropolitan Borough Council election in Abram used first-past-the-post voting."
+        },
+        {
+            "in": "<head> Estonia <rel> unemployment rate <tail> 5.4",
+            "out": "Estonia's unemployment rate is 5.4."
+        },
+        {
+            "in": "<head> Trabzonspor <rel> owner of <tail> Hüseyin Avni Aker Stadium",
+            "out": "Trabzonspor is the owner of Hüseyin Avni Aker Stadium."
+        },
+        {
+            "in": "<head> Stadttafel Lindener Hafen <rel> inscription mentions <tail> Hanover",
+            "out": "Stadttafel Lindener Hafen mentions Hanover."
+        },
+        {
+            "in": "<head> 12th Academy Awards <rel> awarded for period <tail> 1939",
+            "out": "12th Academy Awards were awarded for period of 1939."
+        },
+        {
+            "in": "<head> Kepler-20e <rel> angular distance <tail> 0.000175",
+            "out": "The angular distance of Kepler-20e is 0.000175."
+        },
+        {
+            "in": "<head> Bill Hunt <rel> bowling style <tail> Left-arm orthodox spin",
+            "out": "Bill Hunt uses a Left-arm orthodox spin."
+        },
+        {
+            "in": "<head> Sunlit Sea with Rocky Beach <rel> donated by <tail> Wilhelmina von Hallwyl",
+            "out": "Sunlit Sea with Rocky Beach was donated by Wilhelmina von Hallwyl."
+        },
+        {
+            "in": "<head> Bowdoin-Eye Painter <rel> work period <tail> 0529 BC",
+            "out": "Bowdoin-Eye Painter worked in 0529 BC."
+        },
+        {
+            "in": "<head> Burnt Church <rel> reports periodicity <tail> monthly measurement",
+            "out": "Burnt Church reports monthly measurement."
+        },
+        {
+            "in": "<head> 2nd Combat Aviation Brigade <rel> nickname <tail> Talon",
+            "out": "2nd Combat Aviation Brigade's nickname is Talon."
+        }
+    ]
+}

@@ -1,0 +1,804 @@
+{
+    "data": [
+        {
+            "in": "<head> Persantine <rel> has active ingredient <tail> dipyridamole",
+            "out": "Dipyridamole is an active ingredient in Persantine."
+        },
+        {
+            "in": "<head> Zampone Modena <rel> product certification <tail> Indicazione geografica protetta",
+            "out": "Zampone Modena is certified by Indicazione geografica protetta."
+        },
+        {
+            "in": "<head> Santa Lucía <rel> continent <tail> South America",
+            "out": "Santa Lucía is in South America."
+        },
+        {
+            "in": "<head> Jonet Carswell <rel> ritual object <tail> Nasturtium officinale",
+            "out": "Jonet Carswell used Nasturtium officinale as a ritual object."
+        },
+        {
+            "in": "<head> Borgo Cisarino <rel> offers view on <tail> Bellagio",
+            "out": "Borgo Cisarino offers view on Bellagio."
+        },
+        {
+            "in": "<head> Mister World <rel> organizer <tail> Julia Morley",
+            "out": "Julia Morley is Mister World’s organizer."
+        },
+        {
+            "in": "<head> Littler Mendelson <rel> legal form <tail> Professional corporation",
+            "out": "Littler Mendelson is a Professional corporation."
+        },
+        {
+            "in": "<head> economy of Albania <rel> nominal GDP per capita <tail> 4537",
+            "out": "The economy of Albania produces a nominal GDP per capita of 4537."
+        },
+        {
+            "in": "<head> heparin <rel> pregnancy category <tail> Australian pregnancy category C",
+            "out": "The drug heparin is in Australian pregnancy category C."
+        },
+        {
+            "in": "<head> ngultrum <rel> central bank/issuer <tail> Royal Monetary Authority of Bhutan",
+            "out": "Ngultrum is issued by the Royal Monetary Authority of Bhutan."
+        },
+        {
+            "in": "<head> Alfred Bester <rel> superhuman feature or ability <tail> telepathy",
+            "out": "Alfred Bester has the ability of telepathy."
+        },
+        {
+            "in": "<head> 8724 Junkoehara <rel> orbital eccentricity <tail> 0.2047771",
+            "out": "The 8724 Junkoehara asteroid has an orbital eccentricity of 0.2047771."
+        },
+        {
+            "in": "<head> 2020 COVID-19 pandemic in Bahraich district <rel> number of cases <tail> 76",
+            "out": "2020 COVID-19 pandemic in Bahraich district case amount is down to 76."
+        },
+        {
+            "in": "<head> Win dVD <rel> developer <tail> Corel",
+            "out": "The developer of WinDVD is Corel."
+        },
+        {
+            "in": "<head> MTR <rel> railway traffic side <tail> left",
+            "out": "The MTR uses the left hand side direction."
+        },
+        {
+            "in": "<head> Shino Aburame <rel> wears <tail> sunglasses",
+            "out": "Shino Aburame wears sunglasses."
+        },
+        {
+            "in": "<head> Scale model of Tigre-Mn m 29 MG 24 <rel> exhibition history <tail> De la Gloire au Charles de Gaulle",
+            "out": "Scale model of Tigre-MnM 29 MG 24 was exhibited at De la Gloire au Charles de Gaulle."
+        },
+        {
+            "in": "<head> lesene <rel> does not have part <tail> capital",
+            "out": "A lesene does not have a capital."
+        },
+        {
+            "in": "<head> Dietrich Peltz <rel> military unit <tail> Sturzkampfgeschwader 77",
+            "out": "Dietrich Peltz served in Sturzkampfgeschwader 77."
+        },
+        {
+            "in": "<head> Annunciation Church <rel> appears in the heritage monument list <tail> list of cultural heritage monuments in Kolsky district",
+            "out": "Annunciation Church appears in the heritage monument list of cultural heritage monuments in Kolsky district."
+        },
+        {
+            "in": "<head> Rino <rel> narrative age <tail> 15",
+            "out": "Rino is 15 years old."
+        },
+        {
+            "in": "<head> Baton 4 <rel> column <tail> 141–142",
+            "out": "Baton 4 is in column 141–142."
+        },
+        {
+            "in": "<head> Ameli Haager <rel> sports discipline competed in <tail> speed climbing",
+            "out": "Ameli Haager does speed climbing."
+        },
+        {
+            "in": "<head> Paleoproterozoic <rel> end time <tail> 1600000000 BC",
+            "out": "Paleoproterozoic ended in 1600000000 BC."
+        },
+        {
+            "in": "<head> Konecchlumí <rel> time of earliest written record <tail> 1226",
+            "out": "Konecchlumí was first mentioned in books as early as 1226."
+        },
+        {
+            "in": "<head> Inform <rel> programming paradigm <tail> procedural programming",
+            "out": "The programming language Inform's paradigm is procedural programming."
+        },
+        {
+            "in": "<head> Iraniyur Branch Post Office <rel> owned by <tail> India Post",
+            "out": "Iraniyur Branch Post Office is owned by India Post."
+        },
+        {
+            "in": "<head> Guy Nixon <rel> personal best <tail> 62",
+            "out": "Guy Nixon has a personal best of 62."
+        },
+        {
+            "in": "<head> intracardiac pressure <rel> anatomical location <tail> heart",
+            "out": "The intracardiac pressure is measured in the heart."
+        },
+        {
+            "in": "<head> Roberto Guerrero <rel> points for <tail> 0",
+            "out": "Roberto Guerrero scored 0 points."
+        },
+        {
+            "in": "<head> Sherell Ford <rel> drafted by <tail> Seattle Super sonics",
+            "out": "Sherell Ford was drafted by the Seattle SuperSonics."
+        },
+        {
+            "in": "<head> Cagiva Elefant <rel> date of commercialization <tail> 1984",
+            "out": "Cagiva Elefant was commercialized in 1984."
+        },
+        {
+            "in": "<head> Pete Murphy <rel> league <tail> NCAA Division I men's basketball",
+            "out": "Pete Murphy has played NCAA Division I men's basketball."
+        },
+        {
+            "in": "<head> T3E900 <rel> number of processor cores <tail> 332",
+            "out": "T3E900 contains 332 processor cores."
+        },
+        {
+            "in": "<head> Sputnik 1 <rel> cause of destruction <tail> orbital decay",
+            "out": "Sputnik 1's destruction was caused by orbital decay."
+        },
+        {
+            "in": "<head> Soyuz 6 <rel> time of spacecraft landing <tail> 1969-10-16",
+            "out": "Soyuz 6 landed their spacecraft on 1969-10-16."
+        },
+        {
+            "in": "<head> methylergonovine <rel> significant drug interaction <tail> indinavir",
+            "out": "Methylergonovine has a significant drug interaction with indinavir."
+        },
+        {
+            "in": "<head> Avgolida <rel> Statistical Service of Cyprus Geocode <tail> 3324",
+            "out": "Avgolida is geocoded 3324 by the Statistical Service of Cyprus."
+        },
+        {
+            "in": "<head> Barny Cakes <rel> fat <tail> 4.8",
+            "out": "Barny Cakes have 4.8g of fat."
+        },
+        {
+            "in": "<head> Cattell Culture Fair III <rel> measures <tail> intelligence",
+            "out": "Cattell Culture Fair III measures intelligence."
+        },
+        {
+            "in": "<head> Burnt Church <rel> reports periodicity <tail> monthly measurement",
+            "out": "Burnt Church reports monthly measurement."
+        },
+        {
+            "in": "<head> Unchained Light <rel> translation of <tail> Stad i ljus",
+            "out": "Stad i ljus is translated into English as Unchained Light."
+        },
+        {
+            "in": "<head> economy of Castile and León <rel> nominal GDP <tail> 53988901000",
+            "out": "53988901000 is the nominal GDP of economy of Castile and León."
+        },
+        {
+            "in": "<head> Estonian <rel> has grammatical case <tail> nominative case",
+            "out": "Estonian has nominative case."
+        },
+        {
+            "in": "<head> Ministry of Religious Affairs and Endowments <rel> Twitter username <tail> MARWDZAIR",
+            "out": "The twitter username of the Ministry of Religious Affairs and Endowments is MARWDZAIR."
+        },
+        {
+            "in": "<head> Fred Evans <rel> influenced <tail> George Yancy",
+            "out": "George Yancy was influenced by Fred Evans."
+        },
+        {
+            "in": "<head> Marguerite Mooers Marshall <rel> date of disappearance <tail> 1964-05-03",
+            "out": "Marguerite Mooers Marshall disappeared on 1964-05-03."
+        },
+        {
+            "in": "<head> 1992 EE32 <rel> time of discovery or invention <tail> 1992-03-02",
+            "out": "1992 EE32 was discovered in 1992-03-02."
+        },
+        {
+            "in": "<head> Kratovo Municipality <rel> FIPS 10-4 <tail> MK51",
+            "out": "The FIPS 10-4 identifier for Kratovo Municipality is MK51."
+        },
+        {
+            "in": "<head> ARIA Music Awards of 2007 <rel> broadcast by <tail> Network 10",
+            "out": "ARIA Music Awards of 2007 is broadcasted by Network 10."
+        },
+        {
+            "in": "<head> 2012 United States presidential election in Louisiana <rel> candidate <tail> Barack Obama",
+            "out": "The 2012 United States presidential election in Louisiana candidate was Barack Obama."
+        },
+        {
+            "in": "<head> Hope for the Future <rel> Charity Commission no. <tail> 1173547",
+            "out": "Hope for the Future has the charity commission number 1173547."
+        },
+        {
+            "in": "<head> The Last of Sheila <rel> production designer <tail> Ken Adam",
+            "out": "The Last of Sheila was produced by Ken Adam."
+        },
+        {
+            "in": "<head> Shahram Goudarzi <rel> birth place <tail> Mamasani County",
+            "out": "Shahram Goudarzi was born in Mamasani County."
+        },
+        {
+            "in": "<head> Purpurogenic acid <rel> p ka <tail> 2.18",
+            "out": "The acid dissociation constant for Purpurogenic acid is 2.18."
+        },
+        {
+            "in": "<head> Mimeresia debora barnsi <rel> original combination <tail> Pseuderesia barnsi",
+            "out": "The original combination name of Mimeresia debora barnsi was Pseuderesia barnsi."
+        },
+        {
+            "in": "<head> 1999 RN117 <rel> semi-major axis of an orbit <tail> 2.7799774",
+            "out": "1999 RN117 has a semi-major axix orbit of 2.7799774."
+        },
+        {
+            "in": "<head> House of Marino <rel> ancestral home <tail> Genoa",
+            "out": "House of Marino originated from Genoa."
+        },
+        {
+            "in": "<head> Chicago and North Western Railway class E-2 <rel> powered by <tail> steam engine",
+            "out": "Chicago and North Western Railway class E-2 is powered by a steam engine."
+        },
+        {
+            "in": "<head> Turner v. Safley <rel> majority opinion by <tail> Sandra Day O'Connor",
+            "out": "The Turner v. Safley case ended in Sandra Day O'Connor's favor."
+        },
+        {
+            "in": "<head> East Coast Elevated Expressway <rel> highway system <tail> Chennai HSCTC",
+            "out": "East Coast Elevated Expressway is the highway for Chennai HSCTC."
+        },
+        {
+            "in": "<head> britholite- <rel> Mohs' hardness <tail> 5",
+            "out": "The Mohs' hardness of britholite- is 5."
+        },
+        {
+            "in": "<head> Gary Bradds <rel> death place <tail> Greenville, Ohio",
+            "out": "Gary Bradds died in Greenville, Ohio."
+        },
+        {
+            "in": "<head> Saga Airport <rel> scheduled service destination <tail> Tokyo International Airport",
+            "out": "Saga Airport is directly linked to Tokyo International Airport."
+        },
+        {
+            "in": "<head> OGLE LMC-ECL-3124 <rel> type of variable star <tail> eclipsing binary star",
+            "out": "OGLE LMC-ECL-3124 is a type of star that is identified as eclipsing binary star."
+        },
+        {
+            "in": "<head> La Revancha <rel> original broadcaster <tail> Venevisión",
+            "out": "La Revancha was originally broadcast on Venevisión."
+        },
+        {
+            "in": "<head> Line <rel> operating system <tail> Google Chrome",
+            "out": "Line can be found on Google Chrome."
+        },
+        {
+            "in": "<head> European Russia <rel> opposite of <tail> Siberia",
+            "out": "European Russia is opposite Siberia."
+        },
+        {
+            "in": "<head> Amethyst <rel> followed by <tail> Oceans of Time",
+            "out": "Oceans of Time is followed by the Amethyst."
+        },
+        {
+            "in": "<head> Braxton County High School <rel> colour <tail> Gold",
+            "out": "Braxton County High School's color is Gold."
+        },
+        {
+            "in": "<head> Alfredshem Red lower light <rel> focal height <tail> 2",
+            "out": "Alfredshem Red lower light used a focal height of 2."
+        },
+        {
+            "in": "<head> Clause 5 of the Interim Report on Fundamental Rights <rel> presented in <tail> 3rd session of the Constituent Assembly of India",
+            "out": "Clause 5 of the Interim Report on Fundamental Rights was presented at the 3rd session of the Constituent Assembly of India."
+        },
+        {
+            "in": "<head> MV Cape Rise <rel> ship draft <tail> 9.7536",
+            "out": "MV Cape Rise's ship draft is 9.7536."
+        },
+        {
+            "in": "<head> Kepler-201c <rel> parent astronomical body <tail> KOI-655",
+            "out": "Kepler-201c belongs to KOI-655."
+        },
+        {
+            "in": "<head> 1980 Slovenian Badminton Championships – men's doubles <rel> participant <tail> Stane Koprivšek",
+            "out": "Stane Koprivšek took part in 1980 Slovenian Badminton Championships – men's doubles."
+        },
+        {
+            "in": "<head> Spiral <rel> enemy of <tail> Psylocke",
+            "out": "Spiral's enemy is Psylocke."
+        },
+        {
+            "in": "<head> Trastevere <rel> official number of town quarter <tail> 113",
+            "out": "Town quarter 113 is also known as Trastevere."
+        },
+        {
+            "in": "<head> Northern Mariana Islands <rel> currency <tail> United States dollar",
+            "out": "Northern Mariana Islands uses the United States dollar."
+        },
+        {
+            "in": "<head> Lac Brador Cabin <rel> lake outflow <tail> Brador River",
+            "out": "The Brador River originates at Lac Brador Cabin."
+        },
+        {
+            "in": "<head> 2021 Gibraltar abortion referendum <rel> number of support votes <tail> 7656",
+            "out": "2021 Gibraltar abortion referendum had 7656 votes of support."
+        },
+        {
+            "in": "<head> Why It's Kicking Off Everywhere <rel> number of pages <tail> 244",
+            "out": "The book entitled Why It's Kicking Off Everywhere has 244 pages."
+        },
+        {
+            "in": "<head> Newfoundland sheep <rel> FAO risk status <tail> critical",
+            "out": "The Newfoundland sheep have been categorised has a critical risk by FAO."
+        },
+        {
+            "in": "<head> economy of Zimbabwe <rel> GDP <tail> 40229126006",
+            "out": "The economy of Zimbabwe produces a GDP of 40229126006."
+        },
+        {
+            "in": "<head> Gesetz zur Förderung der Berliner Wirtschaft <rel> Buzer.de law identification <tail> 6199",
+            "out": "Gesetz zur Förderung der Berliner Wirtschaft is number 6199 in Buzer.de."
+        },
+        {
+            "in": "<head> COVID-19 pandemic in the city of Bebedouro <rel> case fatality rate <tail> 0",
+            "out": "0 people died from the COVID-19 pandemic in the city of Bebedouro."
+        },
+        {
+            "in": "<head> Burundi <rel> suicide rate <tail> 7.1",
+            "out": "Burundi has a suicide rate of 7.1."
+        },
+        {
+            "in": "<head> Healthy Weight Commitment Foundation <rel> inception <tail> 2009",
+            "out": "The healthy weight commitment foundation was formed in 2009."
+        },
+        {
+            "in": "<head> 105 mm Howitzer M3 <rel> slope <tail> -9",
+            "out": "105 mm Howitzer M3 has a slope of -9."
+        },
+        {
+            "in": "<head> The Mole and the Umbrella <rel> art director <tail> Zdeněk Miler",
+            "out": "The Mole and the Umbrella has artwork by Zdeněk Miler."
+        },
+        {
+            "in": "<head> Machelen railway station <rel> connecting line <tail> Line 25",
+            "out": "Machelen railway station is on Line 25."
+        },
+        {
+            "in": "<head> Stephen the Sabaite <rel> feast day <tail> 1928-11-10",
+            "out": "The feast day for Stephen the Sabaite is 1928-11-10."
+        },
+        {
+            "in": "<head> GBHS Haji Pir Bux Rajar <rel> students count <tail> 178",
+            "out": "The student count at GBHS Haji Pir Bux Rajar is 178."
+        },
+        {
+            "in": "<head> Successful Monster <rel> fabrication method <tail> etching technique",
+            "out": "Successful Monster was created with an etching technique."
+        },
+        {
+            "in": "<head> Rosa 'Rotfassade' <rel> flower color <tail> red",
+            "out": "Rosa 'Rotfassade' produces flowers that are red."
+        },
+        {
+            "in": "<head> Cherokee High School <rel> mascot <tail> Braves",
+            "out": "Cherokee High School has a mascot called Braves."
+        },
+        {
+            "in": "<head> African salad <rel> made from material <tail> fish",
+            "out": "African salad is made from fish."
+        },
+        {
+            "in": "<head> Brucella Vaccine <rel> vaccine for <tail> brucellosis",
+            "out": "Brucella Vaccine vaccinates against brucellosis."
+        },
+        {
+            "in": "<head> Abraham's Sacrifice <rel> depicts Iconclass notation <tail> 71C131311",
+            "out": "Abraham's Sacrifice depicts iconclass notation which is 71C131311."
+        },
+        {
+            "in": "<head> Alayasastra <rel> ISSN <tail> 2615-6024",
+            "out": "The ISSN of Alayasastra is 2615-6024."
+        },
+        {
+            "in": "<head> 2007 Summer Universiade <rel> officially opened by <tail> Vajiralongkorn I of Thailand",
+            "out": "Vajiralongkorn I of Thailand officially opened the 2007 Summer Universiade."
+        },
+        {
+            "in": "<head> Sandra Ankobiah <rel> academic major <tail> international law",
+            "out": "Sandra Ankobiah has an academic major in international law."
+        },
+        {
+            "in": "<head> Oleg Tabakov <rel> supported sports team <tail> Spartak Moscow",
+            "out": "The sports team Oleg Tabakov supports is Spartak Moscow."
+        },
+        {
+            "in": "<head> 1998 Indian general election in Hooghly Lok Sabha constituency <rel> ballots cast <tail> 943670",
+            "out": "During the 1998 Indian general election in Hooghly Lok Sabha constituency, 943670 votes were cast."
+        },
+        {
+            "in": "<head> Leone Sinigaglia <rel> student <tail> Gino Roncaglia",
+            "out": "Leone Sinigaglia's student was Gino Roncaglia."
+        },
+        {
+            "in": "<head> nonane <rel> ionization energy <tail> 10.21",
+            "out": "The ionization energy of nonane is 10.21."
+        },
+        {
+            "in": "<head> twenty pence <rel> face value <tail> 0.2",
+            "out": "Twenty pence has a value of 0.2 pounds."
+        },
+        {
+            "in": "<head> P11 <rel> derived from organism type <tail> brown rat",
+            "out": "P11 is derived from the brown rat."
+        },
+        {
+            "in": "<head> Little Bit Therapeutic Riding Center <rel> total revenue <tail> 3033449",
+            "out": "Little Bit Therapeutic Riding Center's total revenue is 3033449."
+        },
+        {
+            "in": "<head> The Poetaster <rel> date of first performance <tail> 1601",
+            "out": "The Poetaster was first performed in 1601."
+        },
+        {
+            "in": "<head> flexor digiti minimi brevis muscle of hand <rel> muscle action <tail> flexion of the fingers",
+            "out": "Flexor digiti minimi brevis muscle of hand enables flexion of the fingers."
+        },
+        {
+            "in": "<head> maté <rel> Common Procurement Vocabulary <tail> 03131300",
+            "out": "Maté has a Common Procurement number of 03131300."
+        },
+        {
+            "in": "<head> Helmut Käutner Prize <rel> conferred by <tail> Düsseldorf",
+            "out": "Helmut Käutner Prize was conferred by Düsseldorf."
+        },
+        {
+            "in": "<head> TYC 5621-658-1 <rel> surface gravity <tail> 2140",
+            "out": "2140 is the surface gravity of TYC 5621-658-1."
+        },
+        {
+            "in": "<head> 2013 3-cushion world championships for national teams <rel> tournament format <tail> round-robin tournament",
+            "out": "The 2013 3-cushion world championships for national teams was a round-robin tournament."
+        },
+        {
+            "in": "<head> Liljeholmen metro station <rel> interchange station <tail> Liljeholmen tram station",
+            "out": "Passengers can change at Liljeholmen metro station to get to Liljeholmen tram station."
+        },
+        {
+            "in": "<head> Lupin the Third: Dragon of Doom <rel> intended public <tail> shōnen",
+            "out": "Lupin the Third: Dragon of Doom is intended for shōnen."
+        },
+        {
+            "in": "<head> Fallen <rel> author <tail> Kathleen George",
+            "out": "The novel Fallen was written by Kathleen George."
+        },
+        {
+            "in": "<head> Night of Truth <rel> collection <tail> Museum of Modern Art",
+            "out": "Night of Truth is part of the Museum of Modern Art."
+        },
+        {
+            "in": "<head> La puñalada <rel> lyrics by <tail> Celedonio Flores",
+            "out": "La puñalada is written by Celedonio Flores."
+        },
+        {
+            "in": "<head> Odusia <rel> used metre <tail> Saturnian",
+            "out": "Odusia uses the rhythmic structure of Saturnian."
+        },
+        {
+            "in": "<head> legislative body of South Dublin County Council <rel> number of constituencies <tail> 6",
+            "out": "The legislative body of South Dublin County Council's number of constituencies is 6."
+        },
+        {
+            "in": "<head> Maade substation <rel> voltage <tail> 110000",
+            "out": "Maade substation has a power voltage of 110000."
+        },
+        {
+            "in": "<head> Peruana <rel> replaced synonym <tail> Gnidiella Roewer",
+            "out": "Peruana was formerly known as Gnidiella Roewer."
+        },
+        {
+            "in": "<head> Jingzhou Yangtze River North Bridge <rel> longest span <tail> 500",
+            "out": "Jingzhou Yangtze River North Bridge has the longest span of 500."
+        },
+        {
+            "in": "<head> Ohrekreis <rel> capital <tail> Haldensleben",
+            "out": "The capital city of Ohrekreis is Haldensleben."
+        },
+        {
+            "in": "<head> 2020 Three Days of Bruges–De Panne <rel> cumulative elevation gain <tail> 236",
+            "out": "The 2020 Three Days of Bruges–De Panne had a cumulative elevation gain of 236."
+        },
+        {
+            "in": "<head> Aspect c++ <rel> manifestation of <tail> aspect-oriented programming",
+            "out": "AspectC++ is a manifestation of aspect-oriented programming."
+        },
+        {
+            "in": "<head> Sant'Andrea Catabarbara <rel> dedicated to <tail> Andrew the Apostle",
+            "out": "Sant'Andrea Catabarbara is dedicated to Andrew the Apostle."
+        },
+        {
+            "in": "<head> Kepler-207 b <rel> diameter <tail> 14700",
+            "out": "Kepler-207 b has a diameter of 14700."
+        },
+        {
+            "in": "<head> Peters Hill Limestone <rel> overlies <tail> unconformity",
+            "out": "Peters Hill Limestone lies over unconformity."
+        },
+        {
+            "in": "<head> Jay Ward <rel> member of <tail> Cincinnati Reds",
+            "out": "Jay Ward played for the Cincinnati Reds."
+        },
+        {
+            "in": "<head> Ullstämma vid motionsspår, outdoor gym <rel> maintained by Wiki project <tail> Project Outdoor Gyms",
+            "out": "Ullstämma vid motionsspår, outdoor gym is maintained by Project Outdoor Gyms."
+        },
+        {
+            "in": "<head> 2MASS J19331718+3931294 <rel> metallicity <tail> 0.221",
+            "out": "2MASS J19331718+3931294 has a metallicity of 0.221."
+        },
+        {
+            "in": "<head> Anton Matolka <rel> Telegram username <tail> motolkohelp",
+            "out": "The telegram username of Anton Matolka is motolkohelp."
+        },
+        {
+            "in": "<head> Optimal Post Tpa-Iv Monitoring in Ischemic Stroke <rel> minimum age <tail> 18",
+            "out": "18 is the minimal age for Optimal Post Tpa-Iv Monitoring in Ischemic Stroke."
+        },
+        {
+            "in": "<head> Estadio José Rafael Fello Meza Ivankovich <rel> maximum capacity <tail> 8831",
+            "out": "Estadio José Rafael Fello Meza Ivankovich has a maximum capacity of 8831."
+        },
+        {
+            "in": "<head> Rasmus Tiller <rel> Scandinavian middle family name <tail> Fossum",
+            "out": "Fossum is Rasmus Tiller's Scandinavian middle family name."
+        },
+        {
+            "in": "<head> Katarína Vlčková <rel> number of children <tail> 3",
+            "out": "Katarína Vlčková has 3 children."
+        },
+        {
+            "in": "<head> Air Force Award Cards: Holland, Sheldon - Holz, Henry <rel> start of covered period <tail> 1942",
+            "out": "The start of the covered period of Air Force Award Cards: Holland, Sheldon - Holz, Henry is 1942."
+        },
+        {
+            "in": "<head> Sam Carr <rel> place of death <tail> Canada",
+            "out": "Sam Carr died in Canada."
+        },
+        {
+            "in": "<head> Sumner Welles to Franklin D. Roosevelt <rel> addressee <tail> Franklin Delano Roosevelt",
+            "out": "Sumner Welles to Franklin D. Roosevelt was written to Franklin Delano Roosevelt."
+        },
+        {
+            "in": "<head> dutrowite <rel> space group <tail> space group R3m",
+            "out": "Dutrowite is part of the space group R3m."
+        },
+        {
+            "in": "<head> Noëlle van Lottum <rel> doubles record <tail> 139–148",
+            "out": "Noëlle van Lottum had a doubles record of 139–148."
+        },
+        {
+            "in": "<head> Russian Winter. Hoarfrost <rel> creator <tail> Nikolai Timkov",
+            "out": "Nikolai Timkov is the creator of Russian Winter. Hoarfrost."
+        },
+        {
+            "in": "<head> Kartepe <rel> urban population <tail> 82551",
+            "out": "Kartepe has an urban population of 82551."
+        },
+        {
+            "in": "<head> Lionel-Cinq-Mars Ecological Reserve <rel> IUCN protected areas category <tail> IUCN category Ia: Strict Nature Reserve",
+            "out": "Lionel-Cinq-Mars Ecological Reserve's IUCN protected areas category is IUCN category Ia: Strict Nature Reserve."
+        },
+        {
+            "in": "<head> Casa Bossa Nova <rel> beats per minute <tail> 116",
+            "out": "Casa Bossa Nova has a bpm of 116."
+        },
+        {
+            "in": "<head> Tumen River <rel> mouth of the watercourse <tail> Sea of Japan",
+            "out": "Tumen River drains into the Sea of Japan."
+        },
+        {
+            "in": "<head> Maurice Parkin <rel> highest break <tail> 93",
+            "out": "Maurice Parkin holds the record for the highest break at 93."
+        },
+        {
+            "in": "<head> Spirit Of Sydney <rel> gross tonnage <tail> 41483",
+            "out": "Spirit Of Sydney had a gross tonnage of 41483."
+        },
+        {
+            "in": "<head> NER Class Y <rel> service retirement <tail> 1957-12-01",
+            "out": "NER Class Y retired on 1957-12-01."
+        },
+        {
+            "in": "<head> Selene <rel> domain of saint or deity <tail> Moon",
+            "out": "Selene controls or protects the Moon."
+        },
+        {
+            "in": "<head> Joseph Horace Eaton <rel> allegiance <tail> United States of America",
+            "out": "Joseph Horace Eaton served in the army of the United States of America."
+        },
+        {
+            "in": "<head> Suzanne <rel> adapted by <tail> Fabrizio De André",
+            "out": "The song Suzanne was adapted by song writer Fabrizio De André."
+        },
+        {
+            "in": "<head> Sonic the Hedgehog <rel> IFCO rating <tail> PG",
+            "out": "Sonic the Hedgehog has an IFCO rating of PG."
+        },
+        {
+            "in": "<head> Bermuda national football team <rel> ranking <tail> 86",
+            "out": "Bermuda national football team is ranked 86."
+        },
+        {
+            "in": "<head> Valence House Museum <rel> Vimeo identifier <tail> valencehouse",
+            "out": "Valence House Museum's Vimeo identifier is valencehouse."
+        },
+        {
+            "in": "<head> Nontraditional Employment for Women <rel> donations <tail> 2057590",
+            "out": "Nontraditional Employment for Women received 2057590 in donations."
+        },
+        {
+            "in": "<head> Leader of Welsh Labour <rel> officeholder <tail> Mark Drakeford",
+            "out": "Mark Drakeford is the Leader of Welsh Labour."
+        },
+        {
+            "in": "<head> Gangeshwar Temple <rel> architectural style <tail> Jor-bangla",
+            "out": "Jor-bangla is an architectural style which can be seen in the Gangeshwar Temple."
+        },
+        {
+            "in": "<head> Gustave Ador <rel> place of origin <tail> Geneva",
+            "out": "Gustave Ador originates in Geneva."
+        },
+        {
+            "in": "<head> 2002-03 Cyprus Volleyball Division 2 <rel> promoted <tail> Olimpiada Neapolis VB",
+            "out": "Olimpiada Neapolis VB was promoted to 2002-03 Cyprus Volleyball Division 2."
+        },
+        {
+            "in": "<head> Free Software Foundation <rel> source of income <tail> donation",
+            "out": "Free Software Foundation accepts donations."
+        },
+        {
+            "in": "<head> Bronze Needle, Yale University Art Gallery, inv. 1938.2964 <rel> horizontal depth <tail> 0.25",
+            "out": "The horizontal depth of the Bronze Needle, Yale University Art Gallery, inv. 1938.2964 is 0.25."
+        },
+        {
+            "in": "<head> Duke Nukem universe <rel> fictional universe described in <tail> Duke Nukem: Manhattan Project",
+            "out": "Duke Nukem universe is a fictional universe in Duke Nukem: Manhattan Project."
+        },
+        {
+            "in": "<head> Cosmos 1853 <rel> SCN <tail> 18114",
+            "out": "The SCN of Cosmos 1853 is 18114."
+        },
+        {
+            "in": "<head> tunnel de Saint-Béat-Lez <rel> carries <tail> Route nationale 25",
+            "out": "Tunnel de Saint-Béat-Lez carries Route nationale 25."
+        },
+        {
+            "in": "<head> Steven Carrillo <rel> charge <tail> attempted murder",
+            "out": "Steven Carrillo was charged with attempted murder."
+        },
+        {
+            "in": "<head> Hayley Marie Norman <rel> eye color <tail> brown",
+            "out": "Hayley Marie Norman has brown eyes."
+        },
+        {
+            "in": "<head> Pinball, 1973 <rel> illustrator <tail> Maki Sasaki",
+            "out": "Maki Sasaki is the illustrator of the novel Pinball, 1973."
+        },
+        {
+            "in": "<head> Four Peasants Drinking and Smoking at an Inn <rel> location of creation <tail> Haarlem",
+            "out": "Four Peasants Drinking and Smoking at an Inn was created in Haarlem."
+        },
+        {
+            "in": "<head> Stephen Willats <rel> represented by <tail> Annie Gentils Gallery",
+            "out": "Stephen Willats was represented by the Annie Gentils Gallery."
+        },
+        {
+            "in": "<head> Grizzly <rel> screenwriter <tail> Harvey Flaxman",
+            "out": "Harvey Flaxman wrote the screenplay for Grizzly."
+        },
+        {
+            "in": "<head> Krzysztof Karwowski <rel> diplomatic mission sent <tail> Embassy of Poland, Rabat",
+            "out": "Krzysztof Karwowski was sent on a diplomatic mission to the Embassy of Poland, Rabat."
+        },
+        {
+            "in": "<head> NASDAQ <rel> regulated by <tail> Financial Industry Regulatory Authority",
+            "out": "The NASDAQ is regulated by the Financial Industry Regulatory Authority."
+        },
+        {
+            "in": "<head> phosphorus trichloride <rel> short-term exposure limit <tail> 3",
+            "out": "The short term exposure limit of phosphorus trichloride is 3."
+        },
+        {
+            "in": "<head> Adobe Image ready <rel> readable file format <tail> Graphics Interchange Format",
+            "out": "Adobe ImageReady can open and read Graphics Interchange Format."
+        },
+        {
+            "in": "<head> beagle <rel> litter size <tail> 5.5",
+            "out": "Beagle average litter size is 5.5."
+        },
+        {
+            "in": "<head> George Jay Gould Jr. <rel> sibling <tail> Jay Gould II",
+            "out": "George Jay Gould Jr. and Jay Gould II are siblings."
+        },
+        {
+            "in": "<head> Tsushima <rel> official symbol <tail> Chionanthus retusus",
+            "out": "Tsushima's official symbol is Chionanthus retusus."
+        },
+        {
+            "in": "<head> fallacy <rel> Dewey Decimal Classification <tail> 165",
+            "out": "Fallacy according to Dewey Decimal Classification is at 165."
+        },
+        {
+            "in": "<head> Kubo and the Two Strings <rel> INCAA film rating <tail> =+13",
+            "out": "Kubo and the Two Strings has a INCAA film rating of +13."
+        },
+        {
+            "in": "<head> 1948 Arab–Israeli War <rel> has effect <tail> 1948 Palestinian exodus",
+            "out": "1948 Arab–Israeli War has affected 1948 Palestinian exodus."
+        },
+        {
+            "in": "<head> m-toluidine <rel> vapor pressure <tail> 1",
+            "out": "The vapor pressure of m-toluidine is 1."
+        },
+        {
+            "in": "<head> Çifteler <rel> rural population <tail> 6662",
+            "out": "Çifteler has a rural population of 6662."
+        },
+        {
+            "in": "<head> 44th US Colored Infantry: Warren, Dennis <rel> access restriction status <tail> unrestricted access",
+            "out": "44th US Colored Infantry: Warren, Dennis has unrestricted access."
+        },
+        {
+            "in": "<head> Winchester Painter <rel> named by <tail> John Beazley",
+            "out": "John Beazley named the Winchester Painter."
+        },
+        {
+            "in": "<head> Xenoblade Chronicles <rel> publisher <tail> Nintendo",
+            "out": "Xenoblade Chronicles was published by Nintendo."
+        },
+        {
+            "in": "<head> Adams County <rel> FIPS 6-4 <tail> 42001",
+            "out": "42001 is the identifier of Adams County."
+        },
+        {
+            "in": "<head> GESTÃO.Org <rel> ISSN-L <tail> 1679-1827",
+            "out": "GESTÃO.Org's ISSN-L is 1679-1827."
+        },
+        {
+            "in": "<head> Stavros Niarchos Foundation Cultural Center <rel> taxon found at location <tail> Punica granatum",
+            "out": "Punica granatum was found at Stavros Niarchos Foundation Cultural Center."
+        },
+        {
+            "in": "<head> Onosma arenaria <rel> has fruit type <tail> nucule",
+            "out": "Onosma arenaria has a nucule fruit type."
+        },
+        {
+            "in": "<head> 2018 Wigan Metropolitan Borough Council election in Abram <rel> voting system <tail> first-past-the-post voting",
+            "out": "The 2018 Wigan Metropolitan Borough Council election in Abram used first-past-the-post voting."
+        },
+        {
+            "in": "<head> Third Merkel cabinet <rel> director / manager <tail> Angela Merkel",
+            "out": "The direct/manager of the Third Merkel cabinet is Angela Merkel."
+        },
+        {
+            "in": "<head> Bell Rock Lighthouse <rel> type of lens <tail> hyperradiant Fresnel lens",
+            "out": "The Bell Rock Lighthouse has a hyperradiant Fresnel lens."
+        },
+        {
+            "in": "<head> metre per square centisecond <rel> measured physical quantity <tail> acceleration",
+            "out": "Acceleration is measured in metre per square centisecond."
+        },
+        {
+            "in": "<head> Frýdlant v Čechách–Jindřichovice pod Smrkem railway line <rel> speed limit <tail> 50",
+            "out": "The Frýdlant v Čechách–Jindřichovice pod Smrkem railway line has a speed limit of 50."
+        },
+        {
+            "in": "<head> United States National Security Council <rel> board member <tail> Homeland Security Advisor",
+            "out": "The Homeland Security Advisor is a board member of the United States National Security Council."
+        },
+        {
+            "in": "<head> picropharmacolite <rel> crystal system <tail> triclinic crystal system",
+            "out": "Picropharmacolite is a mineral in the triclinic crystal system."
+        },
+        {
+            "in": "<head> Sportivo Italiano <rel> sport <tail> Association football",
+            "out": "Sportivo Italiano belongs to the Association football."
+        }
+    ]
+}

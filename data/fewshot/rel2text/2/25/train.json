@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "in": "<head> Persantine <rel> has active ingredient <tail> dipyridamole",
+            "out": "Dipyridamole is an active ingredient in Persantine."
+        },
+        {
+            "in": "<head> Zampone Modena <rel> product certification <tail> Indicazione geografica protetta",
+            "out": "Zampone Modena is certified by Indicazione geografica protetta."
+        },
+        {
+            "in": "<head> Santa Lucía <rel> continent <tail> South America",
+            "out": "Santa Lucía is in South America."
+        },
+        {
+            "in": "<head> Jonet Carswell <rel> ritual object <tail> Nasturtium officinale",
+            "out": "Jonet Carswell used Nasturtium officinale as a ritual object."
+        },
+        {
+            "in": "<head> Borgo Cisarino <rel> offers view on <tail> Bellagio",
+            "out": "Borgo Cisarino offers view on Bellagio."
+        },
+        {
+            "in": "<head> Mister World <rel> organizer <tail> Julia Morley",
+            "out": "Julia Morley is Mister World’s organizer."
+        },
+        {
+            "in": "<head> Littler Mendelson <rel> legal form <tail> Professional corporation",
+            "out": "Littler Mendelson is a Professional corporation."
+        },
+        {
+            "in": "<head> economy of Albania <rel> nominal GDP per capita <tail> 4537",
+            "out": "The economy of Albania produces a nominal GDP per capita of 4537."
+        },
+        {
+            "in": "<head> heparin <rel> pregnancy category <tail> Australian pregnancy category C",
+            "out": "The drug heparin is in Australian pregnancy category C."
+        },
+        {
+            "in": "<head> ngultrum <rel> central bank/issuer <tail> Royal Monetary Authority of Bhutan",
+            "out": "Ngultrum is issued by the Royal Monetary Authority of Bhutan."
+        },
+        {
+            "in": "<head> Alfred Bester <rel> superhuman feature or ability <tail> telepathy",
+            "out": "Alfred Bester has the ability of telepathy."
+        },
+        {
+            "in": "<head> 8724 Junkoehara <rel> orbital eccentricity <tail> 0.2047771",
+            "out": "The 8724 Junkoehara asteroid has an orbital eccentricity of 0.2047771."
+        },
+        {
+            "in": "<head> 2020 COVID-19 pandemic in Bahraich district <rel> number of cases <tail> 76",
+            "out": "2020 COVID-19 pandemic in Bahraich district case amount is down to 76."
+        },
+        {
+            "in": "<head> Win dVD <rel> developer <tail> Corel",
+            "out": "The developer of WinDVD is Corel."
+        },
+        {
+            "in": "<head> MTR <rel> railway traffic side <tail> left",
+            "out": "The MTR uses the left hand side direction."
+        },
+        {
+            "in": "<head> Shino Aburame <rel> wears <tail> sunglasses",
+            "out": "Shino Aburame wears sunglasses."
+        },
+        {
+            "in": "<head> Scale model of Tigre-Mn m 29 MG 24 <rel> exhibition history <tail> De la Gloire au Charles de Gaulle",
+            "out": "Scale model of Tigre-MnM 29 MG 24 was exhibited at De la Gloire au Charles de Gaulle."
+        },
+        {
+            "in": "<head> lesene <rel> does not have part <tail> capital",
+            "out": "A lesene does not have a capital."
+        },
+        {
+            "in": "<head> Dietrich Peltz <rel> military unit <tail> Sturzkampfgeschwader 77",
+            "out": "Dietrich Peltz served in Sturzkampfgeschwader 77."
+        },
+        {
+            "in": "<head> Annunciation Church <rel> appears in the heritage monument list <tail> list of cultural heritage monuments in Kolsky district",
+            "out": "Annunciation Church appears in the heritage monument list of cultural heritage monuments in Kolsky district."
+        },
+        {
+            "in": "<head> Rino <rel> narrative age <tail> 15",
+            "out": "Rino is 15 years old."
+        },
+        {
+            "in": "<head> Baton 4 <rel> column <tail> 141–142",
+            "out": "Baton 4 is in column 141–142."
+        },
+        {
+            "in": "<head> Ameli Haager <rel> sports discipline competed in <tail> speed climbing",
+            "out": "Ameli Haager does speed climbing."
+        },
+        {
+            "in": "<head> Paleoproterozoic <rel> end time <tail> 1600000000 BC",
+            "out": "Paleoproterozoic ended in 1600000000 BC."
+        },
+        {
+            "in": "<head> Konecchlumí <rel> time of earliest written record <tail> 1226",
+            "out": "Konecchlumí was first mentioned in books as early as 1226."
+        }
+    ]
+}

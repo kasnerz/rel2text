@@ -1,0 +1,204 @@
+{
+    "data": [
+        {
+            "in": "<head> GSC 00227-00148 <rel> companion of <tail> GSC 00227-00221",
+            "out": "GSC 00227-00148 is a companion of GSC 00227-00221."
+        },
+        {
+            "in": "<head> Valencian State-Valencian Sovereignity <rel> political ideology <tail> Valencian nationalism",
+            "out": "Valencian State-Valencian Sovereignity have an ideology of Valencian Nationalism."
+        },
+        {
+            "in": "<head> History: Reviews of New Books <rel> ISO 4 abbreviation <tail> Hist. Rev. New Books",
+            "out": "The ISO 4 abbreviation of History: Reviews of New Books is Hist. Rev. New Books."
+        },
+        {
+            "in": "<head> Brionnais-Charolais dialect <rel> dialect of <tail> French",
+            "out": "Brionnais-Charolais dialect is a dialect of French."
+        },
+        {
+            "in": "<head> mental representation <rel> studied by <tail> cognitive science",
+            "out": "Cognitive science studies mental representation."
+        },
+        {
+            "in": "<head> Catharina Boudewijnshof <rel> named after <tail> Katherina Boudewyns",
+            "out": "Catharina Boudewijnshof was named after Katherina Boudewyns."
+        },
+        {
+            "in": "<head> trial of Violat Leyis <rel> prosecutor <tail> Alexander Jaffry",
+            "out": "The prosecutor at the trial of Violat Leyis was called Alexander Jaffry."
+        },
+        {
+            "in": "<head> Summertime Blues <rel> recorded at studio or venue <tail> University of Leeds Refectory",
+            "out": "Summertime Blues was recorded at the University of Leeds Refectory."
+        },
+        {
+            "in": "<head> Villemarette <rel> attested in <tail> 2010 United States Census surname index",
+            "out": "Villemarette was attested in the 2010 United States Census surname index."
+        },
+        {
+            "in": "<head> Rawl Lewis <rel> bowling style <tail> leg spin",
+            "out": "The leg spin is Rawl Lewis' bowling style."
+        },
+        {
+            "in": "<head> Muscle Car 3: Illegal Street <rel> maximum number of players <tail> 1",
+            "out": "The maximum number of players in Muscle Car 3: Illegal Street is 1."
+        },
+        {
+            "in": "<head> Steyr WD 815.74 <rel> engine displacement <tail> 11.97",
+            "out": "The Steyr WD 815.74 engine has an engine displacement of 11.97."
+        },
+        {
+            "in": "<head> Emilíana Torrini <rel> patronym or matronym for this person <tail> Davíðsdóttir",
+            "out": "The patronym or matronym for Emilíana Torrini is Davíðsdóttir."
+        },
+        {
+            "in": "<head> Rickrolling <rel> different from <tail> Never Gonna Give You Up",
+            "out": "Rickrolling is different from Never Gonna Give You Up."
+        },
+        {
+            "in": "<head> Julian Geske <rel> title of chess person <tail> International Master",
+            "out": "Julian Geske is an International Master of Chess."
+        },
+        {
+            "in": "<head> Encyclopedic Lexicon. Volume XV, 1838 <rel> RSL scanned books identifier <tail> 01003822962",
+            "out": "01003822962 is the RSL book identifier for Encyclopedic Lexicon. Volume XV, 1838."
+        },
+        {
+            "in": "<head> Prosody <rel> protocol <tail> XMPP",
+            "out": "XMPP is the communications protocol used by Prosody."
+        },
+        {
+            "in": "<head> Bay genomics ES cell line LST012 <rel> parent cell line <tail> ES-E14TG2a",
+            "out": "BayGenomics ES cell line LST012 has the parent cell line ES-E14TG2a."
+        },
+        {
+            "in": "<head> Shubh Vivah <rel> number of seasons <tail> 1",
+            "out": "Shubh Vivah had 1 season."
+        },
+        {
+            "in": "<head> UCAC2 13676232 <rel> surface gravity <tail> 224",
+            "out": "The surface gravity of UCAC2 13676232 is 224."
+        },
+        {
+            "in": "<head> Osana Najimi <rel> narrative age <tail> 17",
+            "out": "Osana Najimi is 17."
+        },
+        {
+            "in": "<head> Idrettsgallaen <rel> month of the year <tail> January",
+            "out": "Idrettsgallaen takes place in January."
+        },
+        {
+            "in": "<head> 2008 AP129 <rel> albedo <tail> 0.07",
+            "out": "2008 AP129 has a reflection coefficient of 0.07."
+        },
+        {
+            "in": "<head> Iriomote Island <rel> taxon found at location <tail> Iriomote cat",
+            "out": "Iriomote Island is home to the Iriomote cat."
+        },
+        {
+            "in": "<head> Die Tüdelband <rel> inception <tail> 2009",
+            "out": "Die Tüdelband was established in 2009."
+        },
+        {
+            "in": "<head> New Taipei <rel> contains administrative territorial entity <tail> Zhonghe District",
+            "out": "Zhonghe District is a territory in New Taipei."
+        },
+        {
+            "in": "<head> Riells i Viabrea <rel> female population <tail> 2011",
+            "out": "The female population of Riells i Viabrea is 2011."
+        },
+        {
+            "in": "<head> Ibex Airlines <rel> airline hub <tail> Sendai Airport",
+            "out": "Sendai Airport acts as a hub for Ibex Airlines."
+        },
+        {
+            "in": "<head> Galvus <rel> has active ingredient <tail> vildagliptin",
+            "out": "Galvus' active ingredient is vildagliptin."
+        },
+        {
+            "in": "<head> Gymnopilus picreus <rel> mushroom ecological type <tail> saprotrophic nutrition",
+            "out": "Gymnopilus picreus feeds via saprotrophic nutrition."
+        },
+        {
+            "in": "<head> Armscor M1700 <rel> ammunition <tail> .17 HMR",
+            "out": "Armscor M1700 has .17 HMR ammunition."
+        },
+        {
+            "in": "<head> rhenium-189 <rel> binding energy <tail> 1504781.901",
+            "out": "The energy required to split rhenium-189 is 1504781.901."
+        },
+        {
+            "in": "<head> Nishiki <rel> official symbol <tail> Meadow Bunting",
+            "out": "Nishiki has the official symbol of the Meadow Bunting."
+        },
+        {
+            "in": "<head> Operation Flashpoint: Dragon Rising <rel> ESRB rating <tail> Mature 17+",
+            "out": "The video game Operation Flashpoint: Dragon Rising's rating is Mature 17+."
+        },
+        {
+            "in": "<head> sulfur trioxide <rel> decomposition point <tail> 22.45",
+            "out": "Sulfur trioxide's decomposition point is 22.45."
+        },
+        {
+            "in": "<head> IOS 8 <rel> copyright holder <tail> Apple Inc.",
+            "out": "IOS 8 is owned by Apple Inc."
+        },
+        {
+            "in": "<head> individual double-skin barrel drums <rel> Hornbostel-Sachs classification <tail> 211.222.1",
+            "out": "Individual double-skin barrel drums have a Hornbostel-Sachs classification of 211.222.1."
+        },
+        {
+            "in": "<head> National Wrestling Hall of Fame and Museum <rel> Wikidata property <tail> National Wrestling Hall of Fame University team ID",
+            "out": "The National Wrestling Hall of Fame University team ID is the Wikidata property of National Wrestling Hall of Fame and Museum."
+        },
+        {
+            "in": "<head> Delta 5000 <rel> rocket function <tail> Expendable launch system",
+            "out": "Delta 5000 is an Expendable launch system."
+        },
+        {
+            "in": "<head> Mering–Weilheim railway <rel> speed limit <tail> 120",
+            "out": "Mering–Weilheim railway has a speed limit of 120."
+        },
+        {
+            "in": "<head> Anantara Seminyak Bali <rel> number of rooms <tail> 60",
+            "out": "Anantara Seminyak Bali has 60 rooms."
+        },
+        {
+            "in": "<head> Robert Hamilton, Seigneur d'Aubigny <rel> mother <tail> Mary Stewart",
+            "out": "Robert Hamilton, Seigneur d'Aubigny's mother is Mary Stewart."
+        },
+        {
+            "in": "<head> Inner West Light Rail <rel> train depot <tail> Pyrmont",
+            "out": "The train depot of Inner West Light Rail is in Pyrmont."
+        },
+        {
+            "in": "<head> Ishq Subhan Allah <rel> number of episodes <tail> 0",
+            "out": "The show Ishq Subhan Allah had 0 episodes."
+        },
+        {
+            "in": "<head> Collide <rel> EIRIN film rating <tail> G",
+            "out": "Collide was rated G in the Japanese film rating system."
+        },
+        {
+            "in": "<head> Hyangchal <rel> time of discovery or invention <tail> 1100",
+            "out": "Hyangchal was invented in 1100."
+        },
+        {
+            "in": "<head> Angel Has Fallen <rel> IFCO rating <tail> 15A",
+            "out": "The IFCO rating of Angel Has Fallen is 15A."
+        },
+        {
+            "in": "<head> Suwon Station <rel> daily patronage <tail> 115043",
+            "out": "Suwon Station is used daily by 115043 people."
+        },
+        {
+            "in": "<head> STS-98 <rel> orbits completed <tail> 203",
+            "out": "STS-98 has completed 203 orbits."
+        },
+        {
+            "in": "<head> The Fisher Boy <rel> material <tail> Oil paint",
+            "out": "The Fisher Boy was created using Oil paint."
+        }
+    ]
+}

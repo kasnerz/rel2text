@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "in": "<head> Ek Packet Umeed <rel> original language of film or TV show <tail> Hindi",
+            "out": "Ek Packet Umeed is a television series that was originally performed in the Hindi Language."
+        },
+        {
+            "in": "<head> Valeria Ansoleaga <rel> sports competition competed at <tail> 2020 Winter Youth Olympics",
+            "out": "Valeria Ansoleaga competed at the 2020 Winter Youth Olympics."
+        },
+        {
+            "in": "<head> rhenium oxide <rel> standard enthalpy of formation <tail> -1128",
+            "out": "Rhenium oxide has the standard enthalpy of formation of -1128."
+        },
+        {
+            "in": "<head> COVID-19 pandemic in the city of Bebedouro <rel> case fatality rate <tail> 0",
+            "out": "0 people died from the COVID-19 pandemic in the city of Bebedouro."
+        },
+        {
+            "in": "<head> Raffaello <rel> given name version for other gender <tail> Raffaella",
+            "out": "Raffaello is the male version of the name Raffaella."
+        },
+        {
+            "in": "<head> Concordia University St. Paul <rel> employees <tail> 581",
+            "out": "Concordia University St. Paul has 581 employees."
+        },
+        {
+            "in": "<head> Treaty of Novgorod <rel> signatory <tail> Norway",
+            "out": "The Treaty of Novgorod was signed by Norway."
+        },
+        {
+            "in": "<head> Quake II engine <rel> license <tail> GNU General Public License",
+            "out": "Quake II engine is part of the GNU General Public License."
+        },
+        {
+            "in": "<head> Killing of Muhammad al-Durrah <rel> instance of <tail> death",
+            "out": "The Killing of Muhammad al-Durrah is an instance of death."
+        },
+        {
+            "in": "<head> Bruce Ravel <rel> Git hub username <tail> bruceravel",
+            "out": "The Git hub username of Bruce Ravel is bruceravel."
+        },
+        {
+            "in": "<head> Leonardo's fighting vehicle <rel> discoverer or inventor <tail> Leonardo da Vinci",
+            "out": "Leonardo's fighting vehicle was invented by Leonardo da Vinci."
+        },
+        {
+            "in": "<head> Embouchure de la Riviere Caxoera <rel> latest date <tail> 1835",
+            "out": "Embouchure de la Riviere Caxoera was completed in 1835."
+        },
+        {
+            "in": "<head> subtilisin <rel> short-term exposure limit <tail> 0.00006",
+            "out": "The short-term exposure limit for subtilisin is 0.00006."
+        },
+        {
+            "in": "<head> Kedra <rel> mouth of the watercourse <tail> Kichmenga",
+            "out": "Kedra drains into Kichmenga."
+        },
+        {
+            "in": "<head> Wilcox Public Library <rel> visitors per year <tail> 3000",
+            "out": "Wilcox Public Library had 3000 visitors each year."
+        },
+        {
+            "in": "<head> Thaana <rel> script directionality <tail> right-to-left",
+            "out": "Thaana is read right-to-left."
+        },
+        {
+            "in": "<head> Hadrian's Gate <rel> culture <tail> Roman Empire",
+            "out": "Hadrian's Gate was built by the Roman Empire."
+        },
+        {
+            "in": "<head> Place de la Loge <rel> named after <tail> Loge de mer",
+            "out": "Place de la Loge is named after Loge de mer."
+        },
+        {
+            "in": "<head> Rolls-Royce Eagle <rel> coolant <tail> liquid",
+            "out": "Rolls-Royce Eagle uses a coolant liquid."
+        },
+        {
+            "in": "<head> R-36M <rel> guidance system <tail> inertial navigation system",
+            "out": "R-36M is guided by inertial navigation system."
+        },
+        {
+            "in": "<head> Powstanie Warszawskie w ilustracji - wydanie specjalne <rel> printed by <tail> RSW Prasa",
+            "out": "Powstanie Warszawskie w ilustracji - wydanie specjalne was printed by RSW Prasa."
+        },
+        {
+            "in": "<head> Conservation Physiology <rel> academic discipline <tail> Ecology",
+            "out": "Conservation Physiology is part of the field of Ecology."
+        },
+        {
+            "in": "<head> KPS tram trailers series 50–51 <rel> total produced <tail> 2",
+            "out": "A total of 2 KPS tram trailers series 50–51 were produced."
+        },
+        {
+            "in": "<head> The ubiquity of optimal spectral gaps <rel> principal investigator <tail> Michael S Magee",
+            "out": "Michael S Magee is the principal investigator of the ubiquity of optimal spectral gaps."
+        },
+        {
+            "in": "<head> Green Pug <rel> host <tail> Pyrus",
+            "out": "The Green Pug resides in the Pyrus."
+        }
+    ]
+}

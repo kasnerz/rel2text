@@ -1,0 +1,2468 @@
+{
+    "data": [
+        {
+            "in": "<head> Chiltern Firehouse <rel_desc> The cuisine of the restaurant. <tail> American cuisine",
+            "out": "The Chiltern Firehouse serves American cuisine."
+        },
+        {
+            "in": "<head> Hof van Cleve <rel_desc> The cuisine of the restaurant. <tail> French cuisine",
+            "out": "Hof van Cleve serves French cuisine."
+        },
+        {
+            "in": "<head> Lucy's Cafe <rel_desc> The cuisine of the restaurant. <tail> Italian cuisine",
+            "out": "Lucy's Cafe sells Italian cuisine."
+        },
+        {
+            "in": "<head> Sushi of Gari <rel_desc> The cuisine of the restaurant. <tail> Japanese cuisine",
+            "out": "Sushi of Gari cooks Japanese cuisine."
+        },
+        {
+            "in": "<head> MV American Integrity <rel_desc> A callsign, as used in broadcasting and radio communications to identify people, radio and TV stations, or vehicles. <tail> WDD2875",
+            "out": "MV American Integrity has a call sign of WDD2875."
+        },
+        {
+            "in": "<head> MS Nordlys <rel_desc> A callsign, as used in broadcasting and radio communications to identify people, radio and TV stations, or vehicles. <tail> LHCW",
+            "out": "MS Nordlys's call sign is LHCW."
+        },
+        {
+            "in": "<head> Pallada <rel_desc> A callsign, as used in broadcasting and radio communications to identify people, radio and TV stations, or vehicles. <tail> UDUI",
+            "out": "UDUI is the call sign of Pallada."
+        },
+        {
+            "in": "<head> Aquarius <rel_desc> A callsign, as used in broadcasting and radio communications to identify people, radio and TV stations, or vehicles. <tail> ZGGD3",
+            "out": "ZGGD3 is the call sign for the Aquarius."
+        },
+        {
+            "in": "<head> MV Hansa Brandenburg <rel_desc> A callsign, as used in broadcasting and radio communications to identify people, radio and TV stations, or vehicles. <tail> A8ES9",
+            "out": "The call sign of MV Hansa Brandenburg is A8ES9."
+        },
+        {
+            "in": "<head> Irish Car Rentals <rel_desc> An associated logo. <tail> ICR-logo.jpg",
+            "out": "Irish Car Rentals logo is ICR-logo.jpg."
+        },
+        {
+            "in": "<head> Bank of Mexico <rel_desc> An associated logo. <tail> Logobm.svg",
+            "out": "The Bank of Mexico logo is Logobm.svg."
+        },
+        {
+            "in": "<head> Numa F. Montet <rel_desc> An organization that the person is an alumni of. <tail> Northwestern State University",
+            "out": "Numa F. Montet graduated from Northwestern State University."
+        },
+        {
+            "in": "<head> Francis Scarpaleggia <rel_desc> An organization that the person is an alumni of. <tail> Concordia University",
+            "out": "Francis Scarpaleggia is an alumni of Concordia University."
+        },
+        {
+            "in": "<head> Alan Bible <rel_desc> An organization that the person is an alumni of. <tail> Georgetown University Law Center",
+            "out": "Alan Bible is an alumni of Georgetown University Law Center."
+        },
+        {
+            "in": "<head> Esther Armah <rel_desc> Organizations that the person works for. <tail> Kwesi Armah",
+            "out": "Esther Armah works for Kwesi Armah."
+        },
+        {
+            "in": "<head> Adam de Wodeham <rel_desc> Organizations that the person works for. <tail> William of Ockham",
+            "out": "Adam de Wodeham is employed by William of Ockham."
+        },
+        {
+            "in": "<head> Charles Canivet <rel_desc> Organizations that the person works for. <tail> Amédée Thierry",
+            "out": "Charles Canivet works for Amédée Thierry."
+        },
+        {
+            "in": "<head> Packed in a Trunk: The Lost Art of Edith Lake Wilkinson <rel_desc> The composer of the soundtrack. <tail> Danielle Ate the Sandwich",
+            "out": "Danielle Ate the Sandwich wrote the music for Packed in a Trunk: The Lost Art of Edith Lake Wilkinson."
+        },
+        {
+            "in": "<head> Tales of Symphonia <rel_desc> The composer of the soundtrack. <tail> Motoi Sakuraba",
+            "out": "The music for the game Tales of Symphonia was composed by Motoi Sakuraba."
+        },
+        {
+            "in": "<head> My Scientology Movie <rel_desc> The composer of the soundtrack. <tail> Dan Jones",
+            "out": "Dan Jones composed the soundtrack for My Scientology Movie."
+        },
+        {
+            "in": "<head> Commando <rel_desc> An actor, e.g. in tv, radio, movie, video games etc., or in an event. <tail> Leo Anchóriz",
+            "out": "Leo Anchóriz acted in the film 'Commando'."
+        },
+        {
+            "in": "<head> Sleeping Acres <rel_desc> An actor, e.g. in tv, radio, movie, video games etc., or in an event. <tail> Snowy Baker",
+            "out": "Snowy Baker starred in Sleeping Acres."
+        },
+        {
+            "in": "<head> Professor Dowell's Testament <rel_desc> An actor, e.g. in tv, radio, movie, video games etc., or in an event. <tail> Natalya Sayko",
+            "out": "Professor Dowell's Testament starred Natalya Sayko."
+        },
+        {
+            "in": "<head> The Stool Pigeon <rel_desc> An actor, e.g. in tv, radio, movie, video games etc., or in an event. <tail> Nicholas Tse",
+            "out": "The Stool Pigeon was an actor in Nicholas Tse."
+        },
+        {
+            "in": "<head> Spot Blue International Property <rel_desc> The Dun  Bradstreet DUNS number for identifying an organization or business person. <tail> 736032835",
+            "out": "Spot Blue International Property's duns number is 736032835."
+        },
+        {
+            "in": "<head> Co bank <rel_desc> The Dun  Bradstreet DUNS number for identifying an organization or business person. <tail> 075770271",
+            "out": "CoBank's DUNS number is 075770271."
+        },
+        {
+            "in": "<head> Deutsche Presse-Agentur <rel_desc> The Dun  Bradstreet DUNS number for identifying an organization or business person. <tail> 316842400",
+            "out": "Deutsche Presse-Agentur has DUNS number 316842400."
+        },
+        {
+            "in": "<head> Robert Karabinchak <rel_desc> An image of the item. <tail> Rob karabinchak.jpg",
+            "out": "Robert Karabinchak is pictured in the image RobKarabinchak.jpg."
+        },
+        {
+            "in": "<head> Salbutamol <rel_desc> The drug or supplements legal status, including any controlled substance schedules that apply. <tail> Prescription drug",
+            "out": "The legal status of Salbutamol is a prescription drug."
+        },
+        {
+            "in": "<head> Bendroflumethiazide <rel_desc> The drug or supplements legal status, including any controlled substance schedules that apply. <tail> Prescription drug",
+            "out": "Bendroflumethiazide is a Prescription drug."
+        },
+        {
+            "in": "<head> Insulin aspart <rel_desc> The drug or supplements legal status, including any controlled substance schedules that apply. <tail> Prescription drug",
+            "out": "Insulin aspart has been approved as a prescription drug."
+        },
+        {
+            "in": "<head> Minuscule 850 <rel_desc> The language of the content or performance or used in an action. <tail> Ancient Greek",
+            "out": "Minuscule 850 is a language concept in Ancient Greek."
+        },
+        {
+            "in": "<head> Millicent Min, Girl Genius <rel_desc> The language of the content or performance or used in an action. <tail> English language",
+            "out": "Millicent Min, Girl Genius is written in the English language."
+        },
+        {
+            "in": "<head> The Way of the Sufi <rel_desc> The language of the content or performance or used in an action. <tail> English language",
+            "out": "The Way of the Sufi is written in the English language."
+        },
+        {
+            "in": "<head> Another Fine Myth <rel_desc> The language of the content or performance or used in an action. <tail> English language",
+            "out": "Another Fine Myth was written in the English language."
+        },
+        {
+            "in": "<head> Angiotensin-converting enzyme <rel_desc> Biological process this Bio chem entity is involved in; please use Property value if you want to include any evidence. <tail> Kidney development",
+            "out": "Angiotensin-converting enzyme is involved in biological process for Kidney development."
+        },
+        {
+            "in": "<head> MX1 <rel_desc> Biological process this Bio chem entity is involved in; please use Property value if you want to include any evidence. <tail> Innate immune system",
+            "out": "MX1 is involved in the innate immune system."
+        },
+        {
+            "in": "<head> LYN <rel_desc> Biological process this Bio chem entity is involved in; please use Property value if you want to include any evidence. <tail> Haematopoiesis",
+            "out": "LYN is involved in Haematopoiesis."
+        },
+        {
+            "in": "<head> LRRK2 <rel_desc> Biological process this Bio chem entity is involved in; please use Property value if you want to include any evidence. <tail> Autophagy",
+            "out": "LRRK2 is a part of the process called Autophagy."
+        },
+        {
+            "in": "<head> 2011 Challenge Bell <rel_desc> An event that this event is a part of. <tail> 2011 WTA Tour",
+            "out": "2011 WTA Tour is a super event of 2011 Challenge Bell."
+        },
+        {
+            "in": "<head> Billings Gazette <rel_desc> The International Standard Serial Number (ISSN) that identifies this serial publication. <tail> 2372-868X",
+            "out": "Billings Gazette is identified under 2372-868X."
+        },
+        {
+            "in": "<head> Nelson Daily News <rel_desc> The International Standard Serial Number (ISSN) that identifies this serial publication. <tail> 0832-431X",
+            "out": "Nelson Daily News has a ISSN of 0832-431X."
+        },
+        {
+            "in": "<head> Zuerst! <rel_desc> The International Standard Serial Number (ISSN) that identifies this serial publication. <tail> 1869-5493",
+            "out": "The ISSN of Zuerst! is 1869-5493."
+        },
+        {
+            "in": "<head> La Croix <rel_desc> The International Standard Serial Number (ISSN) that identifies this serial publication. <tail> 0242-6056",
+            "out": "The issn of La Croix is 0242-6056."
+        },
+        {
+            "in": "<head> Vetus Latina <rel_desc> A creative work that this work is an example/instance/realization/derivation of. <tail> Bible",
+            "out": "Vetus Latina is an example of work from the Bible."
+        },
+        {
+            "in": "<head> Tales from Shakespeare <rel_desc> The subject matter of the content. <tail> The Taming of the Shrew",
+            "out": "Tales from Shakespeare is about The Taming of the Shrew."
+        },
+        {
+            "in": "<head> Two Dogmas of Empiricism <rel_desc> The subject matter of the content. <tail> Logical positivism",
+            "out": "Two Dogmas of Empiricism was an article about Logical positivism."
+        },
+        {
+            "in": "<head> Best Shot in the West <rel_desc> The subject matter of the content. <tail> Children's literature",
+            "out": "Best Shot in the West is about Children's literature."
+        },
+        {
+            "in": "<head> Aditus to mastoid antrum <rel_desc> Other anatomical structures to which this structure is connected. <tail> Tympanic cavity",
+            "out": "Aditus to mastoid antrum is connected to the Tympanic cavity."
+        },
+        {
+            "in": "<head> Ureter <rel_desc> Other anatomical structures to which this structure is connected. <tail> Renal pelvis",
+            "out": "Ureter is connected to the Renal pelvis."
+        },
+        {
+            "in": "<head> Outer ear <rel_desc> Other anatomical structures to which this structure is connected. <tail> Middle ear",
+            "out": "The Outer ear is connected to the Middle ear."
+        },
+        {
+            "in": "<head> Right atrium <rel_desc> Other anatomical structures to which this structure is connected. <tail> Right ventricle",
+            "out": "The right atrium is connected to the right ventricle."
+        },
+        {
+            "in": "<head> A Christmas Carol <rel_desc> Example/instance/realization/derivation of the concept of this creative work. <tail> A Klingon Christmas Carol",
+            "out": "One version of A Christmas Carol is A Klingon Christmas Carol."
+        },
+        {
+            "in": "<head> Province of Catanzaro <rel_desc> The basic containment relation between a place and another that it contains. <tail> Martirano",
+            "out": "Martirano is in the Province of Catanzaro."
+        },
+        {
+            "in": "<head> Kranenburg, North Rhine-Westphalia <rel_desc> The basic containment relation between a place and another that it contains. <tail> Frasselt",
+            "out": "Kranenburg, North Rhine-Westphalia contains Frasselt."
+        },
+        {
+            "in": "<head> Alto Mijares <rel_desc> The basic containment relation between a place and another that it contains. <tail> Fuentes de Ayódar",
+            "out": "Alto Mijares has a place called Fuentes de Ayódar."
+        },
+        {
+            "in": "<head> Department of Huancavelica <rel_desc> The basic containment relation between a place and another that it contains. <tail> Angaraes Province",
+            "out": "The Angaraes Province is located in the Department of Huancavelica."
+        },
+        {
+            "in": "<head> The Age of Entitlement <rel_desc> The artist that performed this album or recording. <tail> The Basics",
+            "out": "The Age of Entitlement is by The Basics."
+        },
+        {
+            "in": "<head> Sugarless <rel_desc> The artist that performed this album or recording. <tail> Swami",
+            "out": "Sugarless is an album by Swami."
+        },
+        {
+            "in": "<head> Angle of Entry <rel_desc> The artist that performed this album or recording. <tail> The Mutton Birds",
+            "out": "The Mutton Birds was the artist of Angle of Entry."
+        },
+        {
+            "in": "<head> Simba <rel_desc> A secondary contributor to the Creative work or Event. <tail> James Baxter",
+            "out": "James Baxter contributed to the design of Simba."
+        },
+        {
+            "in": "<head> Ogura Hyakunin Isshu <rel_desc> A secondary contributor to the Creative work or Event. <tail> Ryōzen",
+            "out": "Ogura Hyakunin Isshu was written by Ryōzen."
+        },
+        {
+            "in": "<head> King Louie <rel_desc> A secondary contributor to the Creative work or Event. <tail> Milt Kahl",
+            "out": "King Louie was drawn by Milt Kahl."
+        },
+        {
+            "in": "<head> Ginkai <rel_desc> A secondary contributor to the Creative work or Event. <tail> Hiroshi Murakami",
+            "out": "Hiroshi Murakami was a contributor to Ginkai."
+        },
+        {
+            "in": "<head> Ogura Hyakunin Isshu <rel_desc> A secondary contributor to the Creative work or Event. <tail> Inpumon'in no Tayū",
+            "out": "Inpumon'in no Tayū was a contributor to the Ogura Hyakunin Isshu."
+        },
+        {
+            "in": "<head> Last Wedding <rel_desc> The location depicted or described in the content. <tail> Vancouver",
+            "out": "Last Wedding is set in Vancouver."
+        },
+        {
+            "in": "<head> Canción de Juventud <rel_desc> The location depicted or described in the content. <tail> Catalonia",
+            "out": "Canción de Juventud is depicted in Catalonia."
+        },
+        {
+            "in": "<head> Count Arthur Strong <rel_desc> The location depicted or described in the content. <tail> London",
+            "out": "Count Arthur Strong was filmed in London."
+        },
+        {
+            "in": "<head> Claudia Octavia <rel_desc> A parent of this person. <tail> Claudius",
+            "out": "Claudius is the parent of Claudia Octavia."
+        },
+        {
+            "in": "<head> Testosterone sulfate <rel_desc> A specification in form of a line notation for describing the structure of chemical species using short ASCII strings. <tail> CC12CCC3CCCC34C",
+            "out": "CC12CCC3CCCC34C is a line notation that describes Testosterone sulfate."
+        },
+        {
+            "in": "<head> GNLY <rel_desc> Another Bio chem entity encoded by this one. <tail> Granulysin",
+            "out": "GNLY encodes Granulysin."
+        },
+        {
+            "in": "<head> Phosphatidylethanolamine binding protein 1 <rel_desc> Another Bio chem entity encoded by this one. <tail> Raf kinase inhibitor protein",
+            "out": "Phosphatidylethanolamine binding protein 1 encodes Raf kinase inhibitor protein."
+        },
+        {
+            "in": "<head> CDKN2A <rel_desc> Another Bio chem entity encoded by this one. <tail> P16",
+            "out": "The gene CDKN2A encodes the protein P16."
+        },
+        {
+            "in": "<head> Crohn's disease <rel_desc> A sign or symptom of this condition. <tail> Abdominal pain",
+            "out": "Crohn's disease has symptoms of Abdominal pain."
+        },
+        {
+            "in": "<head> Stereotypic movement disorder <rel_desc> A sign or symptom of this condition. <tail> Stereotypy",
+            "out": "Stereotypic movement disorder is a symptom of stereotypy."
+        },
+        {
+            "in": "<head> Plague <rel_desc> A sign or symptom of this condition. <tail> Shock",
+            "out": "Plague leads to shock."
+        },
+        {
+            "in": "<head> Intracranial aneurysm <rel_desc> A sign or symptom of this condition. <tail> Confusion",
+            "out": "Intracranial aneurysm can cause Confusion."
+        },
+        {
+            "in": "<head> Joseph E. Meyer <rel_desc> A contact location for a persons residence. <tail> Meyer's Castle",
+            "out": "Joseph E. Meyer lives at Meyer's Castle."
+        },
+        {
+            "in": "<head> Michael Paul Britto <rel_desc> A contact location for a persons residence. <tail> New York City",
+            "out": "Michael Paul Britto lives in New York City."
+        },
+        {
+            "in": "<head> Kent Smetters <rel_desc> A contact location for a persons residence. <tail> Philadelphia",
+            "out": "Kent Smetters resides in Philadelphia."
+        },
+        {
+            "in": "<head> Lucius E. Burch Jr. <rel_desc> A contact location for a persons residence. <tail> Collierville, Tennessee",
+            "out": "Lucius E. Burch Jr. lives in Collierville, Tennessee."
+        },
+        {
+            "in": "<head> Dorit Schmiel <rel_desc> A contact location for a persons residence. <tail> Pankow",
+            "out": "Dorit Schmiel lived in Pankow."
+        },
+        {
+            "in": "<head> Torpoint Community College <rel_desc> The telephone number. <tail> =+44-1752-812511",
+            "out": "The telephone number for Torpoint Community College is +44-1752-812511."
+        },
+        {
+            "in": "<head> Knowl Hill School <rel_desc> The telephone number. <tail> =+44-1483-797032",
+            "out": "Thee telephone number for Knowl Hill School is +44-1483-797032."
+        },
+        {
+            "in": "<head> Quarrydale Academy <rel_desc> The telephone number. <tail> =+44-1623-554178",
+            "out": "Quarrydale Academy’s phone number is +44-1623-554178."
+        },
+        {
+            "in": "<head> Resolute Forest Products <rel_desc> A relationship between two organizations where the first includes the second, e.g., as a subsidiary. <tail> Abitibi-Consolidated",
+            "out": "Resolute Forest Products is a subsidiary of Abitibi-Consolidated."
+        },
+        {
+            "in": "<head> Commonwealth of Nations <rel_desc> A relationship between two organizations where the first includes the second, e.g., as a subsidiary. <tail> Commonwealth War Graves Commission",
+            "out": "Commonwealth of Nations is a sub-organisation of The Commonwealth War Graves Commission."
+        },
+        {
+            "in": "<head> Department of Canadian Heritage <rel_desc> A relationship between two organizations where the first includes the second, e.g., as a subsidiary. <tail> Library and Archives Canada",
+            "out": "Department of Canadian Heritage is a sub organisation of the Library and Archives Canada."
+        },
+        {
+            "in": "<head> Bell Canada <rel_desc> A relationship between two organizations where the first includes the second, e.g., as a subsidiary. <tail> Télébec",
+            "out": "Bell Canada is a sub organization of Télébec."
+        },
+        {
+            "in": "<head> East Central Railway zone <rel_desc> A relationship between two organizations where the first includes the second, e.g., as a subsidiary. <tail> Dhanbad railway division",
+            "out": "East Central Railway zone owns the Dhanbad railway division."
+        },
+        {
+            "in": "<head> Aromatase <rel_desc> Another Bio chem entity encoding by this one. <tail> Cytochrome p450 family 19 subfamily a member 1",
+            "out": "Aromatase is encoded by Cytochrome p450 family 19 subfamily a member 1."
+        },
+        {
+            "in": "<head> Alpha-amylase <rel_desc> Another Bio chem entity encoding by this one. <tail> AMY1C",
+            "out": "Alpha-amylase is biochemically encoded by AMY1C."
+        },
+        {
+            "in": "<head> ST2 cardiac biomarker <rel_desc> Another Bio chem entity encoding by this one. <tail> IL1RL1",
+            "out": "ST2 cardiac biomarker is coded as IL1RL1."
+        },
+        {
+            "in": "<head> 2018 Tour of Norway <rel_desc> A competitor in a sports event. <tail> Sergey Lagutin",
+            "out": "Sergey Lagutin competed in the 2018 Tour of Norway."
+        },
+        {
+            "in": "<head> Joseph Charles Walsh <rel_desc> Of a [[Person]], and less typically of an [[Organization]], to indicate a known language. <tail> English language",
+            "out": "Joseph Charles Walsh speaks the English language."
+        },
+        {
+            "in": "<head> Marisa Ferretti Barth <rel_desc> Of a [[Person]], and less typically of an [[Organization]], to indicate a known language. <tail> English language",
+            "out": "Marisa Ferretti Barth understands the English language."
+        },
+        {
+            "in": "<head> Empedocles <rel_desc> Of a [[Person]], and less typically of an [[Organization]], to indicate a known language. <tail> Ancient Greek",
+            "out": "Empedocles knows the Ancient Greek language."
+        },
+        {
+            "in": "<head> Maria Iovleva <rel_desc> Of a [[Person]], and less typically of an [[Organization]], to indicate a known language. <tail> Russian language",
+            "out": "Maria Iovleva speaks fluently a Russian language."
+        },
+        {
+            "in": "<head> Isaac Halstead Williamson <rel_desc> Of a [[Person]], and less typically of an [[Organization]], to indicate a known language. <tail> English language",
+            "out": "Isaac Halstead Williamson speaks the English language."
+        },
+        {
+            "in": "<head> Acetylcholinesterase <rel_desc> Subcellular location where this Bio chem entity is located; please use Property value if you want to include any evidence. <tail> Basal lamina",
+            "out": "Acetylcholinesterase is located in the Basal lamina."
+        },
+        {
+            "in": "<head> Basigin <rel_desc> Subcellular location where this Bio chem entity is located; please use Property value if you want to include any evidence. <tail> Cell membrane",
+            "out": "Basigin is located in the Cell membrane."
+        },
+        {
+            "in": "<head> Galactose-1-phosphate uridylyltransferase <rel_desc> Subcellular location where this Bio chem entity is located; please use Property value if you want to include any evidence. <tail> Cytoplasm",
+            "out": "Galactose-1-phosphate uridylyltransferase is located in the Cytoplasm of a cell."
+        },
+        {
+            "in": "<head> SOX1 <rel_desc> Subcellular location where this Bio chem entity is located; please use Property value if you want to include any evidence. <tail> Cell nucleus",
+            "out": "SOX1 can be found in the Cell nucleus."
+        },
+        {
+            "in": "<head> Pilot <rel_desc> The series to which this episode or season belongs. <tail> Faking It",
+            "out": "Pilot is part of the series Faking It."
+        },
+        {
+            "in": "<head> The Fight Before Christmas <rel_desc> The series to which this episode or season belongs. <tail> The Simpsons",
+            "out": "The Fight Before Christmas was an episode of The Simpsons."
+        },
+        {
+            "in": "<head> The Ascent <rel_desc> The series to which this episode or season belongs. <tail> Star Trek: Deep Space Nine",
+            "out": "The Ascent is part of the series of Star Trek: Deep Space Nine."
+        },
+        {
+            "in": "<head> M3U <rel_desc> Media type typically expressed using a MIME format (see [IANA site](http://www.iana.org/assignments/media-types/media-types.xhtml) and [MDN reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics of HTTP/MIME types)) e.g. application/zip for a <tail> x-mpegurl",
+            "out": "M3U is a type x-mpegurl encoding."
+        },
+        {
+            "in": "<head> View of Bentheim Castle <rel_desc> The location where the Creative work was created, which may not be the same as the location depicted in the Creative work. <tail> Haarlem",
+            "out": "View of Bentheim Castle was from Haarlem."
+        },
+        {
+            "in": "<head> Teodelapio <rel_desc> The location where the Creative work was created, which may not be the same as the location depicted in the Creative work. <tail> Spoleto",
+            "out": "Teodelapio originates from Spoleto."
+        },
+        {
+            "in": "<head> Landscape at Auvers in the Rain <rel_desc> The location where the Creative work was created, which may not be the same as the location depicted in the Creative work. <tail> Auvers-sur-Oise",
+            "out": "The Landscape at Auvers in the Rain was created in Auvers-sur-Oise."
+        },
+        {
+            "in": "<head> Still Life with Profile of Laval <rel_desc> The location where the Creative work was created, which may not be the same as the location depicted in the Creative work. <tail> Pont-Aven",
+            "out": "Still Life with Profile of Laval was created at Pont-Aven."
+        },
+        {
+            "in": "<head> Moerkerke <rel_desc> The basic containment relation between a place and one that contains it. <tail> Damme",
+            "out": "Moerkerke is in Damme."
+        },
+        {
+            "in": "<head> Borden, Western Australia <rel_desc> The basic containment relation between a place and one that contains it. <tail> Division of O'Connor",
+            "out": "Borden, Western Australia is a town in the Division of O'Connor."
+        },
+        {
+            "in": "<head> Lang Chánh District <rel_desc> The basic containment relation between a place and one that contains it. <tail> Thanh Hóa Province",
+            "out": "Lang Chánh District is in Thanh Hóa Province."
+        },
+        {
+            "in": "<head> Punta Prieta Airstrip <rel_desc> The basic containment relation between a place and one that contains it. <tail> Baja California",
+            "out": "Punta Prieta Airstrip can be found in Baja California."
+        },
+        {
+            "in": "<head> Tony Maylam <rel_desc> The Persons occupation. <tail> Screenwriter",
+            "out": "Tony Maylam is a Screenwriter."
+        },
+        {
+            "in": "<head> Roy Wang <rel_desc> The Persons occupation. <tail> Singer-songwriter",
+            "out": "Roy Wang is a Singer-songwriter."
+        },
+        {
+            "in": "<head> Franco Perinciolo <rel_desc> The Persons occupation. <tail> Football player",
+            "out": "Franco Perinciolo is a famous Argentinian Football player."
+        },
+        {
+            "in": "<head> All Things at Once <rel_desc> The ISBN of the book. <tail> 978-1-60286-111-4",
+            "out": "The ISBN of the book All Things at Once is 978-1-60286-111-4."
+        },
+        {
+            "in": "<head> Asterix and the Chieftain's Shield <rel_desc> The ISBN of the book. <tail> 2-01210-143-7",
+            "out": "The ISBN number of Asterix and the Chieftain's Shield is 2-01210-143-7."
+        },
+        {
+            "in": "<head> Team Batista no Eikō <rel_desc> The ISBN of the book. <tail> 978-4-7966-5079-3",
+            "out": "Team Batista no Eikō has the ISBN of 978-4-7966-5079-3."
+        },
+        {
+            "in": "<head> Some Prefer Nettles <rel_desc> The ISBN of the book. <tail> 978-4-12-203556-0",
+            "out": "The isbn of the novel Some Prefer Nettles is 978-4-12-203556-0."
+        },
+        {
+            "in": "<head> Asterix and the Goths <rel_desc> The ISBN of the book. <tail> 978-2-01210-135-7",
+            "out": "The isbn of Asterix and the Goths is 978-2-01210-135-7."
+        },
+        {
+            "in": "<head> Hinaleimoana Wong-Kalu <rel_desc> Gender of something, typically a [[Person]], but possibly also fictional characters, animals, etc. <tail> Māhū",
+            "out": "Hinaleimoana Wong-Kalu's gender was Māhū."
+        },
+        {
+            "in": "<head> John the Orphanotrophos <rel_desc> Gender of something, typically a [[Person]], but possibly also fictional characters, animals, etc. <tail> Eunuch",
+            "out": "John the Orphanotrophos was a Eunuch."
+        },
+        {
+            "in": "<head> Invincible <rel_desc> Gender of something, typically a [[Person]], but possibly also fictional characters, animals, etc. <tail> Non-binary gender",
+            "out": "Invincible has adopted a Non-binary gender."
+        },
+        {
+            "in": "<head> John Sartorius <rel_desc> A child of the person. <tail> Francis Sartorius",
+            "out": "Francis Sartorius is the child of John Sartorius."
+        },
+        {
+            "in": "<head> George Hearst <rel_desc> A child of the person. <tail> William Randolph Hearst",
+            "out": "William Randolph Hearst is the child of George Hearst."
+        },
+        {
+            "in": "<head> Jean-Baptiste Vuillaume <rel_desc> Products owned by the organization or person. <tail> Lauterbach Stradivarius",
+            "out": "Jean-Baptiste Vuillaume is the owner of a Lauterbach Stradivarius."
+        },
+        {
+            "in": "<head> Jacqueline Kennedy Onassis <rel_desc> Products owned by the organization or person. <tail> Wedding dress of Jacqueline Bouvier",
+            "out": "Jacqueline Kennedy Onassis owns the Wedding dress of Jacqueline Bouvier."
+        },
+        {
+            "in": "<head> Qaboos bin Said <rel_desc> Products owned by the organization or person. <tail> Al Said",
+            "out": "Qaboos bin Said is the owner of Al Said."
+        },
+        {
+            "in": "<head> Cobra Verde <rel_desc> A resource from which this work is derived or from which it is a modification or adaption. <tail> The Viceroy of Ouidah",
+            "out": "Cobra Verde is based on The Viceroy of Ouidah."
+        },
+        {
+            "in": "<head> Book of Exodus <rel_desc> Fictional person connected with a creative work. <tail> Amalek",
+            "out": "Amalek was a character in Book of Exodus."
+        },
+        {
+            "in": "<head> Nights of Farewell <rel_desc> Fictional person connected with a creative work. <tail> Marius Petipa",
+            "out": "Marius Petipa appears in Nights of Farewell."
+        },
+        {
+            "in": "<head> Black Hippy <rel_desc> The place where the Organization was founded. <tail> South Los Angeles",
+            "out": "Black Hippy were founded in South Los Angeles."
+        },
+        {
+            "in": "<head> Boøwy <rel_desc> The place where the Organization was founded. <tail> Takasaki",
+            "out": "Boøwy was founded in Takasaki."
+        },
+        {
+            "in": "<head> Camellia Factory <rel_desc> The place where the Organization was founded. <tail> Tokyo",
+            "out": "Camellia Factory was founded in Tokyo."
+        },
+        {
+            "in": "<head> Lone Signal <rel_desc> The place where the Organization was founded. <tail> New York City",
+            "out": "Lone Signal was founded in New York City."
+        },
+        {
+            "in": "<head> Crazy Lixx <rel_desc> The place where the Organization was founded. <tail> Malmö",
+            "out": "Crazy Lixx was formed in Malmö."
+        },
+        {
+            "in": "<head> The Imperialism of Free Trade <rel_desc> Any description of pages that is not separated into page start and page end; for example, 1-6, 9, 55 or 10-12, 46-49. <tail> 1-15",
+            "out": "The Imperialism of Free Trade can be found on pages 1-15."
+        },
+        {
+            "in": "<head> BRAF <rel_desc> Tissue, organ, biological sample, etc in which activity of this gene has been observed experimentally. <tail> Stomach",
+            "out": "BRAF is expressed in the Stomach."
+        },
+        {
+            "in": "<head> ISCU <rel_desc> Molecular function performed by this Bio chem entity; please use Property value if you want to include any evidence. <tail> Plasma protein binding",
+            "out": "The molecular function of ISCU is Plasma protein binding."
+        },
+        {
+            "in": "<head> HLA-G <rel_desc> Molecular function performed by this Bio chem entity; please use Property value if you want to include any evidence. <tail> Plasma protein binding",
+            "out": "The molecular function of HLA-G is Plasma protein binding."
+        },
+        {
+            "in": "<head> GRIA1 <rel_desc> Molecular function performed by this Bio chem entity; please use Property value if you want to include any evidence. <tail> Plasma protein binding",
+            "out": "Plasma protein binding has molecular function GRIA1."
+        },
+        {
+            "in": "<head> Welcome to the Jungle <rel_desc> The person who wrote the words. <tail> Slash",
+            "out": "Welcome to the Jungle was written by Slash."
+        },
+        {
+            "in": "<head> Day by Day <rel_desc> The person who wrote the words. <tail> Lina Sandell",
+            "out": "Day by Day was written by Lina Sandell."
+        },
+        {
+            "in": "<head> Norwegian Wood <rel_desc> The person who wrote the words. <tail> Paul Mc cartney",
+            "out": "Norwegian Wood was written by Paul McCartney."
+        },
+        {
+            "in": "<head> Hen with Sapphire Pendant <rel_desc> The service provider, service operator, or service performer; the goods producer. <tail> House of Fabergé",
+            "out": "House of Fabergé provided the Hen with Sapphire Pendant."
+        },
+        {
+            "in": "<head> Mastermind <rel_desc> The service provider, service operator, or service performer; the goods producer. <tail> Parker Brothers",
+            "out": "Parker Brothers is the service provider of Mastermind."
+        },
+        {
+            "in": "<head> 1Q84 <rel_desc> A citation or reference to another creative work, such as another publication, web page, scholarly article, etc. <tail> The Metamorphosis",
+            "out": "1Q84 referenced The Metamorphosis."
+        },
+        {
+            "in": "<head> Send in Stewie, Please <rel_desc> The season to which this episode belongs. <tail> Family Guy",
+            "out": "Send in Stewie, Please was part of a season of Family Guy."
+        },
+        {
+            "in": "<head> Albatross <rel_desc> The season to which this episode belongs. <tail> Star Trek: The Animated Series",
+            "out": "Albatross is featured in Star Trek: The Animated Series."
+        },
+        {
+            "in": "<head> Elegy for a Pig <rel_desc> The season to which this episode belongs. <tail> Adam-12",
+            "out": "Elegy for a Pig is an episode from Adam-12."
+        },
+        {
+            "in": "<head> Irinotecan <rel_desc> A Bio chem entity that is known to interact with this item. <tail> Nelfinavir",
+            "out": "Irinotecan interacts with Nelfinavir."
+        },
+        {
+            "in": "<head> Domperidone <rel_desc> A Bio chem entity that is known to interact with this item. <tail> Clarithromycin",
+            "out": "Domperidone interacts with Clarithromycin."
+        },
+        {
+            "in": "<head> Transposition of the great vessels <rel_desc> Different from e medicine subject, which see <tail> 2548",
+            "out": "Transposition of the great vessels is mentioned in e medicine under topic 2548."
+        },
+        {
+            "in": "<head> COVID-19 in Australia <rel_desc> Number of active cases in a pandemic <tail> 25318",
+            "out": "There are 25318 active cases of COVID-19 in Australia."
+        },
+        {
+            "in": "<head> COVID-19 pandemic in the Australian Capital Territory <rel_desc> Number of active cases in a pandemic <tail> 495",
+            "out": "COVID-19 pandemic in the Australian Capital Territory has 495 infections."
+        },
+        {
+            "in": "<head> Eluru outbreak <rel_desc> Number of active cases in a pandemic <tail> 0",
+            "out": "Eluru outbreak has 0 active cases."
+        },
+        {
+            "in": "<head> COVID-19 pandemic in Newfoundland and Labrador <rel_desc> Number of active cases in a pandemic <tail> 22",
+            "out": "There are 22 active cases of COVID-19 pandemic in Newfoundland and Labrador."
+        },
+        {
+            "in": "<head> Swiss Personalized Health Network <rel_desc> The total budget of the research project. <tail> 6.8E7",
+            "out": "Swiss Personalized Health Network has a projected budget total of 6.8E7."
+        },
+        {
+            "in": "<head> WACOM <rel_desc> The total budget of the research project. <tail> 380000.0",
+            "out": "WACOM’s total project budget is 380000.0."
+        },
+        {
+            "in": "<head> Innovative Medicines Initiative <rel_desc> The total budget of the research project. <tail> 2.0E9",
+            "out": "Innovative Medicines Initiative has a total project budget of 2.0E9."
+        },
+        {
+            "in": "<head> Candesartan <rel_desc> The rate and extent to which the active ingredient or active moiety is absorbed from a drug product and becomes available at the site of action. <tail> 15.0",
+            "out": "The bioavailability of Candesartan is 15.0."
+        },
+        {
+            "in": "<head> Promethazine <rel_desc> The rate and extent to which the active ingredient or active moiety is absorbed from a drug product and becomes available at the site of action. <tail> 88.0",
+            "out": "Promethazine's bioavailability is 88.0."
+        },
+        {
+            "in": "<head> Saint Mary's University of Minnesota <rel_desc> number of faculty members <tail> 96",
+            "out": "Saint Mary's University of Minnesota has 96 faculty members."
+        },
+        {
+            "in": "<head> British Quarterly Review <rel_desc> Year of the final publication. <tail> 1886",
+            "out": "British Quarterly Review was last published in 1886."
+        },
+        {
+            "in": "<head> Child Language Teaching and Therapy <rel_desc> Year of the final publication. <tail> -1985",
+            "out": "Child Language Teaching and Therapy ceased publication in -1985."
+        },
+        {
+            "in": "<head> Goonyella railway line <rel_desc> Length of the line. <tail> 477000.0",
+            "out": "Goonyella railway line has a total line length spanning 477000.0."
+        },
+        {
+            "in": "<head> Chikuhi Line <rel_desc> Length of the line. <tail> 42600.0",
+            "out": "Chikuhi Line has line length of 42600.0."
+        },
+        {
+            "in": "<head> Blue line <rel_desc> Length of the line. <tail> 24800.0",
+            "out": "Blue line has a line length of 24800.0."
+        },
+        {
+            "in": "<head> Tokyo Metro Marunouchi Line <rel_desc> Length of the line. <tail> 27400.0",
+            "out": "Tokyo Metro Marunouchi Line is 27400.0 in length."
+        },
+        {
+            "in": "<head> Husemersee <rel_desc> Source of the value can be declare by . <tail> 14.3",
+            "out": "14.3 is the maximum depth of Husemersee."
+        },
+        {
+            "in": "<head> Limassol Salt Lake <rel_desc> Source of the value can be declare by . <tail> 1.0",
+            "out": "Limassol Salt Lake has a maximum depth of 1.0m."
+        },
+        {
+            "in": "<head> Kenas Lake <rel_desc> Source of the value can be declare by . <tail> 188.5",
+            "out": "Kenas Lake has a maximum depth of 188.5."
+        },
+        {
+            "in": "<head> Dieksee <rel_desc> Source of the value can be declare by . <tail> 38.0",
+            "out": "Dieksee is 38.0 in depth."
+        },
+        {
+            "in": "<head> Halbendorfer See <rel_desc> Source of the value can be declare by . <tail> 26.0",
+            "out": "Halbendorfer See has a depth of 26.0."
+        },
+        {
+            "in": "<head> Littler Mendelson <rel_desc> Number of lawyers or attorneys in the company. <tail> 1500",
+            "out": "The firm Littler Mendelson has 1500 lawyers."
+        },
+        {
+            "in": "<head> Taft Stettinius & Hollister <rel_desc> Number of lawyers or attorneys in the company. <tail> 625",
+            "out": "The number of lawyers at Taft Stettinius & Hollister is 625."
+        },
+        {
+            "in": "<head> Rose Law Firm <rel_desc> Number of lawyers or attorneys in the company. <tail> 34",
+            "out": "Rose Law Firm has 34 lawyers."
+        },
+        {
+            "in": "<head> Line 2 <rel_desc> Number of stations or stops. <tail> 23",
+            "out": "Line 2 has 23 stations along its route."
+        },
+        {
+            "in": "<head> Newark Light Rail <rel_desc> Number of stations or stops. <tail> 17",
+            "out": "Newark Light Rail has 17 stations."
+        },
+        {
+            "in": "<head> Shelbourne railway line <rel_desc> Number of stations or stops. <tail> 2",
+            "out": "Shelbourne railway line includes 2 railway stations."
+        },
+        {
+            "in": "<head> Falcon 9 <rel_desc> number of launches with unknown outcomes (or in progress) <tail> 1",
+            "out": "Falcon 9 has been launched 1 time with unknown outcome."
+        },
+        {
+            "in": "<head> New Shepard <rel_desc> number of launches with unknown outcomes (or in progress) <tail> 0",
+            "out": "New Shepard has 0 unknown outcomes."
+        },
+        {
+            "in": "<head> Carnero Lake <rel_desc> Source of the value can be declare by . <tail> 1.8288",
+            "out": "Carnero Lake has an average depth of 1.8288."
+        },
+        {
+            "in": "<head> Lake Musconetcong <rel_desc> Source of the value can be declare by . <tail> 1.524",
+            "out": "Lake Musconetcong is 1.524 deep."
+        },
+        {
+            "in": "<head> Chaparral Lake <rel_desc> Source of the value can be declare by . <tail> 3.048",
+            "out": "Chaparral Lake has an average depth of 3.048."
+        },
+        {
+            "in": "<head> Shawano Lake <rel_desc> Source of the value can be declare by . <tail> 2.7432",
+            "out": "Shawano Lake has an average depth of 2.7432."
+        },
+        {
+            "in": "<head> Confederate cush <rel_desc> Complexity of preparing a Food (recipe) <tail> 2",
+            "out": "Confederate cush has a complexity of 2."
+        },
+        {
+            "in": "<head> Mămăligă <rel_desc> Complexity of preparing a Food (recipe) <tail> 1",
+            "out": "Mămăligă is rated in complexity as 1."
+        },
+        {
+            "in": "<head> Abdollah Nouri <rel_desc> number of votes the office holder attained <tail> 448874",
+            "out": "Abdollah Nouri received the election majority with 448874 votes."
+        },
+        {
+            "in": "<head> Abolghasem Khazali <rel_desc> number of votes the office holder attained <tail> 107311",
+            "out": "The election majority was 107311 for Abolghasem Khazali."
+        },
+        {
+            "in": "<head> Mohammad Khoshchehreh <rel_desc> number of votes the office holder attained <tail> 578674",
+            "out": "Mohammad Khoshchehreh won with a majority of 578674."
+        },
+        {
+            "in": "<head> Ali Fallahian <rel_desc> number of votes the office holder attained <tail> 386767",
+            "out": "Ali Fallahian had a election majority of 386767."
+        },
+        {
+            "in": "<head> Greg Bowen <rel_desc> GND (Gemeinsame Normdatei) is an international authority file for the organisation of personal names, subject headings and corporate bodies from catalogues. <tail> 320322793",
+            "out": "Greg Bowen has an individualized gnd of 320322793."
+        },
+        {
+            "in": "<head> PNP transistor <rel_desc> GND (Gemeinsame Normdatei) is an international authority file for the organisation of personal names, subject headings and corporate bodies from catalogues. <tail> 4174948-0",
+            "out": "A PNP transistor has an individualised gnd of 4174948-0."
+        },
+        {
+            "in": "<head> Karl Pommerhanz <rel_desc> GND (Gemeinsame Normdatei) is an international authority file for the organisation of personal names, subject headings and corporate bodies from catalogues. <tail> 126961069",
+            "out": "The file number for Karl Pommerhanz's GND is 126961069."
+        },
+        {
+            "in": "<head> CPR Bridge <rel_desc> Number of piers standing in a river or other water in normal conditions. <tail> 7",
+            "out": "The CPR Bridge has 7 piers in the water."
+        },
+        {
+            "in": "<head> Tees Newport Bridge <rel_desc> Number of piers standing in a river or other water in normal conditions. <tail> 2",
+            "out": "Tees Newport Bridge's number of piers in the water is 2."
+        },
+        {
+            "in": "<head> Flehe Bridge <rel_desc> Number of piers standing in a river or other water in normal conditions. <tail> 1",
+            "out": "Flehe Bridge has 1 pier in the water."
+        },
+        {
+            "in": "<head> METRORail <rel_desc> Number of vehicles used in the transit system. <tail> 39",
+            "out": "METRORail has 39 vehicles."
+        },
+        {
+            "in": "<head> Light Rail Transit <rel_desc> Number of vehicles used in the transit system. <tail> 89",
+            "out": "Light Rail Transit uses 89 vehicles."
+        },
+        {
+            "in": "<head> Pamplona City Transport <rel_desc> Number of vehicles used in the transit system. <tail> 34",
+            "out": "Pamplona City Transport has 34 vehicles."
+        },
+        {
+            "in": "<head> Iskandar Malaysia Bus Rapid Transit <rel_desc> Number of vehicles used in the transit system. <tail> 18",
+            "out": "Iskandar Malaysia Bus Rapid Transit uses 18 vehicles."
+        },
+        {
+            "in": "<head> Booker T. Washington National Monument <rel_desc> The year in which number of visitors occurred. <tail> 2012",
+            "out": "Booker T. Washington National Monument has had so many visitors as of 2012."
+        },
+        {
+            "in": "<head> Arlington House, The Robert E. Lee Memorial <rel_desc> The year in which number of visitors occurred. <tail> 2011",
+            "out": "Arlington House, The Robert E. Lee Memorial drew visitors since 2011."
+        },
+        {
+            "in": "<head> Kolkata Metro <rel_desc> Voltage of the electrification system. <tail> 750.0",
+            "out": "The electrification voltage of Kolkata Metro is 750.0."
+        },
+        {
+            "in": "<head> Prague Metro <rel_desc> Voltage of the electrification system. <tail> 750.0",
+            "out": "Prague Metro has a voltage equal to 750.0."
+        },
+        {
+            "in": "<head> Berlin U-Bahn <rel_desc> Voltage of the electrification system. <tail> 750.0",
+            "out": "Berlin U-Bahn runs on a voltage of 750.0."
+        },
+        {
+            "in": "<head> Strained yogurt <rel_desc> Approximate calories per serving. <tail> 557000.0",
+            "out": "Strained yogurt contains approximately 557000.0 calories per serving."
+        },
+        {
+            "in": "<head> Pogača <rel_desc> Approximate calories per serving. <tail> 820613.0",
+            "out": "Pogača has approximately 820613.0 calories."
+        },
+        {
+            "in": "<head> Diffused lighting camouflage <rel_desc> A key word of the project. <tail> Active camouflage",
+            "out": "Active camouflage is the project keyword for Diffused lighting camouflage."
+        },
+        {
+            "in": "<head> Prob onto <rel_desc> A key word of the project. <tail> Statistics,Probability distribution",
+            "out": "ProbOnto is a project keyword for Statistics,Probability distribution."
+        },
+        {
+            "in": "<head> Earth Bio genome Project <rel_desc> The start date of the project. <tail> 2018-11-01",
+            "out": "The Earth BioGenome Project began on 2018-11-01."
+        },
+        {
+            "in": "<head> Project Vista <rel_desc> The start date of the project. <tail> 1951-04-01",
+            "out": "Project Vista began on 1951-04-01."
+        },
+        {
+            "in": "<head> Research Domain Criteria <rel_desc> The start date of the project. <tail> 2010-01-28",
+            "out": "The start date of the Research Domain Criteria is 2010-01-28."
+        },
+        {
+            "in": "<head> Chevert expedition <rel_desc> The start date of the project. <tail> 1875-05-18",
+            "out": "The Chevert expedition began on 1875-05-18."
+        },
+        {
+            "in": "<head> Ray Reardon <rel_desc> can be one or several years <tail> 1978",
+            "out": "Ray Reardon was the world champion in 1978."
+        },
+        {
+            "in": "<head> St. Thomas Aquinas High School <rel_desc> most recent average ACT scores <tail> ACT",
+            "out": "St. Thomas Aquinas High School has an ACT score."
+        },
+        {
+            "in": "<head> Persian blue <rel_desc> A meaning of a word or phrase that is suggested or implied, as opposed to a denotation, or literal meaning. <tail> Heaven",
+            "out": "Persian blue connotes Heaven."
+        },
+        {
+            "in": "<head> Nepenthes 'Vittata' <rel_desc> Name of the cultivar (cultivated variety) <tail> Bruce Lee Bednar",
+            "out": "Bruce Lee Bednar is a cultivated variety of Nepenthes 'Vittata'."
+        },
+        {
+            "in": "<head> Emergency medicine <rel_desc> Points out the subject or thing someone or something is focused on. <tail> Acute",
+            "out": "Emergency medicine is largely focused on Acute illness."
+        },
+        {
+            "in": "<head> Anesthesiology <rel_desc> Points out the subject or thing someone or something is focused on. <tail> Anesthesia",
+            "out": "Anesthesiology is the study and use of Anesthesia."
+        },
+        {
+            "in": "<head> TREAT-NMD <rel_desc> A organisation financing the research project. <tail> European Commission",
+            "out": "TREAT-NMD is funded by the European Commission."
+        },
+        {
+            "in": "<head> Song dynasty <rel_desc> The nominal gross domestic product of a country per capita. <tail> 26.5",
+            "out": "During the Song dynasty the nation's per capita GDP was 26.5."
+        },
+        {
+            "in": "<head> Oat milk <rel_desc> Indicates a Foods effect on a persons blood glucose (blood sugar) level. <tail> 60",
+            "out": "Oat milk has a glycemic index of 60."
+        },
+        {
+            "in": "<head> Outer Ring Road System <rel_desc> A map of the place. <tail> Singapores Expressways",
+            "out": "The Outer Ring Road System is shown on the map of Singapores Expressways."
+        },
+        {
+            "in": "<head> Primary interatrial foramen <rel_desc> the organ system that a anatomical structure belongs to <tail> Circulatory system",
+            "out": "Primary interatrial foramen is part of the Circulatory system."
+        },
+        {
+            "in": "<head> Sex cords <rel_desc> the organ system that a anatomical structure belongs to <tail> Reproductive system",
+            "out": "Sex cords is part of the Reproductive system."
+        },
+        {
+            "in": "<head> Project Vista <rel_desc> The end date of the project. <tail> 1951-12-01",
+            "out": "On 1951-12-01 Project Vista ended."
+        },
+        {
+            "in": "<head> INDECT <rel_desc> The end date of the project. <tail> 2014-06-30",
+            "out": "INDECT ended 2014-06-30."
+        },
+        {
+            "in": "<head> Whiteout <rel_desc> Usually used with release date, particularly for Films. <tail> Japan",
+            "out": "Whiteout was released in Japan."
+        },
+        {
+            "in": "<head> General Motors W platform <rel_desc> vehicle that uses a specific automobile platform <tail> Oldsmobile Intrigue",
+            "out": "General Motors W platform is used for the Oldsmobile Intrigue."
+        },
+        {
+            "in": "<head> General Motors Epsilon platform <rel_desc> vehicle that uses a specific automobile platform <tail> Cadillac XTS",
+            "out": "Cadillac XTS is one of the cars under the General Motors Epsilon platform."
+        },
+        {
+            "in": "<head> Drancy internment camp <rel_desc> Specific (eg notable) person, or specific class of people (eg Romani) that are victim of a Concentration camp, Criminal, Serial killer, or some other atrocity <tail> Eduard Bloch",
+            "out": "Drancy internment camp had victims which included Eduard Bloch."
+        },
+        {
+            "in": "<head> Westerbork transit camp <rel_desc> Specific (eg notable) person, or specific class of people (eg Romani) that are victim of a Concentration camp, Criminal, Serial killer, or some other atrocity <tail> Selma Engel-Wijnberg",
+            "out": "Selma Engel-Wijnberg was a victim of Westerbork transit camp."
+        },
+        {
+            "in": "<head> Drancy internment camp <rel_desc> Specific (eg notable) person, or specific class of people (eg Romani) that are victim of a Concentration camp, Criminal, Serial killer, or some other atrocity <tail> Tristan Bernard",
+            "out": "Tristan Bernard was a victim at Drancy internment camp."
+        },
+        {
+            "in": "<head> Foulridge Tunnel <rel_desc> Waterway that goes through the tunnel. <tail> Leeds and Liverpool Canal",
+            "out": "The Foulridge Tunnel is part of the Leeds and Liverpool Canal."
+        },
+        {
+            "in": "<head> Riqueval Tunnel <rel_desc> Waterway that goes through the tunnel. <tail> Canal de Saint-Quentin",
+            "out": "The Canal de Saint-Quentin flows through the Riqueval Tunnel."
+        },
+        {
+            "in": "<head> Queen's Square, Sydney <rel_desc> A building, organisation or other thing that is located in the road. <tail> Phillip Street, Sydney",
+            "out": "Queen's Square, Sydney can be reached by traveling down Phillip Street, Sydney."
+        },
+        {
+            "in": "<head> Aberdeen Street <rel_desc> A building, organisation or other thing that is located in the road. <tail> Central, Hong Kong",
+            "out": "Aberdeen Street is in Central, Hong Kong."
+        },
+        {
+            "in": "<head> Gallivan Center <rel_desc> A building, organisation or other thing that is located in the road. <tail> Salt Lake City",
+            "out": "Gallivan Center is in Salt Lake City."
+        },
+        {
+            "in": "<head> Khatik Mohalla Street <rel_desc> A building, organisation or other thing that is located in the road. <tail> Shahpura, Bhilwara",
+            "out": "Khatik Mohalla Street resides at Shahpura, Bhilwara."
+        },
+        {
+            "in": "<head> Souq Qabil <rel_desc> A building, organisation or other thing that is located in the road. <tail> Saudi Arabia",
+            "out": "Souq Qabil is found in Saudi Arabia."
+        },
+        {
+            "in": "<head> Bethlehem High School <rel_desc> Religious denomination of a church, religious school, etc. <tail> Catholic Church",
+            "out": "Bethlehem High School is run by the Catholic Church."
+        },
+        {
+            "in": "<head> Legacy Christian Academy <rel_desc> Religious denomination of a church, religious school, etc. <tail> Non-denominational",
+            "out": "Legacy Christian Academy is Non-denominational."
+        },
+        {
+            "in": "<head> Jicarilla Mountains <rel_desc> The highest mountain of a mountain range. <tail> Ancho Peak",
+            "out": "Ancho Peak is the highest of the Jicarilla Mountains."
+        },
+        {
+            "in": "<head> Croda da Lago <rel_desc> The highest mountain of a mountain range. <tail> Cima d'Ambrizzola",
+            "out": "Croda da Lago is the highest mountain in the region of Cima d'Ambrizzola."
+        },
+        {
+            "in": "<head> Cang Mountain <rel_desc> The highest mountain of a mountain range. <tail> Malong",
+            "out": "The highest mountain in Cang Mountain is Malong."
+        },
+        {
+            "in": "<head> Kalatungan Mountain Range <rel_desc> The highest mountain of a mountain range. <tail> Mount Kalatungan",
+            "out": "Mount Kalatungan is the highest mountain in the Kalatungan Mountain Range."
+        },
+        {
+            "in": "<head> Christina Koch <rel_desc> when (or in which project) the person was selected to train as an astronaut <tail> NASA Astronaut Group 21",
+            "out": "Christina Koch was chosen to train in the NASA Astronaut Group 21."
+        },
+        {
+            "in": "<head> Yousra Matine <rel_desc> The country, for which the athlete is participating in championships <tail> Morocco",
+            "out": "Yousra Matine represents Morocco in sport."
+        },
+        {
+            "in": "<head> Zhou Yuelong <rel_desc> The country, for which the athlete is participating in championships <tail> China",
+            "out": "Zhou Yuelong plays sport for China."
+        },
+        {
+            "in": "<head> Hiriko <rel_desc> Points out the battery used with/in a thing. <tail> Lithium-ion battery",
+            "out": "Hiriko uses a Lithium-ion battery."
+        },
+        {
+            "in": "<head> Nissan Kicks P15 1 <rel_desc> Points out the battery used with/in a thing. <tail> Panasonic",
+            "out": "Nissan Kicks P15 1 requires a Panasonic battery."
+        },
+        {
+            "in": "<head> Audi Q5 Second generation 80A 1 <rel_desc> Points out the battery used with/in a thing. <tail> Lithium-ion battery",
+            "out": "Audi Q5 Second generation 80A 1 is powered by Lithium-ion battery."
+        },
+        {
+            "in": "<head> Mercury Theatre, Colchester <rel_desc> The current production running in the theatre. <tail> Educating Rita",
+            "out": "Educating Rita is currently showing at the Mercury Theatre, Colchester."
+        },
+        {
+            "in": "<head> Apollo Theatre <rel_desc> The current production running in the theatre. <tail> Magic Goes Wrong",
+            "out": "Magic Goes Wrong is currently running at the Apollo Theatre."
+        },
+        {
+            "in": "<head> Palace Theatre, London <rel_desc> The current production running in the theatre. <tail> Harry Potter and the Cursed Child",
+            "out": "Harry Potter and the Cursed Child is currently being performed at the Palace Theatre, London."
+        },
+        {
+            "in": "<head> Fergus O'Brien Tenure 1 <rel_desc> head of government of Ireland <tail> Garret Fitz gerald",
+            "out": "Garret FitzGerald was taoiseach during Fergus O'Brien Tenure 1."
+        },
+        {
+            "in": "<head> Sir John Kothalawala College <rel_desc> Age range of students admitted in a School, Military unit, etc <tail> 6",
+            "out": "Sir John Kothalawala College students typically starts at the age of 6 years old."
+        },
+        {
+            "in": "<head> Lao People's Armed Forces <rel_desc> Age range of students admitted in a School, Military unit, etc <tail> 18",
+            "out": "The age of the Lao People's Armed Forces begins at 18."
+        },
+        {
+            "in": "<head> Andy Johnson <rel_desc> For NBA players, the text between the last slash and .html in the URL of the players basketball-reference.com profile (linked at http://www.basketball-reference.com/players/). <tail> johnsan01",
+            "out": "Andy Johnson is known as johnsan01."
+        },
+        {
+            "in": "<head> Bob Hopkins Bob Hopkins 1 <rel_desc> For NBA players, the text between the last slash and .html in the URL of the players basketball-reference.com profile (linked at http://www.basketball-reference.com/players/). <tail> hopkibo01",
+            "out": "Bob Hopkins Bob Hopkins 1 web reference is hopkibo01."
+        },
+        {
+            "in": "<head> Tom Workman <rel_desc> For NBA players, the text between the last slash and .html in the URL of the players basketball-reference.com profile (linked at http://www.basketball-reference.com/players/). <tail> workmto01",
+            "out": "Tom Workman's bbr is workmto01."
+        },
+        {
+            "in": "<head> Stanley Brundy <rel_desc> For NBA players, the text between the last slash and .html in the URL of the players basketball-reference.com profile (linked at http://www.basketball-reference.com/players/). <tail> brundst01",
+            "out": "Stanley Brundy is shortened to brundst01 on the NBA website link."
+        },
+        {
+            "in": "<head> Journal of Nanoparticle Research <rel_desc> CODEN is a six character, alphanumeric bibliographic code, that provides concise, unique and unambiguous identification of the titles of serials and non-serial publications from all subject areas. <tail> JNARFA",
+            "out": "JNARFA is the coden for Journal of Nanoparticle Research."
+        },
+        {
+            "in": "<head> Comprehensive Reviews in Food Science and Food Safety <rel_desc> CODEN is a six character, alphanumeric bibliographic code, that provides concise, unique and unambiguous identification of the titles of serials and non-serial publications from all subject areas. <tail> CRFSBJ",
+            "out": "Code CRFSBJ denotes the publication Comprehensive Reviews in Food Science and Food Safety."
+        },
+        {
+            "in": "<head> Physical Review Focus <rel_desc> CODEN is a six character, alphanumeric bibliographic code, that provides concise, unique and unambiguous identification of the titles of serials and non-serial publications from all subject areas. <tail> PRFHAQ",
+            "out": "The coden of Physical Review Focus is PRFHAQ."
+        },
+        {
+            "in": "<head> Byham Theater <rel_desc> Current use of the architectural structure, if it is currently being used as anything other than its original purpose. <tail> Performing arts center",
+            "out": "Byham Theater is currently used for Performing arts center."
+        },
+        {
+            "in": "<head> San Diego Civic Theatre <rel_desc> Current use of the architectural structure, if it is currently being used as anything other than its original purpose. <tail> performing arts venue",
+            "out": "San Diego Civic Theatre is a performing arts venue."
+        },
+        {
+            "in": "<head> Union Theatre <rel_desc> Current use of the architectural structure, if it is currently being used as anything other than its original purpose. <tail> Professional and amateur theatre",
+            "out": "The Union Theatre is currently used for Professional and amateur theatre."
+        },
+        {
+            "in": "<head> Ed Sullivan Theater <rel_desc> Current use of the architectural structure, if it is currently being used as anything other than its original purpose. <tail> Television studio",
+            "out": "Ed Sullivan Theater is currently used for hosting a Television studio."
+        },
+        {
+            "in": "<head> Hotel Manger <rel_desc> The date the building was demolished. <tail> 1983-05-15",
+            "out": "Hotel Manger was demolished in 1983-05-15."
+        },
+        {
+            "in": "<head> Tiffany Theater <rel_desc> The date the building was demolished. <tail> 2013-08-08",
+            "out": "The Tiffany Theater was demolished on 2013-08-08."
+        },
+        {
+            "in": "<head> San Mamés Stadium <rel_desc> The date the building was demolished. <tail> 2013-06-06",
+            "out": "San Mamés Stadium's demolition date was 2013-06-06."
+        },
+        {
+            "in": "<head> Milwaukee County Stadium <rel_desc> The date the building was demolished. <tail> 2001-02-21",
+            "out": "Milwaukee County Stadium was demolished on 2001-02-21."
+        },
+        {
+            "in": "<head> Yankee Stadium <rel_desc> The date the building was demolished. <tail> 2010-05-13",
+            "out": "Yankee Stadium was set to be demolished on 2010-05-13."
+        },
+        {
+            "in": "<head> Environment and Behavior <rel_desc> Census year of the imapct factor. <tail> 2019",
+            "out": "Environment and Behavior began receiving an impact factor in 2019."
+        },
+        {
+            "in": "<head> Ideal TV <rel_desc> The date on which the broadcaster made its last broadcast. <tail> 2009-07-20",
+            "out": "The last air date of the Ideal TV television show was 2009-07-20."
+        },
+        {
+            "in": "<head> Radio Luxembourg <rel_desc> The date on which the broadcaster made its last broadcast. <tail> 1992-12-30",
+            "out": "The final air date of Radio Luxembourg was 1992-12-30."
+        },
+        {
+            "in": "<head> Deutscher Fernsehfunk <rel_desc> The date on which the broadcaster made its last broadcast. <tail> 1991-12-31",
+            "out": "Deutscher Fernsehfunk was last on air on 1991-12-31."
+        },
+        {
+            "in": "<head> Lurcy-Lévis <rel_desc> maximum elevation above the sea level <tail> 283.0",
+            "out": "Lurcy-Lévis is 283.0 above sea level."
+        },
+        {
+            "in": "<head> Macau, Gironde <rel_desc> maximum elevation above the sea level <tail> 26.0",
+            "out": "The maximum elevation of Macau, Gironde is 26.0."
+        },
+        {
+            "in": "<head> Thil-sur-Arroux <rel_desc> maximum elevation above the sea level <tail> 472.0",
+            "out": "Thil-sur-Arroux is 472.0 high."
+        },
+        {
+            "in": "<head> John Odaate – Barnor <rel_desc> For persons who are notable as commanding officers, the units they commanded. <tail> Commandant of the Armed Forces Staff College",
+            "out": "John Odaate – Barnor was the Commandant of the Armed Forces Staff College."
+        },
+        {
+            "in": "<head> Konstantin Avksentevsky <rel_desc> For persons who are notable as commanding officers, the units they commanded. <tail> 6th Army",
+            "out": "Konstantin Avksentevsky commanded the 6th Army."
+        },
+        {
+            "in": "<head> Thomas Langford-Sainsbury <rel_desc> For persons who are notable as commanding officers, the units they commanded. <tail> No. 48 Squadron",
+            "out": "Thomas Langford-Sainsbury was in command of No. 48 Squadron."
+        },
+        {
+            "in": "<head> Wilson Elser Moskowitz Edelman & Dicker <rel_desc> Number of the companys offices. <tail> 38",
+            "out": "Wilson Elser Moskowitz Edelman & Dicker has 38 offices."
+        },
+        {
+            "in": "<head> Fountain Court Chambers <rel_desc> Number of the companys offices. <tail> 2",
+            "out": "Fountain Court Chambers has 2 offices."
+        },
+        {
+            "in": "<head> Wragge & Co <rel_desc> Number of the companys offices. <tail> 8",
+            "out": "Wragge & Co has 8 offices."
+        },
+        {
+            "in": "<head> Harris Beach <rel_desc> Number of the companys offices. <tail> 12",
+            "out": "Harris Beach has 12 offices."
+        },
+        {
+            "in": "<head> Journal of Transport and Land Use <rel_desc> Availability of open access content. <tail> Yes",
+            "out": "The Journal of Transport and Land Use is open access, Yes."
+        },
+        {
+            "in": "<head> Materials Today <rel_desc> Availability of open access content. <tail> No",
+            "out": "Materials Today has no open access content."
+        },
+        {
+            "in": "<head> Bio med Research International <rel_desc> Availability of open access content. <tail> Yes",
+            "out": "Yes, the BioMed Research International has open access content."
+        },
+        {
+            "in": "<head> Wuxi Metro <rel_desc> Number of passengers per day. <tail> 223200",
+            "out": "Wuxi Metro provides transport to 223200 passengers each day."
+        },
+        {
+            "in": "<head> Codiac Transpo <rel_desc> Number of passengers per day. <tail> 5192",
+            "out": "The Codiac Transpo carries 5192 passengers per day."
+        },
+        {
+            "in": "<head> Chester Hill railway station <rel_desc> System the passengers are using (from which the passenger statistics are). <tail> Sydney Trains, NSW Train link",
+            "out": "Chester Hill railway station uses the system Sydney Trains, NSW TrainLink."
+        },
+        {
+            "in": "<head> Bois-Franc station <rel_desc> System the passengers are using (from which the passenger statistics are). <tail> Exo",
+            "out": "Bois-Franc station is on the Exo transit system."
+        },
+        {
+            "in": "<head> INDECT <rel_desc> The part of the project budget that is funded by the Organistaions given in the Funded by property. <tail> 1.0906984E7",
+            "out": "The INDECT project has a budget funding of 1.0906984E7."
+        },
+        {
+            "in": "<head> ETOX <rel_desc> The part of the project budget that is funded by the Organistaions given in the Funded by property. <tail> 1.87E7",
+            "out": "ETOX had a project budget of 1.87E7."
+        },
+        {
+            "in": "<head> PREDICT <rel_desc> The part of the project budget that is funded by the Organistaions given in the Funded by property. <tail> 2.0E8",
+            "out": "The PREDICT project funding is 2.0E8."
+        },
+        {
+            "in": "<head> Idaho and Washington Northern Railroad <rel_desc> A reporting mark is a two-, three-, or four-letter alphabetic code used to identify owners or lessees of rolling stock and other equipment used on the North American railroad network. <tail> I&WN",
+            "out": "Idaho and Washington Northern Railroad has the reporting mark I&WN."
+        },
+        {
+            "in": "<head> Metropolitan Street Railway <rel_desc> Length of the track. <tail> 77000.0",
+            "out": "The length of Metropolitan Street Railway's track is 77000.0."
+        },
+        {
+            "in": "<head> Viramgam–Maliya Miyana section <rel_desc> Length of the track. <tail> 142000.0",
+            "out": "Viramgam–Maliya Miyana section is 142000.0 long."
+        },
+        {
+            "in": "<head> Samarang–Joana Stoomtram Maatschappij <rel_desc> Length of the track. <tail> 417000.0",
+            "out": "Samarang–Joana Stoomtram Maatschappij is 417000.0 long."
+        },
+        {
+            "in": "<head> Bartlett and Albany Railroad <rel_desc> Length of the track. <tail> 16093.4",
+            "out": "Bartlett and Albany Railroad's length is 16093.4."
+        },
+        {
+            "in": "<head> State Railways and Seaports Administration <rel_desc> Length of the track. <tail> 1.73e+06",
+            "out": "State Railways and Seaports Administration has a track length of 1.73e+06."
+        },
+        {
+            "in": "<head> Ghana <rel_desc> is a measure of the inequality of a distribution. <tail> 43.5",
+            "out": "The gini coefficient of Ghana is 43.5."
+        },
+        {
+            "in": "<head> Myanmar <rel_desc> is a measure of the inequality of a distribution. <tail> 30.7",
+            "out": "Myanmar's gini coefficient is 30.7."
+        },
+        {
+            "in": "<head> Eswatini <rel_desc> is a measure of the inequality of a distribution. <tail> 54.6",
+            "out": "Eswatini has a gini coefficient of 54.6."
+        },
+        {
+            "in": "<head> Shea's Performing Arts Center <rel_desc> Date of reopening the architectural structure. <tail> 1976-02-25",
+            "out": "Shea's Performing Arts Center was reopened on 1976-02-25."
+        },
+        {
+            "in": "<head> Estadio Municipal Germán Becker <rel_desc> Date of reopening the architectural structure. <tail> 2008-11-05",
+            "out": "Estadio Municipal Germán Becker's is set to reopen in 2008-11-05."
+        },
+        {
+            "in": "<head> Regal Cinema, Dublin <rel_desc> Date of reopening the architectural structure. <tail> 1955-08-19",
+            "out": "Regal Cinema, Dublin reopened on 1955-08-19."
+        },
+        {
+            "in": "<head> Indiana Farmers Coliseum <rel_desc> Date of reopening the architectural structure. <tail> 2014-04-24",
+            "out": "The Indiana Farmers Coliseum was reopened on 2014-04-24."
+        },
+        {
+            "in": "<head> Burton Cummings Theatre <rel_desc> Date of reopening the architectural structure. <tail> 1945-11-03",
+            "out": "The Burton Cummings Theatre reopened on 1945-11-03."
+        },
+        {
+            "in": "<head> WFNY <rel_desc> The parent broadcast network to which the broadcaster belongs. <tail> Fox News Radio",
+            "out": "WFNY belongs to Fox News Radio."
+        },
+        {
+            "in": "<head> WLTP <rel_desc> The parent broadcast network to which the broadcaster belongs. <tail> Cleveland Cavaliers Radio Network",
+            "out": "WLTP broadcasts via the Cleveland Cavaliers Radio Network."
+        },
+        {
+            "in": "<head> KMSU <rel_desc> The parent broadcast network to which the broadcaster belongs. <tail> AMPERS",
+            "out": "AMPERS is the parent broadcast network of KMSU."
+        },
+        {
+            "in": "<head> Corinthia Hotel Budapest <rel_desc> The (business) chain this instance is associated with. <tail> Corinthia Hotels International",
+            "out": "Corinthia Hotel Budapest is part of the Corinthia Hotels International chain."
+        },
+        {
+            "in": "<head> The George Hotel, Reading <rel_desc> The (business) chain this instance is associated with. <tail> Mercure",
+            "out": "The George Hotel, Reading is part of the Mercure chain of hotels."
+        },
+        {
+            "in": "<head> Westin Seattle <rel_desc> The (business) chain this instance is associated with. <tail> Westin Hotels & Resorts",
+            "out": "Westin Seattle is connected to Westin Hotels & Resorts."
+        },
+        {
+            "in": "<head> 1905 Open Championship <rel_desc> winner of a competition <tail> James Braid",
+            "out": "James Braid won the 1905 Open Championship."
+        },
+        {
+            "in": "<head> 1978 LPGA Championship <rel_desc> winner of a competition <tail> Nancy Lopez",
+            "out": "1978 LPGA Championship winner was Nancy Lopez."
+        },
+        {
+            "in": "<head> 1959 European Amateur Team Championship <rel_desc> winner of a competition <tail> Nils Odqvist",
+            "out": "The 1959 European Amateur Team Championship was won by Nils Odqvist."
+        },
+        {
+            "in": "<head> French International Lady Juniors Amateur Championship <rel_desc> winner of a competition <tail> Francesca Fiorellini",
+            "out": "French International Lady Juniors Amateur Championship's champion is Francesca Fiorellini."
+        },
+        {
+            "in": "<head> 2021 Mutua Madrid Open <rel_desc> winner of a competition in the female double session (as in tennis) <tail> Kateřina Siniaková",
+            "out": "Kateřina Siniaková won the 2021 Mutua Madrid Open."
+        },
+        {
+            "in": "<head> 1984 Wimbledon Championships <rel_desc> winner of a competition in the female double session (as in tennis) <tail> Pam Shriver",
+            "out": "Pam Shriver was the champion in the women's doubles at the 1984 Wimbledon Championships."
+        },
+        {
+            "in": "<head> 1911 U.S. National Championships <rel_desc> winner of a competition in the female double session (as in tennis) <tail> Hazel Hotchkiss Wightman",
+            "out": "Hazel Hotchkiss Wightman was a female double session winner in the 1911 U.S. National Championships."
+        },
+        {
+            "in": "<head> 1997 Grand Prix Hassan II <rel_desc> winner of a competition in the male double session (as in tennis) <tail> João Cunha e Silva",
+            "out": "1997 Grand Prix Hassan II was won by João Cunha e Silva."
+        },
+        {
+            "in": "<head> 1987 US Open <rel_desc> winner of a competition in the male double session (as in tennis) <tail> Stefan Edberg",
+            "out": "Stefan Edberg was the winner of the male double session at the 1987 US Open."
+        },
+        {
+            "in": "<head> 2017 German Open <rel_desc> winner of a competition in the male double session (as in tennis) <tail> Mate Pavić",
+            "out": "In the 2017 German Open the champion in double male was Mate Pavić."
+        },
+        {
+            "in": "<head> 2018 Nielsen Pro Tennis Championship <rel_desc> winner of a competition in the male double session (as in tennis) <tail> Jeevan Nedunchezhiyan",
+            "out": "2018 Nielsen Pro Tennis Championship was won by Jeevan Nedunchezhiyan."
+        },
+        {
+            "in": "<head> 1971 French Open <rel_desc> winner of a competition in the mixed double session (as in tennis) <tail> Françoise Dürr",
+            "out": "1971 French Open was won by Françoise Dürr."
+        },
+        {
+            "in": "<head> 1991 French Open <rel_desc> winner of a competition in the mixed double session (as in tennis) <tail> Cyril Suk",
+            "out": "The 1991 French Open’s champion in the mixed doubles was Cyril Suk."
+        },
+        {
+            "in": "<head> 1986 US Open <rel_desc> winner of a competition in the mixed double session (as in tennis) <tail> Sergio Casal",
+            "out": "The 1986 US Open winner in mixed doubles was Sergio Casal."
+        },
+        {
+            "in": "<head> 1997 Japan Open Tennis Championships <rel_desc> winner of a competition in the single female session, to distinguish from the double session (as in tennis) <tail> Ai Sugiyama",
+            "out": "At the 1997 Japan Open Tennis Championships the champion in single female was Ai Sugiyama."
+        },
+        {
+            "in": "<head> 1999 NCAA Division I Women's Tennis Championships <rel_desc> winner of a competition in the single female session, to distinguish from the double session (as in tennis) <tail> Zuzana Lešenarová",
+            "out": "1999 NCAA Division I Women's Tennis Championships was won by Zuzana Lešenarová."
+        },
+        {
+            "in": "<head> 1969 Cincinnati Open <rel_desc> winner of a competition in the single male session, to distinguish from the double session (as in tennis) <tail> Cliff Richey",
+            "out": "Cliff Richey won the 1969 Cincinnati Open."
+        },
+        {
+            "in": "<head> 2012 President's Cup <rel_desc> winner of a competition in the single male session, to distinguish from the double session (as in tennis) <tail> Evgeny Donskoy",
+            "out": "The single male champion of the 2012 President's Cup was Evgeny Donskoy."
+        },
+        {
+            "in": "<head> 2005 NASDAQ-100 Open <rel_desc> winner of a competition in the single male session, to distinguish from the double session (as in tennis) <tail> Roger Federer",
+            "out": "2005 NASDAQ-100 Open was won by Roger Federer."
+        },
+        {
+            "in": "<head> 1988 Suntory Japan Open Tennis Championships <rel_desc> winner of a competition in the single male session, to distinguish from the double session (as in tennis) <tail> John Mc enroe",
+            "out": "John McEnroe was the champion in the single males 1988 Suntory Japan Open Tennis Championships."
+        },
+        {
+            "in": "<head> 2010 Swiss Indoors <rel_desc> winner of a competition in the single male session, to distinguish from the double session (as in tennis) <tail> Roger Federer",
+            "out": "Roger Federer was the male singles champion at 2010 Swiss Indoors."
+        },
+        {
+            "in": "<head> Loco-Motion <rel_desc> some sort of hardware architecture or software framework, that allows this software to run <tail> Tomy Tutor",
+            "out": "Loco-Motion is a puzzle game played on the Tomy Tutor."
+        },
+        {
+            "in": "<head> A Duel Hand Disaster: Trackher <rel_desc> some sort of hardware architecture or software framework, that allows this software to run <tail> Microsoft Windows",
+            "out": "A Duel Hand Disaster: Trackher uses Microsoft Windows."
+        },
+        {
+            "in": "<head> Pirate Adventure <rel_desc> some sort of hardware architecture or software framework, that allows this software to run <tail> ZX Spectrum",
+            "out": "ZX Spectrum runs Pirate Adventure."
+        },
+        {
+            "in": "<head> Q-Squared <rel_desc> Cover artist <tail> Keith Birdsong",
+            "out": "Q-Squared is a song sung by the cover artist Keith Birdsong."
+        },
+        {
+            "in": "<head> Universe 11 <rel_desc> Cover artist <tail> Roger Zimmerman",
+            "out": "The cover artist for Universe 11 was Roger Zimmerman."
+        },
+        {
+            "in": "<head> Universe 3 <rel_desc> Cover artist <tail> Bob Silverman",
+            "out": "The cover artist for Universe 3 was Bob Silverman."
+        },
+        {
+            "in": "<head> The Treasury of Science Fiction Classics <rel_desc> Cover artist <tail> Richard Powers",
+            "out": "The Treasury of Science Fiction Classics's cover artist was Richard Powers."
+        },
+        {
+            "in": "<head> Carrot cake <rel_desc> variant or variation, for example all variations of a color <tail> Kirsch",
+            "out": "Kirsch is a type of Carrot cake."
+        },
+        {
+            "in": "<head> Rhino Horn bananas <rel_desc> Plants from which another plant (or cultivar) has been developed from <tail> Musa acuminata",
+            "out": "Rhino Horn bananas are a hybrid of Musa acuminata."
+        },
+        {
+            "in": "<head> Rosa 'Chicago Peace' <rel_desc> Plants from which another plant (or cultivar) has been developed from <tail> Sport",
+            "out": "Rosa 'Chicago Peace' is a Sport hybrid."
+        },
+        {
+            "in": "<head> Eunidia kristenseni <rel_desc> In biology, kingdom (Latin: regnum, pl. regna) is a taxonomic rank, which is either the highest rank or in the more recent three-domain system, the rank below domain. <tail> Animal",
+            "out": "The kingdom taxonomic rank of Eunidia kristenseni is Animal."
+        },
+        {
+            "in": "<head> Athleta boswellae <rel_desc> In biology, kingdom (Latin: regnum, pl. regna) is a taxonomic rank, which is either the highest rank or in the more recent three-domain system, the rank below domain. <tail> Animal",
+            "out": "Athleta boswellae is part of the Animal kingdom."
+        },
+        {
+            "in": "<head> Sarcophaga carnaria <rel_desc> In biology, kingdom (Latin: regnum, pl. regna) is a taxonomic rank, which is either the highest rank or in the more recent three-domain system, the rank below domain. <tail> Animal",
+            "out": "Sarcophaga carnaria is an Animal."
+        },
+        {
+            "in": "<head> Macellocerus <rel_desc> In biology, kingdom (Latin: regnum, pl. regna) is a taxonomic rank, which is either the highest rank or in the more recent three-domain system, the rank below domain. <tail> Animal",
+            "out": "Macellocerus beetle is classified as a member of the Animal kingdom."
+        },
+        {
+            "in": "<head> Electric Ireland <rel_desc> City the thing is located. <tail> Dublin",
+            "out": "Electric Ireland is located in Dublin."
+        },
+        {
+            "in": "<head> Henri Lloyd <rel_desc> City the thing is located. <tail> Gothenburg",
+            "out": "Henri Lloyd are based in Gothenburg."
+        },
+        {
+            "in": "<head> Brandwatch Qriously <rel_desc> City the thing is located. <tail> Brighton",
+            "out": "Brandwatch Qriously is situated in Brighton."
+        },
+        {
+            "in": "<head> Limbic Software , Inc. 1 <rel_desc> City the thing is located. <tail> California",
+            "out": "Limbic Software , Inc. 1 is based in California."
+        },
+        {
+            "in": "<head> Southeast Television <rel_desc> Country the thing is located. <tail> China",
+            "out": "Southeast Television broadcasts in China."
+        },
+        {
+            "in": "<head> Himalaya TV <rel_desc> Country the thing is located. <tail> Nepal",
+            "out": "Himalaya TV is broadcasted in Nepal."
+        },
+        {
+            "in": "<head> Something Rotten! <rel_desc> Creator of the text of a Musical work, eg Musical, Opera or Song <tail> Karey Kirkpatrick",
+            "out": "Something Rotten! was written by Karey Kirkpatrick."
+        },
+        {
+            "in": "<head> The Sea Cabinet <rel_desc> Creator of the text of a Musical work, eg Musical, Opera or Song <tail> Gwyneth Herbert",
+            "out": "Gwyneth Herbert write the lyrics to The Sea Cabinet."
+        },
+        {
+            "in": "<head> The Tik-Tok Man of Oz <rel_desc> Creator of the text of a Musical work, eg Musical, Opera or Song <tail> L. Frank Baum",
+            "out": "The Tik-Tok Man of Oz included lyrics from L. Frank Baum works."
+        },
+        {
+            "in": "<head> Harbanspura Interchange <rel_desc> A road that crosses another road at the junction. <tail> Lahore Ring Road",
+            "out": "Harbanspura Interchange crosses Lahore Ring Road."
+        },
+        {
+            "in": "<head> Springs Junction <rel_desc> A road that crosses another road at the junction. <tail> State Highway 65",
+            "out": "Springs Junction joins State Highway 65."
+        },
+        {
+            "in": "<head> Si Kak Phraya Si <rel_desc> A road that crosses another road at the junction. <tail> Fueang Nakhon Road",
+            "out": "The Si Kak Phraya Si road meets the Fueang Nakhon Road."
+        },
+        {
+            "in": "<head> Saphan Khwai <rel_desc> A road that crosses another road at the junction. <tail> Pradiphat Road",
+            "out": "Saphan Khwai road meets Pradiphat Road."
+        },
+        {
+            "in": "<head> All I Have <rel_desc> Type is too general. <tail> Single",
+            "out": "The song 'All I Have' was released as a music single."
+        },
+        {
+            "in": "<head> Red Velvet <rel_desc> Type is too general. <tail> Single",
+            "out": "Red Velvet is a music single."
+        },
+        {
+            "in": "<head> Pilots <rel_desc> Type is too general. <tail> Single",
+            "out": "Pilots was issued as a Single."
+        },
+        {
+            "in": "<head> Mi destino fue quererte <rel_desc> Type is too general. <tail> Song",
+            "out": "Mi destino fue quererte is a Song."
+        },
+        {
+            "in": "<head> Don't Ask Me <rel_desc> Type is too general. <tail> Single",
+            "out": "Don't Ask Me is a pop single."
+        },
+        {
+            "in": "<head> Shell Shock <rel_desc> The subject of a non-fiction book (e.g.: History, Biography, Cookbook, Climate change, ...). <tail> Peri Brown",
+            "out": "Peri Brown was the subject of Shell Shock."
+        },
+        {
+            "in": "<head> Elves' Hill <rel_desc> The original language of the work. <tail> Danish language",
+            "out": "Elves' Hill is written in Danish language."
+        },
+        {
+            "in": "<head> Phaedra's Love <rel_desc> The original language of the work. <tail> English language",
+            "out": "Phaedra's Love was written in the English language."
+        },
+        {
+            "in": "<head> Euriphene conjungens <rel_desc> A rank in the classification of organisms, below kingdom and above class; also called a division, especially in describing plants; a taxon at that rank. <tail> Arthropod",
+            "out": "Euriphene conjungens is from the phylum Arthropod."
+        },
+        {
+            "in": "<head> Apicalia <rel_desc> A rank in the classification of organisms, below kingdom and above class; also called a division, especially in describing plants; a taxon at that rank. <tail> Mollusca",
+            "out": "Apicalia's phylum is Mollusca."
+        },
+        {
+            "in": "<head> Lasiopates <rel_desc> A rank in the classification of organisms, below kingdom and above class; also called a division, especially in describing plants; a taxon at that rank. <tail> Arthropod",
+            "out": "Lasiopates is a type of Arthropod."
+        },
+        {
+            "in": "<head> Trafford Council <rel_desc> Political party in the legislature (eg.: European Peoples Party in the European Parliament). <tail> Labour Party",
+            "out": "The Labour Party hold office for Trafford Council."
+        },
+        {
+            "in": "<head> Oakland City Council <rel_desc> The Political party of leader. <tail> Democratic Party",
+            "out": "Oakland City Council is led by the Democratic Party."
+        },
+        {
+            "in": "<head> Kira Town <rel_desc> The politician exercising this function. <tail> Ibrahim Ssemujju Nganda",
+            "out": "Ibrahim Ssemujju Nganda is a politician in Kira Town."
+        },
+        {
+            "in": "<head> Hedmark Political function 2 <rel_desc> The politician exercising this function. <tail> Centre Party",
+            "out": "Hedmark PoliticalFunction 2 is exercised by the Centre Party."
+        },
+        {
+            "in": "<head> Pattusali <rel_desc> a place were members of an ethnic group are living <tail> Tamil Nadu",
+            "out": "The Pattusali live predominantly in Tamil Nadu."
+        },
+        {
+            "in": "<head> French Canadians <rel_desc> a place were members of an ethnic group are living <tail> Quebec",
+            "out": "French Canadians populate Quebec."
+        },
+        {
+            "in": "<head> Catalans <rel_desc> a place were members of an ethnic group are living <tail> Italy",
+            "out": "Catalans live in Italy."
+        },
+        {
+            "in": "<head> Cypriot Russians <rel_desc> a place were members of an ethnic group are living <tail> Limassol",
+            "out": "Cypriot Russians live in Limassol."
+        },
+        {
+            "in": "<head> Ho-Chunk <rel_desc> a place were members of an ethnic group are living <tail> Iowa",
+            "out": "Ho-Chunk live in Iowa."
+        },
+        {
+            "in": "<head> Hurlyburly <rel_desc> The theatre and/or city the play was first performed in. <tail> Goodman Theatre",
+            "out": "Hurlyburly premiered at Goodman Theatre."
+        },
+        {
+            "in": "<head> Wits Led by the Nose <rel_desc> The theatre and/or city the play was first performed in. <tail> London",
+            "out": "Wits Led by the Nose premiered in London."
+        },
+        {
+            "in": "<head> The Homecoming <rel_desc> The theatre and/or city the play was first performed in. <tail> Aldwych Theatre",
+            "out": "The Homecoming was first performed at the Aldwych Theatre."
+        },
+        {
+            "in": "<head> WEGS <rel_desc> The programming format describes the overall content broadcast on a radio or television station. <tail> Christian radio",
+            "out": "WEGS is a station broadcasting Christian radio."
+        },
+        {
+            "in": "<head> KEUN-FM <rel_desc> The programming format describes the overall content broadcast on a radio or television station. <tail> Swamp pop",
+            "out": "Swamp pop is played on KEUN-FM."
+        },
+        {
+            "in": "<head> Project Vista <rel_desc> The coordinating organisation of the project. <tail> William Alfred Fowler",
+            "out": "Project Vista coordinator is William Alfred Fowler."
+        },
+        {
+            "in": "<head> ETOX <rel_desc> A participating organisation of the project. <tail> Esteve",
+            "out": "Esteve is a project participmant of the ETOX."
+        },
+        {
+            "in": "<head> Virginia State Route 20 <rel_desc> End of the route. <tail> Wilderness, Virginia",
+            "out": "Virginia State Route 20 ends in Wilderness, Virginia."
+        },
+        {
+            "in": "<head> State Highway 246 <rel_desc> End of the route. <tail> Mowad",
+            "out": "State Highway 246 is a route which ends at Mowad."
+        },
+        {
+            "in": "<head> New Jersey Route 120 <rel_desc> A junction or cross to another route. <tail> East Rutherford, New Jersey",
+            "out": "New Jersey Route 120 has a route junction at East Rutherford, New Jersey."
+        },
+        {
+            "in": "<head> National Highway 44 <rel_desc> A junction or cross to another route. <tail> Dindigul",
+            "out": "National Highway 44 has a junction at Dindigul."
+        },
+        {
+            "in": "<head> Massachusetts Route 143 <rel_desc> Start of the route. <tail> Hinsdale, Massachusetts",
+            "out": "Massachusetts Route 143 begins in Hinsdale, Massachusetts."
+        },
+        {
+            "in": "<head> New York State Route 91 <rel_desc> Start of the route. <tail> Truxton, New York",
+            "out": "Truxton, New York is where the New York State Route 91 begins."
+        },
+        {
+            "in": "<head> California State Route 175 <rel_desc> Start of the route. <tail> Hopland, California",
+            "out": "California State Route 175 begins in Hopland, California."
+        },
+        {
+            "in": "<head> BR-210 <rel_desc> Start of the route. <tail> Pedra Branca do Amapari",
+            "out": "BR-210 begins at Pedra Branca do Amapari."
+        },
+        {
+            "in": "<head> Mainz Hauptbahnhof <rel_desc> Railway services that serve the station. <tail> West Rhine Railway",
+            "out": "West Rhine Railway is the serving railway line of Mainz Hauptbahnhof."
+        },
+        {
+            "in": "<head> Davos Laret railway station <rel_desc> Railway services that serve the station. <tail> Landquart–Davos Platz railway line",
+            "out": "Davos Laret railway station is served by the Landquart–Davos Platz railway line."
+        },
+        {
+            "in": "<head> Bomen railway station <rel_desc> Railway services that serve the station. <tail> Main Southern railway line, New South Wales",
+            "out": "Bomen railway station is served by Main Southern railway line, New South Wales."
+        },
+        {
+            "in": "<head> IWI ACE <rel_desc> wars that were typical for the usage of a weapon <tail> Mexican drug war",
+            "out": "IWI ACE is a rifle used in the Mexican drug war."
+        },
+        {
+            "in": "<head> RPG-43 <rel_desc> wars that were typical for the usage of a weapon <tail> The Troubles",
+            "out": "RPG-43 were used in The Troubles."
+        },
+        {
+            "in": "<head> 1916 1 <rel_desc> wars that were typical for the usage of a weapon <tail> World War I",
+            "out": "1916 1 were used during World War I."
+        },
+        {
+            "in": "<head> RPO-A Shmel <rel_desc> wars that were typical for the usage of a weapon <tail> War in Donbas",
+            "out": "In War in Donbas the RPO-A Shmel was used."
+        },
+        {
+            "in": "<head> Panzerhaubitze 2000 <rel_desc> wars that were typical for the usage of a weapon <tail> War in Afghanistan",
+            "out": "Panzerhaubitze 2000 was used in War in Afghanistan."
+        },
+        {
+            "in": "<head> WPHP <rel_desc> The URL to the webcast of the Thing. <tail> wphs.m3u",
+            "out": "WPHP has a webcast called wphs.m3u."
+        },
+        {
+            "in": "<head> Radio Veronica <rel_desc> The URL to the webcast of the Thing. <tail> veronica-rockradio",
+            "out": "The webcast of Radio Veronica is veronica-rockradio."
+        },
+        {
+            "in": "<head> Bankia <rel_desc> Assets and liabilities are part of a companis balance sheet. <tail> 1.79098E11",
+            "out": "Bankia has assets worth 1.79098E11."
+        },
+        {
+            "in": "<head> Unocal Corporation <rel_desc> Assets and liabilities are part of a companis balance sheet. <tail> 1.3101E10",
+            "out": "Unocal Corporation has assets of 1.3101E10."
+        },
+        {
+            "in": "<head> HNA Technology HNA Technology 1 <rel_desc> Assets and liabilities are part of a companis balance sheet. <tail> 117.966",
+            "out": "HNA Technology HNA Technology 1 has assets worth 117.966."
+        },
+        {
+            "in": "<head> CBZ Bank Limited <rel_desc> Assets and liabilities are part of a companis balance sheet. <tail> 1.991E9",
+            "out": "CBZ Bank Limited has assets of 1.991E9."
+        },
+        {
+            "in": "<head> Sanagu Station <rel_desc> Information on stations bicycle facilities. <tail> Available",
+            "out": "There is bicycle information Available at Sanagu Station."
+        },
+        {
+            "in": "<head> Kwasa Sentral MRT station <rel_desc> Information on stations bicycle facilities. <tail> Not available",
+            "out": "Kwasa Sentral MRT station bicycle information is Not available."
+        },
+        {
+            "in": "<head> Catlin Covered Bridge <rel_desc> Type of vehicles the bridge carries. <tail> Pedestrian traffic",
+            "out": "The Catlin Covered Bridge carries Pedestrian traffic."
+        },
+        {
+            "in": "<head> Jiangjiehe Bridge <rel_desc> Type of vehicles the bridge carries. <tail> S205 provincial road",
+            "out": "The Jiangjiehe Bridge carries the S205 provincial road."
+        },
+        {
+            "in": "<head> Angle Vale Bridge <rel_desc> Type of vehicles the bridge carries. <tail> Motor vehicles",
+            "out": "Angle Vale Bridge was built for and used by Motor vehicles."
+        },
+        {
+            "in": "<head> Stanley Ferry Aqueduct <rel_desc> Type of vehicles the bridge carries. <tail> Aire and Calder Navigation",
+            "out": "Stanley Ferry Aqueduct carries Aire and Calder Navigation vehicles."
+        },
+        {
+            "in": "<head> Lottie Moon House <rel_desc> Building end date of an Architectural structure, man-made Lake, etc. <tail> 1831",
+            "out": "Lottie Moon House was completed in 1831."
+        },
+        {
+            "in": "<head> Fort San Lucian <rel_desc> Building end date of an Architectural structure, man-made Lake, etc. <tail> 1610–1611",
+            "out": "Fort San Lucian was completed in 1610–1611."
+        },
+        {
+            "in": "<head> A.S.D. Fersina Perginese <rel_desc> Number of people who can be served by a Train or other service; or participate in a Soccer club, Cricket team, etc <tail> 2000",
+            "out": "A.S.D. Fersina Perginese have a capacity of 2000."
+        },
+        {
+            "in": "<head> AS Vacoas-Phoenix <rel_desc> Number of people who can be served by a Train or other service; or participate in a Soccer club, Cricket team, etc <tail> 6200",
+            "out": "The AS Vacoas-Phoenix stadium has a capacity of 6200."
+        },
+        {
+            "in": "<head> Gostaresh Foulad F.C. <rel_desc> Number of people who can be served by a Train or other service; or participate in a Soccer club, Cricket team, etc <tail> 12000",
+            "out": "Gostaresh Foulad F.C.'s stadium had a capacity of 12000."
+        },
+        {
+            "in": "<head> 2017 Batangas earthquakes <rel_desc> Number of casualties of a Military conflict or natural disaster such as an Earthquake <tail> 6",
+            "out": "2017 Batangas earthquakes resulted in 6 casulaties."
+        },
+        {
+            "in": "<head> 2020 Oaxaca earthquake <rel_desc> Number of casualties of a Military conflict or natural disaster such as an Earthquake <tail> 10",
+            "out": "There were 10 casualties in the 2020 Oaxaca earthquake."
+        },
+        {
+            "in": "<head> Bicifadine <rel_desc> Ch eMBL is a manually curated chemical database of bioactive molecules with drug-like properties. <tail> 511099",
+            "out": "Bicifadine is a chemical numbered 511099."
+        },
+        {
+            "in": "<head> Blake Marler <rel_desc> Any string representing a class or category this thing is assigned to. <tail> Final, recurring",
+            "out": "Blake Marler's classification is Final, recurring."
+        },
+        {
+            "in": "<head> Undibacterium pigrum <rel_desc> A colour represented by a string holding its name (e.g.: red or green). <tail> lightgrey",
+            "out": "The colour of Undibacterium pigrum can be described as lightgrey."
+        },
+        {
+            "in": "<head> Pyotr Alexeyev' Resistance Movement <rel_desc> A colour represented by a string holding its name (e.g.: red or green). <tail> Red",
+            "out": "Pyotr Alexeyev' Resistance Movement had a flag that was Red."
+        },
+        {
+            "in": "<head> 1896 Gloucester smallpox epidemic <rel_desc> Number of confirmed cases in a pandemic <tail> 2000",
+            "out": "The 1896 Gloucester smallpox epidemic had 2000 confirmed cases."
+        },
+        {
+            "in": "<head> COVID-19 pandemic in Alberta <rel_desc> Number of confirmed cases in a pandemic <tail> 335247",
+            "out": "During the COVID-19 pandemic in Alberta, there were 335247 confirmed cases of Covid-19."
+        },
+        {
+            "in": "<head> Bor Dahegaon Dam <rel_desc> Short description of a person <tail> Earthfill",
+            "out": "The Bor Dahegaon Dam is an Earthfill dam."
+        },
+        {
+            "in": "<head> Kabeli B1 Hydropower Station <rel_desc> Short description of a person <tail> Gravity",
+            "out": "Kabeli B1 Hydropower Station is powered by Gravity."
+        },
+        {
+            "in": "<head> National Council <rel_desc> The date that leader was elected. <tail> 2020-12-15",
+            "out": "The leader of the National Council will be elected 2020-12-15."
+        },
+        {
+            "in": "<head> Niuatoputapu Airport <rel_desc> average elevation above the sea level <tail> 9.0",
+            "out": "Niuatoputapu Airport is at an elevation of 9.0."
+        },
+        {
+            "in": "<head> Sauk City, Washington <rel_desc> average elevation above the sea level <tail> 71.9328",
+            "out": "Sauk City, Washington is 71.9328 above sea level."
+        },
+        {
+            "in": "<head> Fort Jones, California <rel_desc> average elevation above the sea level <tail> 840.943",
+            "out": "Fort Jones, California is 840.943 above sea level."
+        },
+        {
+            "in": "<head> Hermanos Ameijeiras Airport <rel_desc> average elevation above the sea level <tail> 100.0",
+            "out": "Hermanos Ameijeiras Airport is 100.0 above ground."
+        },
+        {
+            "in": "<head> Dire Dawa Airport <rel_desc> average elevation above the sea level <tail> 1167.0",
+            "out": "The Dire Dawa Airport has an average elevation of 1167.0."
+        },
+        {
+            "in": "<head> Video Games Live <rel_desc> The end date of the event. <tail> 2018-11-17",
+            "out": "Video Games Live ends on 2018-11-17."
+        },
+        {
+            "in": "<head> South Ossetia Historical event 3 <rel_desc> The end date of the event. <tail> 2008-08-26",
+            "out": "South Ossetia HistoricalEvent 3 ended on 2008-08-26."
+        },
+        {
+            "in": "<head> Central American Integration System Historical event 3 <rel_desc> The end date of the event. <tail> 1960-12-13",
+            "out": "The end date for Central American Integration System HistoricalEvent 3 is 1960-12-13."
+        },
+        {
+            "in": "<head> Dengue pandemic in Sri Lanka <rel_desc> Number of deaths from pandemic compared to the total number of people diagnosed. <tail> 2020",
+            "out": "The Dengue pandemic in Sri Lanka had a fatality rate of 2020."
+        },
+        {
+            "in": "<head> 2018 Nipah virus outbreak in Kerala <rel_desc> Number of deaths from pandemic compared to the total number of people diagnosed. <tail> 89",
+            "out": "2018 Nipah virus outbreak in Kerala had a fatality rate of 89."
+        },
+        {
+            "in": "<head> 1929–1930 psittacosis pandemic <rel_desc> Number of deaths from pandemic compared to the total number of people diagnosed. <tail> 15",
+            "out": "15 people died from the 1929–1930 psittacosis pandemic."
+        },
+        {
+            "in": "<head> 2021 Nipah virus outbreak in Kerala <rel_desc> Number of deaths from pandemic compared to the total number of people diagnosed. <tail> 100",
+            "out": "It is reported that the fatality rate of the 2021 Nipah virus outbreak in Kerala was 100 people."
+        },
+        {
+            "in": "<head> Microsoft Swift key <rel_desc> size of a file or software <tail> 1.618e+08",
+            "out": "Microsoft SwiftKey has file size 1.618e+08."
+        },
+        {
+            "in": "<head> Crystal disk mark <rel_desc> size of a file or software <tail> 4e+06",
+            "out": "CrystalDiskMark has a file size of 4e+06."
+        },
+        {
+            "in": "<head> Anki <rel_desc> size of a file or software <tail> 1.34e+08",
+            "out": "The file size of Anki is 1.34e+08."
+        },
+        {
+            "in": "<head> Vue scan <rel_desc> size of a file or software <tail> 6e+06",
+            "out": "VueScan has a file size of 6e+06."
+        },
+        {
+            "in": "<head> Wentworth <rel_desc> The date on which regular broadcasts began. <tail> 2020-07-28",
+            "out": "Wentworth first aired on 2020-07-28."
+        },
+        {
+            "in": "<head> Vietnam Television <rel_desc> The date on which regular broadcasts began. <tail> 1970-09-07",
+            "out": "Vietnam Television first aired on 1970-09-07."
+        },
+        {
+            "in": "<head> Project Runway Philippines <rel_desc> The date on which regular broadcasts began. <tail> 2009-08-12",
+            "out": "Project Runway Philippines was first aired on 2009-08-12."
+        },
+        {
+            "in": "<head> Degrassi: Next Class <rel_desc> The date on which regular broadcasts began. <tail> 2017-06-30",
+            "out": "The final season of Degrassi: Next Class was first broadcasted on 2017-06-30."
+        },
+        {
+            "in": "<head> Ultimate Beastmaster <rel_desc> The date on which regular broadcasts began. <tail> 2017-12-15",
+            "out": "Ultimate Beastmaster first aired on 2017-12-15."
+        },
+        {
+            "in": "<head> Last Round Arthurs <rel_desc> Date of the first publication. <tail> 2018-07-20",
+            "out": "The first publication date of the Last Round Arthurs was 2018-07-20."
+        },
+        {
+            "in": "<head> Suspicion <rel_desc> Date of the first publication. <tail> 1984-08-12",
+            "out": "Suspicion was first published on 1984-08-12."
+        },
+        {
+            "in": "<head> Dragon Nest <rel_desc> Date of the first publication. <tail> 2010-06-04",
+            "out": "Dragon Nest was first published on 2010-06-04."
+        },
+        {
+            "in": "<head> Journal of Applied Psychology <rel_desc> The frequency of periodical publication (eg. Weekly, Bimonthly). <tail> Monthly",
+            "out": "Journal of Applied Psychology is published Monthly."
+        },
+        {
+            "in": "<head> Pinball <rel_desc> The frequency of periodical publication (eg. Weekly, Bimonthly). <tail> Quarterly",
+            "out": "Pinball magazine is released Quarterly."
+        },
+        {
+            "in": "<head> Rapid Communications in Mass Spectrometry <rel_desc> The frequency of periodical publication (eg. Weekly, Bimonthly). <tail> Biweekly",
+            "out": "Rapid Communications in Mass Spectrometry is published Biweekly."
+        },
+        {
+            "in": "<head> Nova srpska politička misao <rel_desc> the image size expressed in pixels <tail> 300",
+            "out": "Nova srpska politička misao has an image size of 300."
+        },
+        {
+            "in": "<head> Porchetta <rel_desc> Main ingredient used to prepare a specific Food or Beverage. <tail> pork,rosemary,garlic, andpepper",
+            "out": "Porchetta consists of pork,rosemary,garlic, andpepper."
+        },
+        {
+            "in": "<head> Meatball soup <rel_desc> Main ingredient used to prepare a specific Food or Beverage. <tail> Meatballs,Ground meat,rice,spices",
+            "out": "Meatball soup has the ingredients: Meatballs,Ground meat,rice,spices."
+        },
+        {
+            "in": "<head> Sol over Gudhjem <rel_desc> Main ingredient used to prepare a specific Food or Beverage. <tail> Rugbrød, smokedherring,chives,egg yolk",
+            "out": "The ingredients used to make Sol over Gudhjem are Rugbrød, smokedherring,chives,egg yolk."
+        },
+        {
+            "in": "<head> Kari kapitan <rel_desc> Main ingredient used to prepare a specific Food or Beverage. <tail> Chicken",
+            "out": "Kari kapitan contains Chicken."
+        },
+        {
+            "in": "<head> Schiphol Airport railway station <rel_desc> True if the station is handicapped accessible. <tail> 1",
+            "out": "Schiphol Airport railway station is handicapped accessible (1)."
+        },
+        {
+            "in": "<head> Devon Avenue <rel_desc> Name of another thing that this thing is part of. <tail> 6400 North",
+            "out": "6400 North is part of Devon Avenue."
+        },
+        {
+            "in": "<head> Mandurah Road <rel_desc> Name of another thing that this thing is part of. <tail> National Route 1",
+            "out": "Mandurah Road is part of National Route 1."
+        },
+        {
+            "in": "<head> Lornoxicam <rel_desc> Bioinformatics resource for deciphering the genome. <tail> D01866",
+            "out": "The kegg for Lornoxicam is D01866."
+        },
+        {
+            "in": "<head> North Dakota House of Representatives <rel_desc> The last election date for the house. <tail> 2020-11-03",
+            "out": "North Dakota House of Representatives last held an election on 2020-11-03."
+        },
+        {
+            "in": "<head> Northamptonshire County Council <rel_desc> The last election date for the house. <tail> 2017-05-04",
+            "out": "Northamptonshire County Council's last election date was 2017-05-04."
+        },
+        {
+            "in": "<head> Monaghan County Council <rel_desc> The last election date for the house. <tail> 2019-05-24",
+            "out": "The last election for Monaghan County Council was 2019-05-24."
+        },
+        {
+            "in": "<head> Sahrawi National Council <rel_desc> The last election date for the house. <tail> 2012-02-20",
+            "out": "Sahrawi National Council had their last election on 2012-02-20."
+        },
+        {
+            "in": "<head> Tomoyo After: It's a Wonderful Life <rel_desc> Date of the last publication. <tail> 2007-10-20",
+            "out": "Tomoyo After: It's a Wonderful Life was last published on 2007-10-20."
+        },
+        {
+            "in": "<head> Sorcerer Hunters <rel_desc> Date of the last publication. <tail> 1996-08-25",
+            "out": "Sorcerer Hunters was last published on 1996-08-25."
+        },
+        {
+            "in": "<head> Amagi Brilliant Park <rel_desc> Date of the last publication. <tail> 2016-09-09",
+            "out": "The last publication date for Amagi Brilliant Park is 2016-09-09."
+        },
+        {
+            "in": "<head> Therapy Game <rel_desc> Date of the last publication. <tail> 2017-03-14",
+            "out": "The manga series Therapy Game was last published on 2017-03-14."
+        },
+        {
+            "in": "<head> Salem Falls <rel_desc> The Library of Congress Classification (LCC) is a system of library classification developed by the Library of Congress. <tail> PS3566.I372 S26 2001",
+            "out": "Salem Falls is identified as PS3566.I372 S26 2001."
+        },
+        {
+            "in": "<head> Riverton–Belvidere Bridge <rel_desc> Load limit of the bridge. <tail> 50802.3",
+            "out": "Riverton–Belvidere Bridge holds 50802.3."
+        },
+        {
+            "in": "<head> Taoyaomen Bridge <rel_desc> Load limit of the bridge. <tail> 2e+09",
+            "out": "Taoyaomen Bridge has a load limit of 2e+09."
+        },
+        {
+            "in": "<head> Fletcher Covered Bridge <rel_desc> Load limit of the bridge. <tail> 31751.5",
+            "out": "The load limit of the Fletcher Covered Bridge is 31751.5."
+        },
+        {
+            "in": "<head> Nagoya Port Drawbridge <rel_desc> Load limit of the bridge. <tail> 4e+07",
+            "out": "The Nagoya Port Drawbridge has a load limit of 4e+07."
+        },
+        {
+            "in": "<head> Mac arthur Bridge <rel_desc> Load limit of the bridge. <tail> 2e+07",
+            "out": "The MacArthur Bridge has a load limit of 2e+07."
+        },
+        {
+            "in": "<head> Hertfordshire Militia <rel_desc> the size of the military unit <tail> 1–3 Regiments",
+            "out": "Hertfordshire Militia has 1–3 Regiments."
+        },
+        {
+            "in": "<head> Kazan Metro <rel_desc> Number of lines in the transit system. <tail> 1",
+            "out": "Kazan Metro has 1 line."
+        },
+        {
+            "in": "<head> Santa Clara Valley Transportation Authority <rel_desc> Number of lines in the transit system. <tail> 70",
+            "out": "The Santa Clara Valley Transportation Authority has 70 lines."
+        },
+        {
+            "in": "<head> Davenport Citibus <rel_desc> Number of lines in the transit system. <tail> 13",
+            "out": "Davenport Citibus has 13 transport lines."
+        },
+        {
+            "in": "<head> Ningbo Rail Transit <rel_desc> Number of lines in the transit system. <tail> 5",
+            "out": "Ningbo Rail Transit contains 5 transit lines."
+        },
+        {
+            "in": "<head> Yugo-Zapadnaya <rel_desc> Number of levels of platforms at the station. <tail> 1",
+            "out": "Yugo-Zapadnaya has 1 platform level."
+        },
+        {
+            "in": "<head> Esquimalt station <rel_desc> Number of levels of platforms at the station. <tail> 1",
+            "out": "The number of platforms at Esquimalt station is 1."
+        },
+        {
+            "in": "<head> Mesonisi railway station <rel_desc> Number of levels of platforms at the station. <tail> 1",
+            "out": "Mesonisi railway station has 1 platform level."
+        },
+        {
+            "in": "<head> Hillview MRT station <rel_desc> Number of levels of platforms at the station. <tail> 1",
+            "out": "The Hillview MRT station has only 1 platform level."
+        },
+        {
+            "in": "<head> Księcia Janusza metro station <rel_desc> Number of tracks of a railway or railway station. <tail> 2",
+            "out": "Księcia Janusza metro station has 2 railway tracks."
+        },
+        {
+            "in": "<head> Home Hill railway station <rel_desc> Number of tracks of a railway or railway station. <tail> 2",
+            "out": "Home Hill railway station has 2 tracks."
+        },
+        {
+            "in": "<head> Nervión <rel_desc> Number of tracks of a railway or railway station. <tail> 2",
+            "out": "Nervión contains 2 tracks."
+        },
+        {
+            "in": "<head> Lindevang Station <rel_desc> Number of tracks of a railway or railway station. <tail> 2",
+            "out": "Lindevang Station has 2 tracks."
+        },
+        {
+            "in": "<head> Girard station <rel_desc> Number of tracks of a railway or railway station. <tail> 2",
+            "out": "Girard station has 2 tracks."
+        },
+        {
+            "in": "<head> Jed Madela discography 2010 1 <rel_desc> Number of things (eg vehicles) sold <tail> 10000",
+            "out": "Jed Madela discography 2010 1 sold 10000 copies."
+        },
+        {
+            "in": "<head> List of best-selling albums by country 1994 3 <rel_desc> Number of things (eg vehicles) sold <tail> 1000000",
+            "out": "From the List of best-selling albums by country 1994 3, 1000000 albums were sold."
+        },
+        {
+            "in": "<head> Touched with Fire <rel_desc> Online Computer Library Center number <tail> 85753373",
+            "out": "Touched with Fire has the Online Computer Library Centre number 85753373."
+        },
+        {
+            "in": "<head> The Riddle of the Wren <rel_desc> Online Computer Library Center number <tail> 10900735",
+            "out": "The Riddle of the Wren has an Online Computer Library Centre number of 10900735."
+        },
+        {
+            "in": "<head> Indian Journal of Dermatology, Venereology and Leprology <rel_desc> Online Computer Library Center number <tail> 02884822",
+            "out": "Indian Journal of Dermatology, Venereology and Leprology's Online Computer Library Center number is 02884822."
+        },
+        {
+            "in": "<head> Carache Municipality <rel_desc> The original name of the entity, e.g. film, settlement, etc. <tail> Municipio Carache",
+            "out": "Carache Municipality was originally called Municipio Carache."
+        },
+        {
+            "in": "<head> Heritage Crossing station <rel_desc> Connecting services that serve the station such as bus, etc. <tail> DART South Irving Go Link",
+            "out": "Heritage Crossing station also has trains going through other serving lines to DART South Irving Go Link."
+        },
+        {
+            "in": "<head> Kipling station <rel_desc> Connecting services that serve the station such as bus, etc. <tail> Bloor West",
+            "out": "Bloor West is another service line of the Kipling station."
+        },
+        {
+            "in": "<head> Rosebank railway station <rel_desc> Connecting services that serve the station such as bus, etc. <tail> UCTJammie Shuttle",
+            "out": "Other serving lines of the Rosebank railway station include the UCTJammie Shuttle."
+        },
+        {
+            "in": "<head> Jurong Town Hall MRT station <rel_desc> Information on stations parking facilities. <tail> Yes",
+            "out": "Yes, Jurong Town Hall MRT station has parking."
+        },
+        {
+            "in": "<head> Rasskazovka <rel_desc> Information on stations parking facilities. <tail> No",
+            "out": "Rasskazovka station does not have parking."
+        },
+        {
+            "in": "<head> Viking <rel_desc> total number of launches resulting in partial failure <tail> 4",
+            "out": "Viking had 4 partial failed launches."
+        },
+        {
+            "in": "<head> List of Delta 3 launches <rel_desc> total number of launches resulting in partial failure <tail> 1",
+            "out": "Out of a list of Delta 3 launches, 1 partially failed."
+        },
+        {
+            "in": "<head> Long March 2E <rel_desc> total number of launches resulting in partial failure <tail> 1",
+            "out": "Long March 2E had 1 partial failed launch."
+        },
+        {
+            "in": "<head> Santa Fe Depot <rel_desc> Number of passengers per year. <tail> 47644",
+            "out": "Santa Fe Depot has 47644 passengers per year."
+        },
+        {
+            "in": "<head> Minami-Hinaga Station <rel_desc> Number of passengers per year. <tail> 690",
+            "out": "Minami-Hinaga Station has 690 passengers per year."
+        },
+        {
+            "in": "<head> 2014 Portugal legionellosis outbreak <rel_desc> Number of deaths caused by pandemic <tail> 12",
+            "out": "The 2014 Portugal legionellosis outbreak caused 12 pendamic deaths."
+        },
+        {
+            "in": "<head> Lady Day at Emerson's Bar and Grill <rel_desc> Date the play was first performed. <tail> 1986-04-16",
+            "out": "Lady Day at Emerson's Bar and Grill first premiered on 1986-04-16."
+        },
+        {
+            "in": "<head> Play Dead <rel_desc> Date the play was first performed. <tail> 2010-11-10",
+            "out": "The premiere date of Play Dead was 2010-11-10."
+        },
+        {
+            "in": "<head> Trelawny of the 'Wells' <rel_desc> Date the play was first performed. <tail> 1898-01-29",
+            "out": "Trelawny of the 'Wells' first premiered on 1898-01-29."
+        },
+        {
+            "in": "<head> Bottom Live: The Big Number Two Tour <rel_desc> Date the play was first performed. <tail> 1995-11-06",
+            "out": "The premiere date of Bottom Live: The Big Number Two Tour was 1995-11-06."
+        },
+        {
+            "in": "<head> The Life of Rufus Dawes For the Term of His Natural Life 1 <rel_desc> Year the play was first performed. <tail> 1886",
+            "out": "The Life of Rufus Dawes For the Term of His Natural Life 1 premiered in 1886."
+        },
+        {
+            "in": "<head> Circle Mirror Transformation <rel_desc> Year the play was first performed. <tail> 2009",
+            "out": "Circle Mirror Transformation premiered in 2009."
+        },
+        {
+            "in": "<head> Kanta <rel_desc> Year the play was first performed. <tail> 1889",
+            "out": "Kanta premiered in 1889."
+        },
+        {
+            "in": "<head> Lille-Flandres station <rel_desc> Information on the type of platform(s) at the station. <tail> 9",
+            "out": "Lille-Flandres station has 9 platforms."
+        },
+        {
+            "in": "<head> Songjeong Park station <rel_desc> Information on the type of platform(s) at the station. <tail> 2",
+            "out": "Songjeong Park station has 2 railway platforms."
+        },
+        {
+            "in": "<head> Titagarh railway station <rel_desc> Information on the type of platform(s) at the station. <tail> 4",
+            "out": "Titagarh railway station has 4 railway platforms."
+        },
+        {
+            "in": "<head> COVID-19 pandemic in Nunavut <rel_desc> Number of recovered cases in a pandemic <tail> 670",
+            "out": "The number of recovery cases during the COVID-19 pandemic in Nunavut is 670."
+        },
+        {
+            "in": "<head> COVID-19 pandemic in Normandy <rel_desc> Number of recovered cases in a pandemic <tail> 13743",
+            "out": "The recovery cases in the COVID-19 pandemic in Normandy total 13743."
+        },
+        {
+            "in": "<head> COVID-19 pandemic in South Africa <rel_desc> Number of recovered cases in a pandemic <tail> 2849558",
+            "out": "2849558 cases have recovered in the COVID-19 pandemic in South Africa."
+        },
+        {
+            "in": "<head> National Route 9 <rel_desc> End of the route. <tail> East",
+            "out": "National Route 9 ends East."
+        },
+        {
+            "in": "<head> New Brunswick Route 7 <rel_desc> End of the route. <tail> South",
+            "out": "New Brunswick Route 7 routes ends in a South direction."
+        },
+        {
+            "in": "<head> State Highway 62 <rel_desc> End of the route. <tail> East",
+            "out": "The State Highway 62 route starts out to the east."
+        },
+        {
+            "in": "<head> Apollo 12 <rel_desc> satellite catalogue number, omit leading zeroes (e.g. 25544) <tail> CSM: 4225",
+            "out": "CSM: 4225 is the catalogue number for Apollo 12."
+        },
+        {
+            "in": "<head> Kosmos 2380 <rel_desc> satellite catalogue number, omit leading zeroes (e.g. 25544) <tail> 26989",
+            "out": "Kosmos 2380 has the satcat number 26989."
+        },
+        {
+            "in": "<head> On the Rocks: A Political Comedy <rel_desc> The places and time where the play takes place. <tail> The near future",
+            "out": "On the Rocks: A Political Comedy is set in the The near future."
+        },
+        {
+            "in": "<head> Sweat <rel_desc> The places and time where the play takes place. <tail> Reading, Pennsylvania",
+            "out": "Sweat is set in Reading, Pennsylvania."
+        },
+        {
+            "in": "<head> 1952 United States presidential election in Louisiana <rel_desc> The start date of the event. <tail> 1952-11-04",
+            "out": "The start of the 1952 United States presidential election in Louisiana was on 1952-11-04."
+        },
+        {
+            "in": "<head> 2021 Estonian presidential election <rel_desc> The start date of the event. <tail> 2021-08-31",
+            "out": "The 2021 Estonian presidential election started on 2021-08-31."
+        },
+        {
+            "in": "<head> 2006 Sarawak state election <rel_desc> The start date of the event. <tail> 2006-05-20",
+            "out": "The 2006 Sarawak state election began in 2006-05-20."
+        },
+        {
+            "in": "<head> Yenikapı Transfer Center Yenikapı 1 <rel_desc> Type of station structure (underground, at-grade, or elevated). <tail> Underground",
+            "out": "Yenikapı Transfer Center Yenikapı 1 is an Underground station."
+        },
+        {
+            "in": "<head> Beixinjing station <rel_desc> Type of station structure (underground, at-grade, or elevated). <tail> Underground",
+            "out": "Beixinjing Station is an Underground station."
+        },
+        {
+            "in": "<head> A Very DNA Reunion <rel_desc> The overall subject matter dealt with by the play. <tail> DNAtechnology",
+            "out": "A Very DNA Reunion is about DNAtechnology."
+        },
+        {
+            "in": "<head> COVID-19 pandemic in Haiti <rel_desc> Number of suspected cases in a pandemic <tail> 32304",
+            "out": "The COVID-19 pandemic in Haiti has 32304 suspected cases."
+        },
+        {
+            "in": "<head> 1924 Los Angeles pneumonic plague outbreak <rel_desc> Number of suspected cases in a pandemic <tail> 37",
+            "out": "There were 37 suspected cases in the 1924 Los Angeles pneumonic plague outbreak."
+        },
+        {
+            "in": "<head> Vasoactive intestinal peptide receptor <rel_desc> HUGO Gene Symbol <tail> ADCYAP1R1",
+            "out": "The gene symbol for Vasoactive intestinal peptide receptor is ADCYAP1R1."
+        },
+        {
+            "in": "<head> Chlorosome <rel_desc> HUGO Gene Symbol <tail> Bac chlor c",
+            "out": "The symbol for chlorosome is bac chlorc."
+        },
+        {
+            "in": "<head> Kelch motif <rel_desc> HUGO Gene Symbol <tail> Kelch 5",
+            "out": "Kelch motif has the symbol of Kelch 5."
+        },
+        {
+            "in": "<head> 2017 Bauer Watertechnology Cup <rel_desc> There are five types of court surface used in professional play. <tail> Carpet",
+            "out": "2017 Bauer Watertechnology Cup is played on Carpet."
+        },
+        {
+            "in": "<head> Yenikapı Transfer Center Yenikapı 1 <rel_desc> Year visitor information was gathered. <tail> 2017",
+            "out": "Yenikapı Transfer Center Yenikapı 1 had visitors statistics in the year of 2017."
+        },
+        {
+            "in": "<head> Arc-et-Senans station <rel_desc> Year visitor information was gathered. <tail> 2018",
+            "out": "The visitor statistics for Arc-et-Senans station are valid as of 2018."
+        },
+        {
+            "in": "<head> Ernakulam Junction railway station <rel_desc> Year visitor information was gathered. <tail> 2018",
+            "out": "Ernakulam Junction railway station visitor statistics were recorded in 2018."
+        },
+        {
+            "in": "<head> Tlatelolco metro station <rel_desc> Percentage increase or decrease. <tail> -41.57",
+            "out": "Tlatelolco metro station has seen a drop in visitors by -41.57 percent."
+        },
+        {
+            "in": "<head> Buckower Chaussee station <rel_desc> Year station was electrified, if not previously at date of opening. <tail> 0750",
+            "out": "Buckower Chaussee station was electrified at 0750."
+        },
+        {
+            "in": "<head> Pasivedala railway station <rel_desc> Year station was electrified, if not previously at date of opening. <tail> 0025",
+            "out": "Pasivedala railway station was electrified on 0025."
+        },
+        {
+            "in": "<head> 30th Street station <rel_desc> Year station was electrified, if not previously at date of opening. <tail> 0700",
+            "out": "30th street station was electrified on 0700."
+        },
+        {
+            "in": "<head> Metro kent <rel_desc> Year station was electrified, if not previously at date of opening. <tail> 0001",
+            "out": "MetroKent was electrified in 0001."
+        },
+        {
+            "in": "<head> Censorinus <rel_desc> Is a measure of the distance between a reference height and a point underneath. <tail> 400.0",
+            "out": "Censorinus has a depth of 400.0."
+        },
+        {
+            "in": "<head> Cocheras <rel_desc> Is a measure of the distance between a reference height and a point underneath. <tail> 12.0",
+            "out": "The depth of Cocheras is 12.0."
+        },
+        {
+            "in": "<head> Titan <rel_desc> Is a measure of the distance between a reference height and a point underneath. <tail> 141.5",
+            "out": "Titan has a depth of 141.5."
+        },
+        {
+            "in": "<head> The Journal of Economic History <rel_desc> JSTOR number (short for Journal Storage) is a United States-based online system number for archiving academic journals. <tail> 00220507",
+            "out": "The Journal of Economic History's jstor archive number is 00220507."
+        },
+        {
+            "in": "<head> Journal of Speculative Philosophy <rel_desc> JSTOR number (short for Journal Storage) is a United States-based online system number for archiving academic journals. <tail> 0891625X",
+            "out": "Journal of Speculative Philosophy has a jstor number of 0891625X."
+        },
+        {
+            "in": "<head> Professional Ethics <rel_desc> The Library of Congress Control Number or LCCN is a serially based system of numbering cataloging records in the Library of Congress in the United States. <tail> 93-660008",
+            "out": "93-660008 is the lccn of Professional Ethics."
+        },
+        {
+            "in": "<head> Federal Law Review <rel_desc> The Library of Congress Control Number or LCCN is a serially based system of numbering cataloging records in the Library of Congress in the United States. <tail> 77020319",
+            "out": "The lccn of the Federal Law Review is 77020319."
+        },
+        {
+            "in": "<head> Barnase <rel_desc> gene entry for 3D structural data as per the PDB (Protein Data Bank) database <tail> 1BRS",
+            "out": "Barnase has a pdb of 1BRS."
+        },
+        {
+            "in": "<head> RAR-related orphan receptor <rel_desc> gene entry for 3D structural data as per the PDB (Protein Data Bank) database <tail> 1N83",
+            "out": "The gene entry for RAR-related orphan receptor in the Protein Data Bank is 1N83."
+        },
+        {
+            "in": "<head> Journal of Historical Review <rel_desc> In academia peer review is often used to determine an academic papers suitability for publication. <tail> 0",
+            "out": "Journal of Historical Review has 0 peer reviews."
+        },
+        {
+            "in": "<head> Pendleton Heights High School <rel_desc> The county where the thing is located. <tail> Madison County, Indiana",
+            "out": "Pendleton Heights High School is located in Madison County, Indiana."
+        },
+        {
+            "in": "<head> Sharnbrook Academy <rel_desc> The county where the thing is located. <tail> Bedfordshire",
+            "out": "Sharnbrook Academy is situated in the county of Bedfordshire."
+        },
+        {
+            "in": "<head> Canat Elementary School <rel_desc> The county where the thing is located. <tail> Philippines",
+            "out": "Canat Elementary School is in the Philippines county."
+        },
+        {
+            "in": "<head> Bishop Blanchet High School <rel_desc> The county where the thing is located. <tail> King County, Washington",
+            "out": "Bishop Blanchet High School is in King County, Washington."
+        },
+        {
+            "in": "<head> Prendergast School <rel_desc> The county where the thing is located. <tail> London",
+            "out": "Prendergast School is in London."
+        },
+        {
+            "in": "<head> Kingsway Tunnel Kingsway Tunnel 1 <rel_desc> The end location of the route. <tail> Merseyside",
+            "out": "Kingsway Tunnel Kingsway Tunnel 1 ends in Merseyside."
+        },
+        {
+            "in": "<head> Discovery Bay Tunnel <rel_desc> The end location of the route. <tail> Siu Ho Wan",
+            "out": "Discovery Bay Tunnel ends at Siu Ho Wan."
+        },
+        {
+            "in": "<head> Tauern Railway Tunnel <rel_desc> The start location of the route. <tail> Salzburg",
+            "out": "Tauern Railway Tunnel starts in Salzburg."
+        },
+        {
+            "in": "<head> Jeddo Tunnel <rel_desc> The start location of the route. <tail> Black Creek",
+            "out": "The Jeddo Tunnel starts at Black Creek."
+        },
+        {
+            "in": "<head> Saverne Tunnel <rel_desc> The start location of the route. <tail> Eckartswiller",
+            "out": "Saverne Tunnel starts at Eckartswiller."
+        },
+        {
+            "in": "<head> Robertson Tunnel <rel_desc> The start location of the route. <tail> Goose Hollow, Portland, Oregon",
+            "out": "Robertson Tunnel route starts at Goose Hollow, Portland, Oregon."
+        },
+        {
+            "in": "<head> Acura TSX 2010 1 <rel_desc> Number of things (eg vehicles) sold in the US <tail> 126",
+            "out": "Acura TSX 2010 1 has us sales of 126."
+        },
+        {
+            "in": "<head> BMW 5 Series 1999 1 <rel_desc> Number of things (eg vehicles) sold in the US <tail> 38218",
+            "out": "38218 BMW 5 Series 1999 1 were sold in the US."
+        },
+        {
+            "in": "<head> Phoemela Baranda <rel_desc> Also called floruit. <tail> 1999–present",
+            "out": "Phoemela Baranda's active years are from 1999–present."
+        },
+        {
+            "in": "<head> Merignac internment camp <rel_desc> Also called floruit. <tail> 17 November 1940 – 26 August 1944",
+            "out": "Merignac internment camp had the active years of 17 November 1940 – 26 August 1944."
+        },
+        {
+            "in": "<head> Casoli internment camp <rel_desc> Also called floruit. <tail> 1940",
+            "out": "Casoli internment camp was active in 1940."
+        },
+        {
+            "in": "<head> Maria Eriksson <rel_desc> Also called floruit. <tail> 2009-present",
+            "out": "Maria Eriksson has been active from 2009-present."
+        },
+        {
+            "in": "<head> Alcmaeon in Psophis <rel_desc> The name of the (Greek) chorus character in play. <tail> Young women",
+            "out": "Young women play the chorus character in Alcmaeon in Psophis."
+        },
+        {
+            "in": "<head> Ajax <rel_desc> The name of the (Greek) chorus character in play. <tail> Sailors from salamis",
+            "out": "In Ajax, the Sailors fromSalamis play the chorus character."
+        },
+        {
+            "in": "<head> Philoctetes <rel_desc> The name of the (Greek) chorus character in play. <tail> Greek sailors",
+            "out": "Philoctetes is a chorus character in the play GreekSailors."
+        },
+        {
+            "in": "<head> Warsaw concentration camp <rel_desc> Original use of Architectural structure or Concentration camp, if it is currently being used as anything other than its original purpose. <tail> Gęsiówkaprison",
+            "out": "Warsaw concentration camp was built on the site of Gęsiówkaprison."
+        },
+        {
+            "in": "<head> Szebnie concentration camp <rel_desc> Original use of Architectural structure or Concentration camp, if it is currently being used as anything other than its original purpose. <tail> Internment",
+            "out": "The Szebnie concentration camp was originally used for Internment."
+        },
+        {
+            "in": "<head> Mazibuko M1B <rel_desc> Maximum distance without refueling <tail> 400",
+            "out": "The Mazibuko M1B truck will have a range of 400."
+        },
+        {
+            "in": "<head> Voyah Free <rel_desc> Maximum distance without refueling <tail> 500",
+            "out": "Voyah Free can travel 500 km without refuelling."
+        },
+        {
+            "in": "<head> BAZ-6909 <rel_desc> Maximum distance without refueling <tail> 1000",
+            "out": "BAZ-6909 can travel 1000 without refuelling."
+        },
+        {
+            "in": "<head> KZKT-7428 <rel_desc> Maximum distance without refueling <tail> 1500",
+            "out": "The KZKT-7428 has a range of 1500."
+        },
+        {
+            "in": "<head> Natzweiler-Struthof concentration camp Natzweiler-Struthof 1 <rel_desc> Type, description, or name(s) of victims of a Concentration camp, Criminal, Serial killer, or some other atrocity <tail> mainly resistance fighters from occupied European nations",
+            "out": "Natzweiler-Struthof concentration camp Natzweiler-Struthof 1 held mainly resistance fighters from occupied European nations."
+        },
+        {
+            "in": "<head> Monowitz concentration camp <rel_desc> Type, description, or name(s) of victims of a Concentration camp, Criminal, Serial killer, or some other atrocity <tail> Mainly jews",
+            "out": "Monowitz concentration camp’s victims were MainlyJews."
+        },
+        {
+            "in": "<head> Kaufering concentration camp complex <rel_desc> Type, description, or name(s) of victims of a Concentration camp, Criminal, Serial killer, or some other atrocity <tail> Mostly Jews",
+            "out": "The victims in the Kaufering concentration camp complex were mostly Jews."
+        },
+        {
+            "in": "<head> Sušica camp <rel_desc> Type, description, or name(s) of victims of a Concentration camp, Criminal, Serial killer, or some other atrocity <tail> Bosniaks",
+            "out": "Bosniaks were the victims in the Sušica camp."
+        },
+        {
+            "in": "<head> Red Bridge <rel_desc> Construction material (eg. concrete, steel, iron, stone, brick, wood). <tail> Rock",
+            "out": "Red Bridge is made of Rock."
+        },
+        {
+            "in": "<head> Landwasser Viaduct <rel_desc> Construction material (eg. concrete, steel, iron, stone, brick, wood). <tail> Limestone",
+            "out": "Landwasser Viaduct is constructed with Limestone."
+        },
+        {
+            "in": "<head> Jamestown Verrazzano Bridge <rel_desc> Construction material (eg. concrete, steel, iron, stone, brick, wood). <tail> Concrete",
+            "out": "Jamestown Verrazzano Bridge is made of Concrete."
+        },
+        {
+            "in": "<head> Kentucky Channel <rel_desc> A former parent broadcast network to which the broadcaster once belonged. <tail> KET ED",
+            "out": "The former broadcast network of Kentucky channel was KET ED."
+        },
+        {
+            "in": "<head> NBC Montana <rel_desc> A former parent broadcast network to which the broadcaster once belonged. <tail> CBS",
+            "out": "The former broadcast network of NBC Montana is CBS."
+        },
+        {
+            "in": "<head> Wayne Meylan <rel_desc> Honours bestowed upon a Person, Organization, Race horse, etc <tail> 1967 College Football All-America Team",
+            "out": "Wayne Meylan was an honour student for 1967 College Football All-America Team."
+        },
+        {
+            "in": "<head> Thomas Joseph Kelly <rel_desc> Honours bestowed upon a Person, Organization, Race horse, etc <tail> National Museum of Racing and Hall of Fame",
+            "out": "Thomas Joseph Kelly was entered into the National Museum of Racing and Hall of Fame."
+        },
+        {
+            "in": "<head> Robert H. Michel <rel_desc> Honours bestowed upon a Person, Organization, Race horse, etc <tail> Purple Heart",
+            "out": "Robert H. Michel received the Purple Heart."
+        },
+        {
+            "in": "<head> Joseph Beeston <rel_desc> Honours bestowed upon a Person, Organization, Race horse, etc <tail> Order of St Michael and St George",
+            "out": "Joseph Beeston has been awarded the Order of St Michael and St George."
+        },
+        {
+            "in": "<head> Carlos Alberto dos Santos Cruz <rel_desc> Honours bestowed upon a Person, Organization, Race horse, etc <tail> Order of Aeronautical Merit",
+            "out": "Carlos Alberto dos Santos Cruz received honours in the Order of Aeronautical Merit."
+        },
+        {
+            "in": "<head> Stagecoach Yorkshire <rel_desc> Destinations, depots, junctions, major stops, hubs... <tail> Rotherham Interchange",
+            "out": "Rotherham Interchange is an important hub for Stagecoach Yorkshire."
+        },
+        {
+            "in": "<head> Stagecoach Yorkshire <rel_desc> Destinations, depots, junctions, major stops, hubs... <tail> Meadowhall Interchange",
+            "out": "Meadowhall Interchange is one of Stagecoach Yorkshire's major stops."
+        },
+        {
+            "in": "<head> Telemark Bilruter <rel_desc> Destinations, depots, junctions, major stops, hubs... <tail> Vrådal",
+            "out": "Vrådal is an important stop for the Telemark Bilruter buses."
+        }
+    ]
+}

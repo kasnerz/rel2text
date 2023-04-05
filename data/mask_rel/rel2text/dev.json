@@ -1,0 +1,1308 @@
+{
+    "data": [
+        {
+            "in": "<head> Grand Village of the Illinois <rel> <mask> <tail> Illinois Historic Preservation Division",
+            "out": "The Grand Village of the Illinois is an historic place that is preserved by the Illinois Historic Preservation Division."
+        },
+        {
+            "in": "<head> Germania Club Building Germania Club Building 1 <rel> <mask> <tail> List of Chicago Landmarks",
+            "out": "The Germania Club Building Germania Club Building 1 is in the List of Chicago Landmarks."
+        },
+        {
+            "in": "<head> Permian <rel> <mask> <tail> F7583C",
+            "out": "The colour hex triplet of Permian is F7583C."
+        },
+        {
+            "in": "<head> Movement for the Liberation of Peoples <rel> <mask> <tail> EC0408",
+            "out": "EC0408 is the sRGB colox hex triplet used by the Movement for the Liberation of Peoples."
+        },
+        {
+            "in": "<head> United Bermuda Party <rel> <mask> <tail> 3366CC",
+            "out": "The hex code color if the United Bermuda Party is 3366CC."
+        },
+        {
+            "in": "<head> Théâtre Municipal <rel> <mask> <tail> 2007",
+            "out": "Théâtre Municipal was demolished in 2007."
+        },
+        {
+            "in": "<head> Krasny Stroitel <rel> <mask> <tail> 1960-08-18",
+            "out": "Krasny Stroitel was abolished in 1960-08-18."
+        },
+        {
+            "in": "<head> Minister for Naval Defence <rel> <mask> <tail> 1920-06-30",
+            "out": "Minister for Naval Defence abolished facilities in 1920-06-30."
+        },
+        {
+            "in": "<head> Nattdal <rel> <mask> <tail> B",
+            "out": "Nattdal uses the pseudonym B."
+        },
+        {
+            "in": "<head> Mathew Carey <rel> <mask> <tail> Hamilton",
+            "out": "Mathew Carey is also known as Hamilton."
+        },
+        {
+            "in": "<head> Max Beheim-Schwarzbach <rel> <mask> <tail> Max Böheimb",
+            "out": "Max Beheim-Schwarzbach wrote under the penname Max Böheimb."
+        },
+        {
+            "in": "<head> Linkinus <rel> <mask> <tail> Internet Relay Chat",
+            "out": "Linkinus is used for Internet Relay Chat."
+        },
+        {
+            "in": "<head> Trello <rel> <mask> <tail> project management",
+            "out": "Trello is mainly used in project management."
+        },
+        {
+            "in": "<head> Service max <rel> <mask> <tail> project management",
+            "out": "ServiceMax provides project management services."
+        },
+        {
+            "in": "<head> dot matrix <rel> <mask> <tail> printer",
+            "out": "Dot matrix can be used by printers."
+        },
+        {
+            "in": "<head> Independência I <rel> <mask> <tail> animal watering dam",
+            "out": "Independência I is often used as a animal watering dam."
+        },
+        {
+            "in": "<head> knife <rel> <mask> <tail> bestick",
+            "out": "A knife can be used to bestick."
+        },
+        {
+            "in": "<head> Salmonella virus f18SE <rel> <mask> <tail> double-stranded DNA virus",
+            "out": "Salmonella virus f18SE is a double-stranded DNA virus."
+        },
+        {
+            "in": "<head> Ant associated cyclovirus 1 <rel> <mask> <tail> single-stranded DNA virus",
+            "out": "Ant associated cyclovirus 1 is a single-stranded DNA virus."
+        },
+        {
+            "in": "<head> Ant associated cyclovirus 1 <rel> <mask> <tail> ss dNA",
+            "out": "Ant associated cyclovirus 1 is classed as ssDNA."
+        },
+        {
+            "in": "<head> Doğu <rel> <mask> <tail> Este",
+            "out": "The name Doğu literally translates to Este."
+        },
+        {
+            "in": "<head> Hülya <rel> <mask> <tail> Dreams",
+            "out": "Hülya means Dreams."
+        },
+        {
+            "in": "<head> Ülkü <rel> <mask> <tail> Ideal",
+            "out": "The literal translation of Ülkü is Ideal."
+        },
+        {
+            "in": "<head> Still Live <rel> <mask> <tail> Tom Van Aken",
+            "out": "Tom Van Aken was the lighting designer for Still Live."
+        },
+        {
+            "in": "<head> Consolidated Farm and Rural Development Act of 1972 <rel> <mask> <tail> 92-419",
+            "out": "Consolidated Farm and Rural Development Act of 1972 can be found in United States Public Law as 92-419."
+        },
+        {
+            "in": "<head> The Magic of Walt Disney World <rel> <mask> <tail> U certificate",
+            "out": "The Magic of Walt Disney World has a BBFC rating of U certificate."
+        },
+        {
+            "in": "<head> Gloria Mundi <rel> <mask> <tail> no age restriction",
+            "out": "Gloria Mundi was certified with no age restriction."
+        },
+        {
+            "in": "<head> General Federation of Trade Unions of Korea <rel> <mask> <tail> Rodongja Sinmun",
+            "out": "Rodongja Sinmun is the house publication for General Federation of Trade Unions of Korea."
+        },
+        {
+            "in": "<head> Triage <rel> <mask> <tail> A Taste of Armageddon",
+            "out": "Triage is a work that references A Taste of Armageddon."
+        },
+        {
+            "in": "<head> Too Far Afield <rel> <mask> <tail> Effi Briest",
+            "out": "Too Far Afield draws on Effi Briest."
+        },
+        {
+            "in": "<head> 2020 COVID-19 pandemic in Belarus <rel> <mask> <tail> 211369",
+            "out": "During the 2020 COVID-19 pandemic in Belarus 211369 medical tests were performed."
+        },
+        {
+            "in": "<head> demographics of the Russian Empire <rel> <mask> <tail> Russian Empire Census",
+            "out": "Demographics of the Russian Empire are derived from Russian Empire Census."
+        },
+        {
+            "in": "<head> demographics of the European Union <rel> <mask> <tail> 2011 European Union census",
+            "out": "The 2011 European Union census shows the demographics of the European Union."
+        },
+        {
+            "in": "<head> i phone 4, model A1349 <rel> <mask> <tail> 0.87",
+            "out": "IPhone 4, model A1349 can absorb power at a rate of 0.87."
+        },
+        {
+            "in": "<head> human t cytotoxic cell <rel> <mask> <tail> CD2",
+            "out": "The human t cytotoxic cell has the marker CD2."
+        },
+        {
+            "in": "<head> human tanycyte <rel> <mask> <tail> PENK",
+            "out": "The cell type human tanycyte has the marker PENK."
+        },
+        {
+            "in": "<head> Central Cooperative Bank <rel> <mask> <tail> 831447150",
+            "out": "Central Cooperative Bank has BG identification number 831447150."
+        },
+        {
+            "in": "<head> EPay.bg <rel> <mask> <tail> 131409398",
+            "out": "EPay.bg's BG EIK code is 131409398."
+        },
+        {
+            "in": "<head> Staro Selo <rel> <mask> <tail> church building",
+            "out": "A church building has been uncovered at the Staro Selo."
+        },
+        {
+            "in": "<head> Oraško Kale <rel> <mask> <tail> church building",
+            "out": "Oraško Kale is the archaeological site of a church building."
+        },
+        {
+            "in": "<head> Diamantopoulou 3 & 13 Kallirrois <rel> <mask> <tail> Cynosarges",
+            "out": "Cynosarges was discovered at Diamantopoulou 3 & 13 Kallirrois."
+        },
+        {
+            "in": "<head> The invisible sculptures <rel> <mask> <tail> Neoinvisible art, Assenze, Vacuum",
+            "out": "Neoinvisible art, Assenze, Vacuum is also known as The invisible sculptures."
+        },
+        {
+            "in": "<head> Alpini <rel> <mask> <tail> Penne Nere",
+            "out": "Alpini is also called Penne Nere."
+        },
+        {
+            "in": "<head> Vittoria Alata <rel> <mask> <tail> Monumento alla Vittoria, Il Cavallo di Castiglioni",
+            "out": "Vittoria Alata was named Monumento alla Vittoria, Il Cavallo di Castiglioni."
+        },
+        {
+            "in": "<head> Flatholmen Lighthouse <rel> <mask> <tail> Oc WRG 6s",
+            "out": "The light characteristic of Flatholmen Lighthouse is Oc WRG 6s."
+        },
+        {
+            "in": "<head> Bitoujiao Lighthouse <rel> <mask> <tail> Oc W 11s",
+            "out": "Bitoujiao Lighthouse has the light characteristic Oc W 11s."
+        },
+        {
+            "in": "<head> Antennaria howellii subsp. canadensis <rel> <mask> <tail> Canadian pussytoes",
+            "out": "Antennaria howellii subsp. canadensis is commonly known as Canadian pussytoes."
+        },
+        {
+            "in": "<head> Bembidion tibiale <rel> <mask> <tail> Beekpriemkever",
+            "out": "Bembidion tibiale has a common name Beekpriemkever."
+        },
+        {
+            "in": "<head> Common Buttonquail <rel> <mask> <tail> Springvaktel, mazā trīspirkstīte, miškinė tripirštė",
+            "out": "The common name for a Common Buttonquail is Springvaktel, mazā trīspirkstīte, miškinė tripirštė."
+        },
+        {
+            "in": "<head> Santa Maria Island <rel> <mask> <tail> PTSMA",
+            "out": "Santa Maria Island’s UN/LOCODE is PTSMA."
+        },
+        {
+            "in": "<head> GJ 4276 c <rel> <mask> <tail> 0.0135",
+            "out": "The M sin i of GJ 4276 c is 0.0135."
+        },
+        {
+            "in": "<head> Kepler-113c <rel> <mask> <tail> 0.027",
+            "out": "Kepler-113c has an exoplanet mass of 0.027."
+        },
+        {
+            "in": "<head> HD 20794 b <rel> <mask> <tail> 0.0085",
+            "out": "HD 20794 b has an exoplanet mass of 0.0085."
+        },
+        {
+            "in": "<head> Duby u Pavlíkovy hájovny <rel> <mask> <tail> Quercus robur",
+            "out": "Duby u Pavlíkovy hájovny is classified as Quercus robur."
+        },
+        {
+            "in": "<head> Yuan Bao <rel> <mask> <tail> Ailuropoda melanoleuca",
+            "out": "Yuan Bao is a Ailuropoda melanoleuca."
+        },
+        {
+            "in": "<head> Boji <rel> <mask> <tail> dog",
+            "out": "Boji is a dog."
+        },
+        {
+            "in": "<head> 10999 Braga-Ribas <rel> <mask> <tail> 1978 VC6",
+            "out": "10999 Braga-Ribas is also known provisionally as 1978 VC6."
+        },
+        {
+            "in": "<head> The Prince of Egypt <rel> <mask> <tail> Category I",
+            "out": "The Prince of Egypt was rated Category I in filmiroda rating."
+        },
+        {
+            "in": "<head> Triumph of the Ten Gladiators <rel> <mask> <tail> Category II",
+            "out": "Triumph of the Ten Gladiators has a Filmiroda rating of Category II."
+        },
+        {
+            "in": "<head> Shrek Forever After <rel> <mask> <tail> Category I",
+            "out": "The filmiroda rating for Shrek Forever After is Category I."
+        },
+        {
+            "in": "<head> Reap the Wild Wind <rel> <mask> <tail> suitable for all audiences",
+            "out": "The ICAA rating for the movie Reap the Wild Wind is suitable for all audiences."
+        },
+        {
+            "in": "<head> The Outpost <rel> <mask> <tail> Not recommended for minors under 16",
+            "out": "The Outpost is rated 'Not recommended for minors under 16' by ICAA."
+        },
+        {
+            "in": "<head> Mulea <rel> <mask> <tail> 65",
+            "out": "65 is a cologne phonetics code for Mulea."
+        },
+        {
+            "in": "<head> Geert Van Pamel <rel> <mask> <tail> geertivp",
+            "out": "Geert Van Pamel's username on SlideShare is geertivp."
+        },
+        {
+            "in": "<head> Liam Boogar <rel> <mask> <tail> liamboogar",
+            "out": "Liam Boogar has the slideshare username liamboogar."
+        },
+        {
+            "in": "<head> Mike Walsh <rel> <mask> <tail> mikewalsh",
+            "out": "Mike Walsh's Slide share username is mikewalsh."
+        },
+        {
+            "in": "<head> Haunted Holiday <rel> <mask> <tail> Andrea Vészits",
+            "out": "Haunted Holiday's dramaturge is Andrea Vészits."
+        },
+        {
+            "in": "<head> Divergent <rel> <mask> <tail> M",
+            "out": "Divergent has an OFLC classification of M."
+        },
+        {
+            "in": "<head> Beware the Slenderman <rel> <mask> <tail> R13",
+            "out": "The OFLC classification of Beware the Slenderman is R13."
+        },
+        {
+            "in": "<head> Misaki font <rel> <mask> <tail> fonts-misaki",
+            "out": "The Misaki font is part of the fonts-misaki package in Ubuntu."
+        },
+        {
+            "in": "<head> Creed II <rel> <mask> <tail> PG",
+            "out": "Creed II was rated PG by the MTRCB."
+        },
+        {
+            "in": "<head> Headlock <rel> <mask> <tail> R-13",
+            "out": "Headlock has a MTRCB raging of R-13."
+        },
+        {
+            "in": "<head> Where the Wild Roses Grow <rel> <mask> <tail> Murder Ballads",
+            "out": "Where the Wild Roses Grow is part of Murder Ballads."
+        },
+        {
+            "in": "<head> Esther 3 <rel> <mask> <tail> Book of Esther",
+            "out": "Esther 3 is part of the Book of Esther."
+        },
+        {
+            "in": "<head> Wouldnit <rel> <mask> <tail> Rising",
+            "out": "Wouldnit is a song on Rising."
+        },
+        {
+            "in": "<head> Systemagic <rel> <mask> <tail> Silver Eye",
+            "out": "Systemagic is part of Silver Eye."
+        },
+        {
+            "in": "<head> This Will Be <rel> <mask> <tail> Inseparable",
+            "out": "This Will Be is part of the album Inseparable."
+        },
+        {
+            "in": "<head> Nicholas Sutton <rel> <mask> <tail> Ayşe Gülnev Osmanoğlu",
+            "out": "Nicholas Sutton is married to Ayşe Gülnev Osmanoğlu."
+        },
+        {
+            "in": "<head> Roald Sagdeev <rel> <mask> <tail> Susan Eisenhower",
+            "out": "Roald Sagdeev is married to Susan Eisenhower."
+        },
+        {
+            "in": "<head> Madelyn Dunham <rel> <mask> <tail> Stanley Armour Dunham",
+            "out": "Stanley Armour Dunham is the spouse of Madelyn Dunham."
+        },
+        {
+            "in": "<head> Sydney Prior Hall <rel> <mask> <tail> Mary Gow",
+            "out": "Sydney Prior Hall is married to Mary Gow."
+        },
+        {
+            "in": "<head> Princess Tomohito of Mikasa <rel> <mask> <tail> Prince Tomohito of Mikasa",
+            "out": "Princess Tomohito of Mikasa is married to Prince Tomohito of Mikasa."
+        },
+        {
+            "in": "<head> Plummet Airlines <rel> <mask> <tail> Darryl Hunt",
+            "out": "Darryl Hunt is a former band member of Plummet Airlines."
+        },
+        {
+            "in": "<head> Utopia <rel> <mask> <tail> Tony Fox Sales",
+            "out": "Tony Fox Sales is a former band member of Utopia."
+        },
+        {
+            "in": "<head> Roxus <rel> <mask> <tail> Juno Roxas",
+            "out": "Juno Roxas is a former band member of Roxus."
+        },
+        {
+            "in": "<head> Bhaman Kalan <rel> <mask> <tail> Gram panchayat",
+            "out": "Gram panchayat is the governing body of Bhaman Kalan."
+        },
+        {
+            "in": "<head> Tadepalle mandal, Guntur district <rel> <mask> <tail> Panchayat samiti",
+            "out": "Tadepalle mandal, Guntur district is governed by Panchayat samiti."
+        },
+        {
+            "in": "<head> Pyeonsu <rel> <mask> <tail> Korean cuisine",
+            "out": "Pyeonsu is a dish of Korean cuisine."
+        },
+        {
+            "in": "<head> Belmond Le Manoir aux Quat'Saisons <rel> <mask> <tail> French cuisine",
+            "out": "The restaurant Belmond Le Manoir aux Quat'Saisons specialises in French cuisine."
+        },
+        {
+            "in": "<head> Esplanade Riel <rel> <mask> <tail> 2",
+            "out": "There are 2 spans on the Esplanade Riel."
+        },
+        {
+            "in": "<head> Gasworks Bridge <rel> <mask> <tail> 2",
+            "out": "Gasworks Bridge has 2 spans."
+        },
+        {
+            "in": "<head> Cantlop Bridge <rel> <mask> <tail> 1",
+            "out": "Cantlop Bridge has 1 span."
+        },
+        {
+            "in": "<head> album cover for Grace Jones, Slave to the Rhythm <rel> <mask> <tail> Jean-Paul Goude",
+            "out": "Album cover for Grace Jones, Slave to the Rhythm was designed by Jean-Paul Goude."
+        },
+        {
+            "in": "<head> A Mind Forever Voyaging <rel> <mask> <tail> Steve Meretzky",
+            "out": "A Mind Forever Voyaging was created by Steve Meretzky."
+        },
+        {
+            "in": "<head> ROMP <rel> <mask> <tail> IBM",
+            "out": "ROMP is designed by IBM."
+        },
+        {
+            "in": "<head> Alvord Lake Bridge <rel> <mask> <tail> Ernest L. Ransome",
+            "out": "Alvord Lake Bridge was designed by Ernest L. Ransome."
+        },
+        {
+            "in": "<head> tyramine <rel> <mask> <tail> Citrus ×limon",
+            "out": "Citrus ×limon can be found in the taxon tyramine."
+        },
+        {
+            "in": "<head> SPATA31C2 <rel> <mask> <tail> Homo sapiens",
+            "out": "Homo sapiens have the protein coding gene SPATA31C2."
+        },
+        {
+            "in": "<head> PHD-like zinc-binding protein <rel> <mask> <tail> Leishmania major Friedlin",
+            "out": "A PHD-like zinc-binding protein can be found in Leishmania major Friedlin."
+        },
+        {
+            "in": "<head> Paranormal Activity 2 <rel> <mask> <tail> California",
+            "out": "Paranormal Activity 2 is set in California."
+        },
+        {
+            "in": "<head> Safari 3000 <rel> <mask> <tail> Africa",
+            "out": "Safari 3000 is located in Africa."
+        },
+        {
+            "in": "<head> Extra deputy member of the Committee on Health and Welfare <rel> <mask> <tail> Parliament of Sweden",
+            "out": "The Parliament of Sweden appoints the Extra deputy member of the Committee on Health and Welfare."
+        },
+        {
+            "in": "<head> municipal executive of Wilp <rel> <mask> <tail> Wilp municipal council",
+            "out": "The municipal executive of Wilp is appointed by the Wilp municipal council."
+        },
+        {
+            "in": "<head> Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media <rel> <mask> <tail> President of Ireland",
+            "out": "The Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media is appointed by the President of Ireland."
+        },
+        {
+            "in": "<head> mayor of Wittem <rel> <mask> <tail> the Crown",
+            "out": "Mayor of Wittem is appointed by the Crown."
+        },
+        {
+            "in": "<head> Deputy Member of the Committee on Education <rel> <mask> <tail> Parliament of Sweden",
+            "out": "Deputy Member of the Committee on Education was appointed by the Parliament of Sweden."
+        },
+        {
+            "in": "<head> Sabah <rel> <mask> <tail> Chinese New Year",
+            "out": "Chinese New Year is a public Holiday in Sabah."
+        },
+        {
+            "in": "<head> Mirandela <rel> <mask> <tail> May 25",
+            "out": "May 25 is a public holiday in Mirandela."
+        },
+        {
+            "in": "<head> Bosio <rel> <mask> <tail> patronal festival",
+            "out": "In Bosio the patronal festival is a public holiday."
+        },
+        {
+            "in": "<head> Nights of Labor <rel> <mask> <tail> Vincent van Gogh",
+            "out": "The book Nights of Labor has cover art by Vincent van Gogh."
+        },
+        {
+            "in": "<head> The Long Loud Silence <rel> <mask> <tail> Richard M. Powers",
+            "out": "Richard M. Powers provided the cover art for The Long Loud Silence."
+        },
+        {
+            "in": "<head> The Vergecast - Lumber guitar licks <rel> <mask> <tail> Nilay Patel",
+            "out": "Nilay Patel presents The Vergecast - Lumber guitar licks."
+        },
+        {
+            "in": "<head> All The Stations <rel> <mask> <tail> Vicki Pipe",
+            "out": "Vicki Pipe was the video presenter for All The Stations."
+        },
+        {
+            "in": "<head> Temple Hardy <rel> <mask> <tail> HMS Thunderer",
+            "out": "HMS Thunderer is commanded by Temple Hardy."
+        },
+        {
+            "in": "<head> Vachakan Vlasov <rel> <mask> <tail> Military Institute of the Kazakh Ground Forces",
+            "out": "Vachakan Vlasov is the commander of Military Institute of the Kazakh Ground Forces."
+        },
+        {
+            "in": "<head> Robert Bartels <rel> <mask> <tail> German submarine U-197",
+            "out": "Robert Bartels is the commander of the German submarine U-197."
+        },
+        {
+            "in": "<head> John O'Brien <rel> <mask> <tail> Royal Canadian Navy",
+            "out": "John O'Brien is the commander of the Royal Canadian Navy."
+        },
+        {
+            "in": "<head> Etrich Sport-Taube <rel> <mask> <tail> 1929",
+            "out": "The Etrich Sport-Taube made its first flight in 1929."
+        },
+        {
+            "in": "<head> Freedom Aviation Phoenix <rel> <mask> <tail> 2007-08-20",
+            "out": "Freedom Aviation Phoenix first flew on 2007-08-20."
+        },
+        {
+            "in": "<head> Arcturus T-20 <rel> <mask> <tail> 2009-01-28",
+            "out": "Arcturus T-20's first flight was on 2009-01-28."
+        },
+        {
+            "in": "<head> American Eagle A-129 <rel> <mask> <tail> 1929",
+            "out": "The first flight of the American Eagle A-129 was in 1929."
+        },
+        {
+            "in": "<head> Gunma Prefectural Road Route 241 <rel> <mask> <tail> Tsumagoi",
+            "out": "Gunma Prefectural Road Route 241 terminates in Tsumagoi."
+        },
+        {
+            "in": "<head> Diplomat <rel> <mask> <tail> Washington, D.C.",
+            "out": "The Diplomat terminated in Washington, D.C."
+        },
+        {
+            "in": "<head> jet lag <rel> <mask> <tail> light therapy",
+            "out": "Jet lag may be solved with light therapy."
+        },
+        {
+            "in": "<head> borderline personality disorder <rel> <mask> <tail> psychotherapy",
+            "out": "Borderline personality disorder can be treated with psychotherapy."
+        },
+        {
+            "in": "<head> trachoma <rel> <mask> <tail> antibiotic",
+            "out": "An antibiotic possibly treats trachoma."
+        },
+        {
+            "in": "<head> infectious mononucleosis <rel> <mask> <tail> corticosteroid",
+            "out": "Infectious mononucleosis can often be treated by a corticosteroid."
+        },
+        {
+            "in": "<head> Behçet's disease <rel> <mask> <tail> immunoglobulin therapy",
+            "out": "A possible treatment for Behçet's disease is immunoglobulin therapy."
+        },
+        {
+            "in": "<head> Čuomasjohka <rel> <mask> <tail> Golmmešoaivi",
+            "out": "Čuomasjohka originates in Golmmešoaivi."
+        },
+        {
+            "in": "<head> Sungai Landak <rel> <mask> <tail> Mount Niut",
+            "out": "Sungai Landak has it's origin at Mount Niut."
+        },
+        {
+            "in": "<head> number-one hit in Slovakia <rel> <mask> <tail> list of number-one hits of 2018 in Slovakia",
+            "out": "The number-one hit in Slovakia of 2018 is documented on the list of number-one hits of 2018 in Slovakia."
+        },
+        {
+            "in": "<head> Linus <rel> <mask> <tail> list of popes",
+            "out": "Linus is present in the list of popes."
+        },
+        {
+            "in": "<head> raid on Scarborough, Hartlepool and Whitby <rel> <mask> <tail> 137",
+            "out": "Raid on Scarborough, Hartlepool and Whitby caused 137 deaths."
+        },
+        {
+            "in": "<head> CAAC Flight 296 <rel> <mask> <tail> 0",
+            "out": "There were 0 deaths on CAAC Flight 296."
+        },
+        {
+            "in": "<head> Kansas Wesleyan University <rel> <mask> <tail> 0.62",
+            "out": "Kansas Wesleyan University has an admission rate of 0.62."
+        },
+        {
+            "in": "<head> North Carolina Agricultural and Technical State University <rel> <mask> <tail> 0.57",
+            "out": "The North Carolina Agricultural and Technical State University reported an admission rate of 0.57."
+        },
+        {
+            "in": "<head> Randolph College <rel> <mask> <tail> 0.9",
+            "out": "The admission rate for Randolph College is 0.9."
+        },
+        {
+            "in": "<head> The House of Bernarda Alba <rel> <mask> <tail> Giorgos Patsas",
+            "out": "Giorgos Patsas was the scenographer for The House of Bernarda Alba."
+        },
+        {
+            "in": "<head> Afternoon of a Faun <rel> <mask> <tail> Pablo Picasso",
+            "out": "The set of Afternoon of a Faun was designed by Pablo Picasso."
+        },
+        {
+            "in": "<head> De Liefde van Don Juan <rel> <mask> <tail> Germinal Casado",
+            "out": "Germinal Casado was the scenographer of De Liefde van Don Juan."
+        },
+        {
+            "in": "<head> Joyeux Noël <rel> <mask> <tail> World War I",
+            "out": "Joyeux Noël was set in World War I."
+        },
+        {
+            "in": "<head> Enfant Terrible <rel> <mask> <tail> 1980s",
+            "out": "Enfant Terrible was set in 1980s."
+        },
+        {
+            "in": "<head> Aria the Avvenire <rel> <mask> <tail> future",
+            "out": "Aria the Avvenire is set in the future."
+        },
+        {
+            "in": "<head> Puppet Master <rel> <mask> <tail> 1939",
+            "out": "Puppet Master was set in 1939."
+        },
+        {
+            "in": "<head> Dead Souls <rel> <mask> <tail> 1830s",
+            "out": "Dead Souls was set in the 1830s."
+        },
+        {
+            "in": "<head> Soyuz TMA-11M <rel> <mask> <tail> Kazakhstan",
+            "out": "Soyuz TMA-11M landed in Kazakhstan."
+        },
+        {
+            "in": "<head> Soyuz 24 <rel> <mask> <tail> Kazakhstan",
+            "out": "Flight Soyuz 24 landed in Kazakhstan."
+        },
+        {
+            "in": "<head> Apollo 15 <rel> <mask> <tail> Pacific Ocean",
+            "out": "Apollo 15 landed in the Pacific Ocean."
+        },
+        {
+            "in": "<head> Soyuz TM-6 <rel> <mask> <tail> Kazakhstan",
+            "out": "The Soyuz TM-6's location of landing was Kazakhstan."
+        },
+        {
+            "in": "<head> 10:26:25 <rel> <mask> <tail> 37585",
+            "out": "The time index for 10:26:25 is 37585."
+        },
+        {
+            "in": "<head> Diamond Langi <rel> <mask> <tail> Miss New Zealand",
+            "out": "Diamond Langi won the Miss New Zealand contest."
+        },
+        {
+            "in": "<head> CS Ştiinţa Bacău <rel> <mask> <tail> Liga Naţională",
+            "out": "CS Ştiinţa Bacău won the Liga Naţională."
+        },
+        {
+            "in": "<head> Fimleikafélag Hafnarfjarðar <rel> <mask> <tail> 2006 Úrvalsdeild",
+            "out": "Fimleikafélag Hafnarfjarðar won a match against 2006 Úrvalsdeild."
+        },
+        {
+            "in": "<head> Marelize Robberts <rel> <mask> <tail> Miss Namibia",
+            "out": "The model Marelize Robberts won the beauty contest Miss Namibia."
+        },
+        {
+            "in": "<head> Ingreed Mercredi <rel> <mask> <tail> Miss Réunion",
+            "out": "Ingreed Mercredi won Miss Réunion."
+        },
+        {
+            "in": "<head> Centaurea <rel> <mask> <tail> postage stamp",
+            "out": "Centaurea is shown on a postage stamp."
+        },
+        {
+            "in": "<head> Mary Ann Pawson Hargrave Pawson <rel> <mask> <tail> Mary Ann Pawson Hargrave, Lady Ramsay-Fairfax",
+            "out": "Mary Ann Pawson Hargrave Pawson is shown in the painting Mary Ann Pawson Hargrave, Lady Ramsay-Fairfax."
+        },
+        {
+            "in": "<head> Queen Olga of Württemberg <rel> <mask> <tail> Portrait of Queen Olga von Württemberg",
+            "out": "Queen Olga of Württemberg has a painting Portrait of Queen Olga von Württemberg."
+        },
+        {
+            "in": "<head> Liget Gallery Archive <rel> <mask> <tail> Tibor Várnagy",
+            "out": "The Liget Gallery Archive was created by Tibor Várnagy."
+        },
+        {
+            "in": "<head> Shindō <rel> <mask> <tail> Tondabayashi",
+            "out": "Shindō is located in Tondabayashi."
+        },
+        {
+            "in": "<head> Minamimikuriya <rel> <mask> <tail> Iwata",
+            "out": "Minamimikuriya is located in Iwata."
+        },
+        {
+            "in": "<head> Joel Shapiro <rel> <mask> <tail> Tate",
+            "out": "Joel Shapiro collection is in Tate."
+        },
+        {
+            "in": "<head> Edgar Levy <rel> <mask> <tail> National Gallery of Art",
+            "out": "Edgar Levy has artwork in the National Gallery of Art."
+        },
+        {
+            "in": "<head> Honoré Daumier <rel> <mask> <tail> Museum of Fine Arts of Lyon",
+            "out": "Honoré Daumier has art work potrayed at the Museum of Fine Arts of Lyon."
+        },
+        {
+            "in": "<head> Virgil Johnson <rel> <mask> <tail> 76",
+            "out": "Virgil Johnson played 76 matches."
+        },
+        {
+            "in": "<head> Binter <rel> <mask> <tail> 0",
+            "out": "The Binter team were in 0 matches."
+        },
+        {
+            "in": "<head> Fabre Urbain <rel> <mask> <tail> 0",
+            "out": "Fabre Urbain has played 0 matches."
+        },
+        {
+            "in": "<head> British Formula One Racing Team <rel> <mask> <tail> 0",
+            "out": "The British Formula One Racing Team took part in 0 races."
+        },
+        {
+            "in": "<head> Temple Buell <rel> <mask> <tail> 0",
+            "out": "Temple Buell's number of wins was 0."
+        },
+        {
+            "in": "<head> Derrington-Francis <rel> <mask> <tail> 0",
+            "out": "Derrington-Francis had 0 wins."
+        },
+        {
+            "in": "<head> Jean-Pierre Beltoise <rel> <mask> <tail> 1",
+            "out": "Jean-Pierre Beltoise has won 1 race."
+        },
+        {
+            "in": "<head> Julius Seligmann <rel> <mask> <tail> Theresienstadt Ghetto",
+            "out": "Julius Seligmann was detained in Theresienstadt Ghetto."
+        },
+        {
+            "in": "<head> Zděnka Weilová <rel> <mask> <tail> Theresienstadt Ghetto",
+            "out": "Zděnka Weilová was held in Theresienstadt Ghetto."
+        },
+        {
+            "in": "<head> Šarlota Wassermannová <rel> <mask> <tail> Theresienstadt Ghetto",
+            "out": "Šarlota Wassermannová was held at Theresienstadt Ghetto."
+        },
+        {
+            "in": "<head> Nanda Herbermann <rel> <mask> <tail> Ravensbrück concentration camp",
+            "out": "Nanda Herbermann is detained in Ravensbrück concentration camp."
+        },
+        {
+            "in": "<head> LCRS B001813.4-413519 <rel> <mask> <tail> 5.175667",
+            "out": "LCRS B001813.4-413519 has a right ascension of 5.175667."
+        },
+        {
+            "in": "<head> Annuario Trastevere Calcio <rel> <mask> <tail> Pier Luigi Betturri",
+            "out": "Pier Luigi Betturri authored foreword to Annuario Trastevere Calcio."
+        },
+        {
+            "in": "<head> Les guerres civiles <rel> <mask> <tail> Pierre Hassner",
+            "out": "The foreword of Les guerres civiles was written by Pierre Hassner."
+        },
+        {
+            "in": "<head> Chronological Bibliography of the Works of Robert D. Preus <rel> <mask> <tail> David P. Scaer",
+            "out": "Chronological Bibliography of the Works of Robert D. Preus had the preface written by David P. Scaer."
+        },
+        {
+            "in": "<head> Trump on China: Putting America First <rel> <mask> <tail> Robert C. O'Brien",
+            "out": "Trump on China: Putting America First is fore-worded by Robert C. O'Brien."
+        },
+        {
+            "in": "<head> Huisartsenpost Enschede <rel> <mask> <tail> Medisch Spectrum Twente",
+            "out": "Huisartsenpost Enschede has partnered with the Medisch Spectrum Twente."
+        },
+        {
+            "in": "<head> Cole & Weber <rel> <mask> <tail> Westin Hotels & Resorts",
+            "out": "Cole & Weber was in partnership with Westin Hotels & Resorts."
+        },
+        {
+            "in": "<head> Gerb- und Farbstoffwerke H. Renner & Co. <rel> <mask> <tail> Forestal Land, Timber and Railways Company",
+            "out": "Gerb- und Farbstoffwerke H. Renner & Co. is in partnership with Forestal Land, Timber and Railways Company."
+        },
+        {
+            "in": "<head> Regionale Huisartsenpost Drechtsteden <rel> <mask> <tail> Albert Schweitzer ziekenhuis",
+            "out": "Regionale Huisartsenpost Drechtsteden is in partnership with Albert Schweitzer ziekenhuis."
+        },
+        {
+            "in": "<head> Geneviève Maury <rel> <mask> <tail> French",
+            "out": "Geneviève Maury speaks French."
+        },
+        {
+            "in": "<head> Gavin Thompson <rel> <mask> <tail> English",
+            "out": "Gavin Thompson speaks English."
+        },
+        {
+            "in": "<head> Joseph Reiser <rel> <mask> <tail> French",
+            "out": "Joseph Reiser was fluent in French."
+        },
+        {
+            "in": "<head> Frank Windsor <rel> <mask> <tail> English",
+            "out": "Frank Windsor speaks English."
+        },
+        {
+            "in": "<head> Joensuu Airport <rel> <mask> <tail> 37.2",
+            "out": "The highest temperature reached at Joensuu Airport is 37.2."
+        },
+        {
+            "in": "<head> Dikson <rel> <mask> <tail> 26.9",
+            "out": "The highest temperature in Dikson is 26.9."
+        },
+        {
+            "in": "<head> Cell 211 <rel> <mask> <tail> Goya Award for Best New Actor",
+            "out": "Cell 211 was nominated for Goya Award for Best New Actor."
+        },
+        {
+            "in": "<head> Carol <rel> <mask> <tail> Academy Award for Best Costume Design",
+            "out": "Carol was nominated for the Academy Award for Best Costume Design."
+        },
+        {
+            "in": "<head> Maïwenn <rel> <mask> <tail> César Award for Best Director",
+            "out": "Maïwenn was nominated for César Award for Best Director."
+        },
+        {
+            "in": "<head> Das Experiment <rel> <mask> <tail> European Film Award - People's Choice Award for Best Director",
+            "out": "Das Experiment was nominated for the European Film Award - People's Choice Award for Best Director."
+        },
+        {
+            "in": "<head> James Bentley <rel> <mask> <tail> Goya Award for Best New Actor",
+            "out": "James Bentley was nominated for a Goya Award for Best New Actor."
+        },
+        {
+            "in": "<head> North Korean famine <rel> <mask> <tail> flood",
+            "out": "The North Korean famine was directly caused by a flood."
+        },
+        {
+            "in": "<head> Nintendo DS Game Card <rel> <mask> <tail> New Nintendo 3DS XL",
+            "out": "Nintendo DS Game Card was used by the New Nintendo 3DS XL."
+        },
+        {
+            "in": "<head> Ame-no-Ohabari <rel> <mask> <tail> Izanagi",
+            "out": "Ame-no-Ohabari is used by Izanagi."
+        },
+        {
+            "in": "<head> water crane <rel> <mask> <tail> steam locomotive",
+            "out": "Water crane is used by a steam locomotive."
+        },
+        {
+            "in": "<head> LEB128 <rel> <mask> <tail> Web assembly",
+            "out": "LEB128 is used by WebAssembly."
+        },
+        {
+            "in": "<head> Leica Q2 <rel> <mask> <tail> 2019-03-07",
+            "out": "The Leica Q2 was presented to the public on 2019-03-07."
+        },
+        {
+            "in": "<head> Black Mesa <rel> <mask> <tail> 2004-09-19",
+            "out": "The announcement date for The Black Mesa is 2004-09-19."
+        },
+        {
+            "in": "<head> Bronze bell of Van Ban pagoda <rel> <mask> <tail> 1963",
+            "out": "The Bronze bell of Van Ban pagoda was announced in 1963."
+        },
+        {
+            "in": "<head> 2020 Chile COVID-19 closing of educational institutions <rel> <mask> <tail> 2020-03-15",
+            "out": "2020 Chile COVID-19 closing of educational institutions was announced on 2020-03-15."
+        },
+        {
+            "in": "<head> Studia Africana <rel> <mask> <tail> 1",
+            "out": "The Studia Africana journal has a publication interval of 1."
+        },
+        {
+            "in": "<head> Bulletin du Muséum national d'histoire naturelle <rel> <mask> <tail> 2",
+            "out": "Bulletin du Muséum national d'histoire naturelle is published every 2 days."
+        },
+        {
+            "in": "<head> Valve Index <rel> <mask> <tail> Display port",
+            "out": "Valve Index connects to devices using DisplayPort."
+        },
+        {
+            "in": "<head> Sony Xperia Z5 Compact <rel> <mask> <tail> Micro-USB",
+            "out": "Sony Xperia Z5 Compact supports Micro-USB."
+        },
+        {
+            "in": "<head> Nest Cam <rel> <mask> <tail> Wi-Fi",
+            "out": "Nest Cam Connects via Wi-Fi."
+        },
+        {
+            "in": "<head> Peniarth MS 227 <rel> <mask> <tail> Ymborth yr enaid",
+            "out": "Peniarth MS 227 is the exemplar of Ymborth yr enaid."
+        },
+        {
+            "in": "<head> sparganosis <rel> <mask> <tail> bird",
+            "out": "Sparganosis invades bird."
+        },
+        {
+            "in": "<head> thelaziasis <rel> <mask> <tail> dog",
+            "out": "Thelaziasis is spread by dog."
+        },
+        {
+            "in": "<head> Zygmunt Mineyko <rel> <mask> <tail> capital punishment",
+            "out": "Zygmunt Mineyko was sentenced to capital punishment."
+        },
+        {
+            "in": "<head> Trial of Rafi Nelson <rel> <mask> <tail> fine",
+            "out": "The Trial of Rafi Nelson resulted in a fine."
+        },
+        {
+            "in": "<head> Johann Albrecht Adelgrief <rel> <mask> <tail> capital punishment",
+            "out": "The verdict against Johann Albrecht Adelgrief was capital punishment."
+        },
+        {
+            "in": "<head> Anna Suter <rel> <mask> <tail> capital punishment",
+            "out": "Anna Suter was sentenced to capital punishment."
+        },
+        {
+            "in": "<head> Cook collection <rel> <mask> <tail> John Charles Robinson",
+            "out": "The Cook collection is curated by John Charles Robinson."
+        },
+        {
+            "in": "<head> Aspects of Etruscan Arts <rel> <mask> <tail> Daniel Cazes",
+            "out": "Daniel Cazes is the curator of Aspects of Etruscan Arts."
+        },
+        {
+            "in": "<head> Virum Microlibrary <rel> <mask> <tail> Monday",
+            "out": "The Virum Microlibrary is open every Monday."
+        },
+        {
+            "in": "<head> Eidsvold Library <rel> <mask> <tail> Monday",
+            "out": "The Eidsvold Library is open every Monday."
+        },
+        {
+            "in": "<head> Bribie Island Library <rel> <mask> <tail> Monday",
+            "out": "Bribie Island Library is open on Monday."
+        },
+        {
+            "in": "<head> Biblioteca Municipal Almerindo de Souza Pereira <rel> <mask> <tail> Monday to Friday",
+            "out": "Biblioteca Municipal Almerindo de Souza Pereira is open Monday to Friday."
+        },
+        {
+            "in": "<head> SMD LED 5630 <rel> <mask> <tail> 8.594366927",
+            "out": "SMD LED 5630 has a luminous intensity of 8.594366927."
+        },
+        {
+            "in": "<head> Southwold lighthouse <rel> <mask> <tail> 17100",
+            "out": "Southwold lighthouse has a luminous intensity of 17100."
+        },
+        {
+            "in": "<head> Cape Banks lighthouse <rel> <mask> <tail> 20000",
+            "out": "The intensity of the Cape Banks lighthouse is 20000."
+        },
+        {
+            "in": "<head> Lundy North Lighthouse <rel> <mask> <tail> 16154",
+            "out": "The Lundy North Lighthouse has a luminous intensity of 16154."
+        },
+        {
+            "in": "<head> Joe Buckhalter <rel> <mask> <tail> English",
+            "out": "The native language of Joe Buckhalter is English."
+        },
+        {
+            "in": "<head> Abraham de Vries <rel> <mask> <tail> Dutch",
+            "out": "Abraham de Vries spoke Dutch."
+        },
+        {
+            "in": "<head> Lou Marini <rel> <mask> <tail> English",
+            "out": "Lou Marini speaks English."
+        },
+        {
+            "in": "<head> Coen Verbraak <rel> <mask> <tail> Dutch",
+            "out": "Coen Verbraak is a native speaker of Dutch."
+        },
+        {
+            "in": "<head> Bert Van Hoorick <rel> <mask> <tail> Dutch",
+            "out": "Bert Van Hoorick's native language is Dutch."
+        },
+        {
+            "in": "<head> roadworks <rel> <mask> <tail> road worker",
+            "out": "Roadworks are practiced by a road worker."
+        },
+        {
+            "in": "<head> Amar Parvate <rel> <mask> <tail> Scripps Research",
+            "out": "Amar Parvate is an employee of Scripps Research."
+        },
+        {
+            "in": "<head> Peter A Biro <rel> <mask> <tail> Deakin University - Geelong Campus at Waurn Ponds",
+            "out": "Peter A Biro is employed by Deakin University - Geelong Campus at Waurn Ponds."
+        },
+        {
+            "in": "<head> Max Margules <rel> <mask> <tail> Austria",
+            "out": "Max Margules works in Austria."
+        },
+        {
+            "in": "<head> Pierre Charles L'Enfant <rel> <mask> <tail> United States Military Academy",
+            "out": "Pierre Charles L'Enfant is employed by the United States Military Academy."
+        },
+        {
+            "in": "<head> Mount Elbrus <rel> <mask> <tail> Mount Everest",
+            "out": "Mount Elbrus has a parent peak called Mount Everest."
+        },
+        {
+            "in": "<head> Presidential Radio Address - 13 December 1997 <rel> <mask> <tail> radio communications",
+            "out": "Presidential Radio Address - 13 December 1997 was distributed by radio communications."
+        },
+        {
+            "in": "<head> Presidential Radio Address - 10 December 1994 <rel> <mask> <tail> radio communications",
+            "out": "Radio communications were used as the distribution format for the Presidential Radio Address - 10 December 1994."
+        },
+        {
+            "in": "<head> The Million Eyes of Sumuru <rel> <mask> <tail> video on demand",
+            "out": "The Million Eyes of Sumuru ia available to watch on video on demand."
+        },
+        {
+            "in": "<head> type 2 diabetes <rel> <mask> <tail> healthy diet",
+            "out": "Healthy diet is a treatment for type 2 diabetes."
+        },
+        {
+            "in": "<head> mood disorders <rel> <mask> <tail> flutoprazepam",
+            "out": "Mood Disorders can be treated with flutoprazepam."
+        },
+        {
+            "in": "<head> Post-transplant lymphoproliferative disorder <rel> <mask> <tail> doxorubicin",
+            "out": "Doxorubicin is a drug used for the treatment of Post-transplant lymphoproliferative disorder."
+        },
+        {
+            "in": "<head> Alla andra får varann <rel> <mask> <tail> Thore Ehrling",
+            "out": "Thore Ehrling conducted the Alla andra får varann song."
+        },
+        {
+            "in": "<head> Budapest Festival Orchestra <rel> <mask> <tail> Iván Fischer",
+            "out": "The music conductor at the Budapest Festival Orchestra was Iván Fischer."
+        },
+        {
+            "in": "<head> Vienna New Year's Concert 1960 <rel> <mask> <tail> Willi Boskovsky",
+            "out": "Vienna New Year's Concert 1960 was conducted by Willi Boskovsky."
+        },
+        {
+            "in": "<head> Vienna New Year's Concert 1965 <rel> <mask> <tail> Willi Boskovsky",
+            "out": "Willi Boskovsky conducted Vienna New Year's Concert 1965."
+        },
+        {
+            "in": "<head> Trishneet Arora <rel> <mask> <tail> 118000000",
+            "out": "Trishneet Arora is worth 118000000."
+        },
+        {
+            "in": "<head> Kanye West <rel> <mask> <tail> 1300000000",
+            "out": "Kanye West has a net worth of 1300000000."
+        },
+        {
+            "in": "<head> Jonas Tron <rel> <mask> <tail> 900000000",
+            "out": "The net worth of Jonas Tron is 900000000."
+        },
+        {
+            "in": "<head> John D. Rockefeller <rel> <mask> <tail> 663400000",
+            "out": "John D. Rockefeller has a net worth of 663400000."
+        },
+        {
+            "in": "<head> Stephen Bechtel, Jr. <rel> <mask> <tail> 2.6",
+            "out": "Stephen Bechtel, Jr. has a net worth of 2.6."
+        },
+        {
+            "in": "<head> Expedition 53 <rel> <mask> <tail> Paolo Nespoli",
+            "out": "Paolo Nespoli is, or was, a crew member of Expedition 53."
+        },
+        {
+            "in": "<head> Expedition 23 <rel> <mask> <tail> Tracy Caldwell Dyson",
+            "out": "Tracy Caldwell Dyson is a crew member of Expedition 23."
+        },
+        {
+            "in": "<head> Gemini 7 <rel> <mask> <tail> Frank Borman",
+            "out": "Frank Borman is a crew member of Gemini 7."
+        },
+        {
+            "in": "<head> Sobriety <rel> <mask> <tail> night",
+            "out": "Sobriety comes after night."
+        },
+        {
+            "in": "<head> Schreiber, Christian <rel> <mask> <tail> Schreiber, Alois Wilhelm",
+            "out": "Schreiber, Christian came after Schreiber, Alois Wilhelm."
+        },
+        {
+            "in": "<head> DJK Eintracht Erle <rel> <mask> <tail> Gelsenkirchen",
+            "out": "DJK Eintracht Erle has headquarters in Gelsenkirchen."
+        },
+        {
+            "in": "<head> Camogie Association <rel> <mask> <tail> Dublin",
+            "out": "Camogie Association is based in Dublin."
+        },
+        {
+            "in": "<head> View of Granville <rel> <mask> <tail> sunset",
+            "out": "View of Granville depicts a sunset."
+        },
+        {
+            "in": "<head> Allegory of Military Life <rel> <mask> <tail> Earth",
+            "out": "Allegory of Military Life is a depiction of Earth."
+        },
+        {
+            "in": "<head> Zoo montana <rel> <mask> <tail> North American river otter",
+            "out": "North American river otter is in the ZooMontana."
+        },
+        {
+            "in": "<head> Hellabrunn Zoo <rel> <mask> <tail> South American sea lion",
+            "out": "Hellabrunn Zoo keeps the South American sea lion."
+        },
+        {
+            "in": "<head> Charles Paddock Zoo <rel> <mask> <tail> White-faced Whistling Duck",
+            "out": "Charles Paddock Zoo is home to the White-faced Whistling Duck."
+        },
+        {
+            "in": "<head> Blackpool Zoo <rel> <mask> <tail> American Flamingo",
+            "out": "Blackpool Zoo has some American Flamingo."
+        },
+        {
+            "in": "<head> undecane <rel> <mask> <tail> 0.7402",
+            "out": "The density of undecane is 0.7402."
+        },
+        {
+            "in": "<head> praseodymium <rel> <mask> <tail> 6.773",
+            "out": "Praseodymium has the density of 6.773."
+        },
+        {
+            "in": "<head> dodecane <rel> <mask> <tail> 0.75",
+            "out": "The density of dodecane is 0.75."
+        },
+        {
+            "in": "<head> cyclopentadiene <rel> <mask> <tail> 0.8",
+            "out": "Cyclopentadiene has a density of 0.8."
+        },
+        {
+            "in": "<head> Gare de Villenouvelle <rel> <mask> <tail> Gare de Baziège",
+            "out": "Gare de Villenouvelle is the adjacent station to Gare de Baziège."
+        },
+        {
+            "in": "<head> Gare d'Auray <rel> <mask> <tail> Gare de Belz-Ploemel",
+            "out": "Gare d'Auray is adjacent to Gare de Belz-Ploemel."
+        },
+        {
+            "in": "<head> Tanesashi-Kaigan Station <rel> <mask> <tail> Mutsu-Shirahama Station",
+            "out": "Tanesashi-Kaigan Station is next to Mutsu-Shirahama Station."
+        },
+        {
+            "in": "<head> Hanwant railway station <rel> <mask> <tail> Salawas railway station",
+            "out": "Hanwant railway station is next to Salawas railway station."
+        },
+        {
+            "in": "<head> Mutsu-Sawabe Station <rel> <mask> <tail> Mutsu-Iwasaki Station",
+            "out": "The Mutsu-Sawabe Station is next to the Mutsu-Iwasaki Station."
+        },
+        {
+            "in": "<head> Her Dad the Constable <rel> <mask> <tail> 4:3",
+            "out": "The aspect ratio of the film, Her Dad the Constable, is 4:3."
+        },
+        {
+            "in": "<head> The Amateur Burglar <rel> <mask> <tail> 4:3",
+            "out": "The Amateur Burglar was shown in 4:3."
+        },
+        {
+            "in": "<head> Too Keen a Sense of Humour <rel> <mask> <tail> 4:3",
+            "out": "The film, Too Keen a Sense of Humour, has an aspect ratio of 4:3."
+        },
+        {
+            "in": "<head> Arrival of King and Queen at Edinburgh <rel> <mask> <tail> 4:3",
+            "out": "The film Arrival of King and Queen at Edinburgh was filmed in 4:3."
+        },
+        {
+            "in": "<head> Thomas Leveson-Gower <rel> <mask> <tail> Member of Parliament of Great Britain",
+            "out": "Thomas Leveson-Gower was a Member of Parliament of Great Britain."
+        },
+        {
+            "in": "<head> George Wallace, Baron Wallace of Coslany <rel> <mask> <tail> Member of the 44th Parliament of the United Kingdom",
+            "out": "George Wallace, Baron Wallace of Coslany is a Member of the 44th Parliament of the United Kingdom."
+        },
+        {
+            "in": "<head> Charles Howard, 2nd Earl of Nottingham <rel> <mask> <tail> Member of Parliament in the Parliament of England",
+            "out": "Charles Howard, 2nd Earl of Nottingham held the position of Member of Parliament in the Parliament of England."
+        },
+        {
+            "in": "<head> Goronwy Roberts, Baron Goronwy-Roberts <rel> <mask> <tail> Member of the 44th Parliament of the United Kingdom",
+            "out": "Goronwy Roberts, Baron Goronwy-Roberts was a Member of the 44th Parliament of the United Kingdom."
+        },
+        {
+            "in": "<head> Antigua and Barbuda <rel> <mask> <tail> .ag",
+            "out": "The internet domain designation for Antigua and Barbuda is .ag."
+        },
+        {
+            "in": "<head> Colombia <rel> <mask> <tail> .co",
+            "out": "The top-level Internet domain for Colombia is .co."
+        },
+        {
+            "in": "<head> Bulgaria <rel> <mask> <tail> .bg",
+            "out": ".bg is the top-level internet domain for Bulgaria."
+        },
+        {
+            "in": "<head> Literata <rel> <mask> <tail> Google",
+            "out": "Literata is commissioned by Google."
+        },
+        {
+            "in": "<head> B612 <rel> <mask> <tail> Airbus",
+            "out": "B612 was commissioned by Airbus."
+        },
+        {
+            "in": "<head> Enterographa venosa <rel> <mask> <tail> Opegrapha venosa",
+            "out": "Enterographa venosa was previously known as Opegrapha venosa."
+        },
+        {
+            "in": "<head> Pinus lambertiana martirensis <rel> <mask> <tail> Pinus lambertiana var. martirensis",
+            "out": "Pinus lambertiana martirensis used to be referred to as Pinus lambertiana var. martirensis."
+        },
+        {
+            "in": "<head> Russula nobilis <rel> <mask> <tail> white",
+            "out": "Russula nobilis spores are white."
+        },
+        {
+            "in": "<head> Amanita gemmata <rel> <mask> <tail> white",
+            "out": "The spore print colour of Amanita gemmata is white."
+        },
+        {
+            "in": "<head> insta360 ONE R 1-inch Edition <rel> <mask> <tail> 14.4",
+            "out": "Insta360 ONE R 1-inch Edition has a focal length of 14.4."
+        },
+        {
+            "in": "<head> 40-foot telescope <rel> <mask> <tail> 12",
+            "out": "40-foot telescope has a focal length of 12."
+        },
+        {
+            "in": "<head> BANK1 <rel> <mask> <tail> systemic lupus erythematosus",
+            "out": "BANK1 gene is associated with systemic lupus erythematosus."
+        },
+        {
+            "in": "<head> hyperphosphatasia with mental retardation syndrome 5 <rel> <mask> <tail> PIGW",
+            "out": "Hyperphosphatasia with mental retardation syndrome 5 is a genetic disease associated with PIGW."
+        },
+        {
+            "in": "<head> CFE 301 to 310 <rel> <mask> <tail> 4-6-2",
+            "out": "CFE 301 to 310 have a wheel arrangement of 4-6-2."
+        },
+        {
+            "in": "<head> Union Pacific 4004 <rel> <mask> <tail> 4-6-6-4",
+            "out": "Union Pacific 4004 has the wheel arrangement of 4-6-6-4."
+        },
+        {
+            "in": "<head> SR Merchant Navy Class 35022 Holland America Line <rel> <mask> <tail> 4-6-2",
+            "out": "4-6-2 is the wheel arrangement of the SR Merchant Navy Class 35022 Holland America Line."
+        },
+        {
+            "in": "<head> Pennsylvania Railroad S2 <rel> <mask> <tail> 6-8-6",
+            "out": "The Pennsylvania Railroad S2 locomotive has a wheel arrangement of 6-8-6."
+        },
+        {
+            "in": "<head> FLT3 TKD MUTATION <rel> <mask> <tail> acute myeloid leukemia",
+            "out": "FLT3 TKD MUTATION is a negative prognostic predictor of acute myeloid leukemia."
+        },
+        {
+            "in": "<head> FLT3 ITD <rel> <mask> <tail> acute myeloid leukemia",
+            "out": "FLT3 ITD can be a negative prognostic predictor of acute myeloid leukemia."
+        },
+        {
+            "in": "<head> 1994–95 FA Women's Cup <rel> <mask> <tail> 1995 FA Women's Cup Final",
+            "out": "During the 1994–95 FA Women's Cup, the final event was the 1995 FA Women's Cup Final."
+        },
+        {
+            "in": "<head> 2018–19 UEFA Nations League <rel> <mask> <tail> 2019 UEFA Nations League Final",
+            "out": "2019 UEFA Nations League Final was the final event of 2018–19 UEFA Nations League."
+        },
+        {
+            "in": "<head> C&C 26 Wave <rel> <mask> <tail> 219",
+            "out": "The score given to C&C 26 Wave is 219."
+        },
+        {
+            "in": "<head> Hunter 310 <rel> <mask> <tail> 168",
+            "out": "Hunter 310 is rated 168."
+        },
+        {
+            "in": "<head> Premier-President of the Parliament of Paris <rel> <mask> <tail> King of France",
+            "out": "Premier-President of the Parliament of Paris was nominated by the King of France."
+        },
+        {
+            "in": "<head> Rebecca Gomperts <rel> <mask> <tail> Time",
+            "out": "Rebecca Gomperts was nominated by Time."
+        },
+        {
+            "in": "<head> Justice of the South Australian Supreme Court <rel> <mask> <tail> Attorney-General of South Australia",
+            "out": "Justice of the South Australian Supreme Court was nominated by Attorney-General of South Australia."
+        },
+        {
+            "in": "<head> Louisville Company v. United States <rel> <mask> <tail> Supreme Court of the United States",
+            "out": "Louisville Company v. United States took place in the Supreme Court of the United States."
+        },
+        {
+            "in": "<head> Fried frailty criteria <rel> <mask> <tail> frailty syndrome",
+            "out": "Fried frailty criteria suggests the existence of frailty syndrome."
+        },
+        {
+            "in": "<head> Riesman's sign <rel> <mask> <tail> toxic diffuse goiter",
+            "out": "Riesman's sign indicates toxic diffuse goiter."
+        },
+        {
+            "in": "<head> Finkelstein's test <rel> <mask> <tail> de Quervain syndrome",
+            "out": "Finkelstein's test suggests the existence of de Quervain syndrome."
+        },
+        {
+            "in": "<head> Fernandez reaction <rel> <mask> <tail> leprosy",
+            "out": "Fernandez reaction is a symptom of leprosy."
+        },
+        {
+            "in": "<head> Air crescent sign <rel> <mask> <tail> aspergilloma",
+            "out": "Air crescent sign suggests a possible diagnosis of aspergilloma."
+        },
+        {
+            "in": "<head> Singpur <rel> <mask> <tail> 0",
+            "out": "Singpur has an illiterate population of 0."
+        },
+        {
+            "in": "<head> 33rd US Colored Infantry, Misc Cards: Hamilton, Frederick <rel> <mask> <tail> unrestricted access",
+            "out": "33rd US Colored Infantry, Misc Cards: Hamilton, Frederick has unrestricted access."
+        },
+        {
+            "in": "<head> Munsyi Dewan <rel> <mask> <tail> Dewan Bahasa dan Pustaka",
+            "out": "Munsyi Dewan received her accreditation from the Dewan Bahasa dan Pustaka."
+        },
+        {
+            "in": "<head> Helping Hands Home Care <rel> <mask> <tail> National Health Service",
+            "out": "Helping Hands Home Care is accredited by the National Health Service."
+        },
+        {
+            "in": "<head> Emirates Motorsports Organisation <rel> <mask> <tail> United Arab Emirates National Olympic Committee",
+            "out": "Emirates Motorsports Organisation is accredited by United Arab Emirates National Olympic Committee."
+        },
+        {
+            "in": "<head> Cathay 21 <rel> <mask> <tail> 2.388",
+            "out": "The Cathay 21 has a draft of 2.388."
+        },
+        {
+            "in": "<head> MV Logos II <rel> <mask> <tail> 5.12",
+            "out": "MV Logos II has a depth below the water line of 5.12."
+        },
+        {
+            "in": "<head> Geshé Kyab Seng <rel> <mask> <tail> Kyangpa Chö Lo",
+            "out": "Geshé Kyab Seng was taught by Kyangpa Chö Lo."
+        },
+        {
+            "in": "<head> Tangpa Könchok Bar <rel> <mask> <tail> Khön Tön Shyönnu",
+            "out": "Tangpa Könchok Bar was a student of Khön Tön Shyönnu."
+        },
+        {
+            "in": "<head> Robert Antoine Pinchon <rel> <mask> <tail> Claude Monet",
+            "out": "Robert Antoine Pinchon was a student of Claude Monet."
+        },
+        {
+            "in": "<head> Afu4g14110 <rel> <mask> <tail> Chr4 A fumigatus Af293",
+            "out": "Afu4g14110 is found in the Chr4 A fumigatus Af293 chromosome."
+        },
+        {
+            "in": "<head> Republic of Hungary <rel> <mask> <tail> coat of arms of Hungary",
+            "out": "Republic of Hungary's national symbol is coat of arms of Hungary."
+        }
+    ]
+}

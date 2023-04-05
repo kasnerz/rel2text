@@ -1,0 +1,1308 @@
+{
+    "data": [
+        {
+            "in": "<head> Grand Village of the Illinois <rel_desc> Type of historic place as defined by the US National Park Service. <tail> Illinois Historic Preservation Division",
+            "out": "The Grand Village of the Illinois is an historic place that is preserved by the Illinois Historic Preservation Division."
+        },
+        {
+            "in": "<head> Germania Club Building Germania Club Building 1 <rel_desc> Type of historic place as defined by the US National Park Service. <tail> List of Chicago Landmarks",
+            "out": "The Germania Club Building Germania Club Building 1 is in the List of Chicago Landmarks."
+        },
+        {
+            "in": "<head> Permian <rel_desc> s rGB hex triplet format for subject color (e.g. 7FFFD4) specifying the 8-bit red, green and blue components <tail> F7583C",
+            "out": "The colour hex triplet of Permian is F7583C."
+        },
+        {
+            "in": "<head> Movement for the Liberation of Peoples <rel_desc> s rGB hex triplet format for subject color (e.g. 7FFFD4) specifying the 8-bit red, green and blue components <tail> EC0408",
+            "out": "EC0408 is the sRGB colox hex triplet used by the Movement for the Liberation of Peoples."
+        },
+        {
+            "in": "<head> United Bermuda Party <rel_desc> s rGB hex triplet format for subject color (e.g. 7FFFD4) specifying the 8-bit red, green and blue components <tail> 3366CC",
+            "out": "The hex code color if the United Bermuda Party is 3366CC."
+        },
+        {
+            "in": "<head> Théâtre Municipal <rel_desc> point in time at which the subject (organisation, building) ceased to exist;  see date of official closure (P3999) for closing a facility, service retirement (P730) for retiring equipment,  discontinued date (P2669) for stopping a product <tail> 2007",
+            "out": "Théâtre Municipal was demolished in 2007."
+        },
+        {
+            "in": "<head> Krasny Stroitel <rel_desc> point in time at which the subject (organisation, building) ceased to exist;  see date of official closure (P3999) for closing a facility, service retirement (P730) for retiring equipment,  discontinued date (P2669) for stopping a product <tail> 1960-08-18",
+            "out": "Krasny Stroitel was abolished in 1960-08-18."
+        },
+        {
+            "in": "<head> Minister for Naval Defence <rel_desc> point in time at which the subject (organisation, building) ceased to exist;  see date of official closure (P3999) for closing a facility, service retirement (P730) for retiring equipment,  discontinued date (P2669) for stopping a product <tail> 1920-06-30",
+            "out": "Minister for Naval Defence abolished facilities in 1920-06-30."
+        },
+        {
+            "in": "<head> Nattdal <rel_desc> alias used by someone (for nickname use P1449) <tail> B",
+            "out": "Nattdal uses the pseudonym B."
+        },
+        {
+            "in": "<head> Mathew Carey <rel_desc> alias used by someone (for nickname use P1449) <tail> Hamilton",
+            "out": "Mathew Carey is also known as Hamilton."
+        },
+        {
+            "in": "<head> Max Beheim-Schwarzbach <rel_desc> alias used by someone (for nickname use P1449) <tail> Max Böheimb",
+            "out": "Max Beheim-Schwarzbach wrote under the penname Max Böheimb."
+        },
+        {
+            "in": "<head> Linkinus <rel_desc> main use of the subject (includes current and former usage) <tail> Internet Relay Chat",
+            "out": "Linkinus is used for Internet Relay Chat."
+        },
+        {
+            "in": "<head> Trello <rel_desc> main use of the subject (includes current and former usage) <tail> project management",
+            "out": "Trello is mainly used in project management."
+        },
+        {
+            "in": "<head> Service max <rel_desc> main use of the subject (includes current and former usage) <tail> project management",
+            "out": "ServiceMax provides project management services."
+        },
+        {
+            "in": "<head> dot matrix <rel_desc> main use of the subject (includes current and former usage) <tail> printer",
+            "out": "Dot matrix can be used by printers."
+        },
+        {
+            "in": "<head> Independência I <rel_desc> main use of the subject (includes current and former usage) <tail> animal watering dam",
+            "out": "Independência I is often used as a animal watering dam."
+        },
+        {
+            "in": "<head> knife <rel_desc> example of how a lexeme might be used (Do not use this property on a Sense, but instead a statement on the Lexeme itself) <tail> bestick",
+            "out": "A knife can be used to bestick."
+        },
+        {
+            "in": "<head> Salmonella virus f18SE <rel_desc> classification of viruses of the International Committee on Taxonomy of Viruses by the molecular composition of the virus genome (DNA, RNA, double or single stranded and translational polarity) <tail> double-stranded DNA virus",
+            "out": "Salmonella virus f18SE is a double-stranded DNA virus."
+        },
+        {
+            "in": "<head> Ant associated cyclovirus 1 <rel_desc> classification of viruses of the International Committee on Taxonomy of Viruses by the molecular composition of the virus genome (DNA, RNA, double or single stranded and translational polarity) <tail> single-stranded DNA virus",
+            "out": "Ant associated cyclovirus 1 is a single-stranded DNA virus."
+        },
+        {
+            "in": "<head> Ant associated cyclovirus 1 <rel_desc> classification of viruses of the International Committee on Taxonomy of Viruses by the molecular composition of the virus genome (DNA, RNA, double or single stranded and translational polarity) <tail> ss dNA",
+            "out": "Ant associated cyclovirus 1 is classed as ssDNA."
+        },
+        {
+            "in": "<head> Doğu <rel_desc> direct or word-for-word translation of a name or phrase (qualifier for name, title, inscription, and quotation properties) <tail> Este",
+            "out": "The name Doğu literally translates to Este."
+        },
+        {
+            "in": "<head> Hülya <rel_desc> direct or word-for-word translation of a name or phrase (qualifier for name, title, inscription, and quotation properties) <tail> Dreams",
+            "out": "Hülya means Dreams."
+        },
+        {
+            "in": "<head> Ülkü <rel_desc> direct or word-for-word translation of a name or phrase (qualifier for name, title, inscription, and quotation properties) <tail> Ideal",
+            "out": "The literal translation of Ülkü is Ideal."
+        },
+        {
+            "in": "<head> Still Live <rel_desc> person responsible for lighting on a stage <tail> Tom Van Aken",
+            "out": "Tom Van Aken was the lighting designer for Still Live."
+        },
+        {
+            "in": "<head> Consolidated Farm and Rural Development Act of 1972 <rel_desc> citation to United States Public Law <tail> 92-419",
+            "out": "Consolidated Farm and Rural Development Act of 1972 can be found in United States Public Law as 92-419."
+        },
+        {
+            "in": "<head> The Magic of Walt Disney World <rel_desc> British media content rating (add BBFC reference with qualifier P2676) <tail> U certificate",
+            "out": "The Magic of Walt Disney World has a BBFC rating of U certificate."
+        },
+        {
+            "in": "<head> Gloria Mundi <rel_desc> category assigned to a film by the Board of Film Classification (CNC) which what audiences may view it in France <tail> no age restriction",
+            "out": "Gloria Mundi was certified with no age restriction."
+        },
+        {
+            "in": "<head> General Federation of Trade Unions of Korea <rel_desc> media that speaks for an organization or a movement, and that is usually edited by its members <tail> Rodongja Sinmun",
+            "out": "Rodongja Sinmun is the house publication for General Federation of Trade Unions of Korea."
+        },
+        {
+            "in": "<head> Triage <rel_desc> creative work, tradition or theory this creative work references by allusion, quote or similar means (for citations in scholarly and legal works use P2860, for other more specific properties have a look at see also on the property page) <tail> A Taste of Armageddon",
+            "out": "Triage is a work that references A Taste of Armageddon."
+        },
+        {
+            "in": "<head> Too Far Afield <rel_desc> creative work, tradition or theory this creative work references by allusion, quote or similar means (for citations in scholarly and legal works use P2860, for other more specific properties have a look at see also on the property page) <tail> Effi Briest",
+            "out": "Too Far Afield draws on Effi Briest."
+        },
+        {
+            "in": "<head> 2020 COVID-19 pandemic in Belarus <rel_desc> cumulative number of medical tests <tail> 211369",
+            "out": "During the 2020 COVID-19 pandemic in Belarus 211369 medical tests were performed."
+        },
+        {
+            "in": "<head> demographics of the Russian Empire <rel_desc> general population census of the country or region <tail> Russian Empire Census",
+            "out": "Demographics of the Russian Empire are derived from Russian Empire Census."
+        },
+        {
+            "in": "<head> demographics of the European Union <rel_desc> general population census of the country or region <tail> 2011 European Union census",
+            "out": "The 2011 European Union census shows the demographics of the European Union."
+        },
+        {
+            "in": "<head> i phone 4, model A1349 <rel_desc> measure of the maximum energy absorbed by a unit of mass of exposed tissue of a person using a mobile phone, over a given time or more simply the power absorbed per unit mass <tail> 0.87",
+            "out": "IPhone 4, model A1349 can absorb power at a rate of 0.87."
+        },
+        {
+            "in": "<head> human t cytotoxic cell <rel_desc> a gene or a protein published as a marker of a species-specific cell type <tail> CD2",
+            "out": "The human t cytotoxic cell has the marker CD2."
+        },
+        {
+            "in": "<head> human tanycyte <rel_desc> a gene or a protein published as a marker of a species-specific cell type <tail> PENK",
+            "out": "The cell type human tanycyte has the marker PENK."
+        },
+        {
+            "in": "<head> Central Cooperative Bank <rel_desc> BG Unified Identification <tail> 831447150",
+            "out": "Central Cooperative Bank has BG identification number 831447150."
+        },
+        {
+            "in": "<head> EPay.bg <rel_desc> BG Unified Identification <tail> 131409398",
+            "out": "EPay.bg's BG EIK code is 131409398."
+        },
+        {
+            "in": "<head> Staro Selo <rel_desc> at this archeological site the object has been uncovered <tail> church building",
+            "out": "A church building has been uncovered at the Staro Selo."
+        },
+        {
+            "in": "<head> Oraško Kale <rel_desc> at this archeological site the object has been uncovered <tail> church building",
+            "out": "Oraško Kale is the archaeological site of a church building."
+        },
+        {
+            "in": "<head> Diamantopoulou 3 & 13 Kallirrois <rel_desc> at this archeological site the object has been uncovered <tail> Cynosarges",
+            "out": "Cynosarges was discovered at Diamantopoulou 3 & 13 Kallirrois."
+        },
+        {
+            "in": "<head> The invisible sculptures <rel_desc> name by which a subject is recorded in a database or mentioned as a contributor of a work <tail> Neoinvisible art, Assenze, Vacuum",
+            "out": "Neoinvisible art, Assenze, Vacuum is also known as The invisible sculptures."
+        },
+        {
+            "in": "<head> Alpini <rel_desc> name by which a subject is recorded in a database or mentioned as a contributor of a work <tail> Penne Nere",
+            "out": "Alpini is also called Penne Nere."
+        },
+        {
+            "in": "<head> Vittoria Alata <rel_desc> name by which a subject is recorded in a database or mentioned as a contributor of a work <tail> Monumento alla Vittoria, Il Cavallo di Castiglioni",
+            "out": "Vittoria Alata was named Monumento alla Vittoria, Il Cavallo di Castiglioni."
+        },
+        {
+            "in": "<head> Flatholmen Lighthouse <rel_desc> description of a navigational light sequence or colour displayed on a nautical chart. <tail> Oc WRG 6s",
+            "out": "The light characteristic of Flatholmen Lighthouse is Oc WRG 6s."
+        },
+        {
+            "in": "<head> Bitoujiao Lighthouse <rel_desc> description of a navigational light sequence or colour displayed on a nautical chart. <tail> Oc W 11s",
+            "out": "Bitoujiao Lighthouse has the light characteristic Oc W 11s."
+        },
+        {
+            "in": "<head> Antennaria howellii subsp. canadensis <rel_desc> common or vernacular name of a biological taxon <tail> Canadian pussytoes",
+            "out": "Antennaria howellii subsp. canadensis is commonly known as Canadian pussytoes."
+        },
+        {
+            "in": "<head> Bembidion tibiale <rel_desc> common or vernacular name of a biological taxon <tail> Beekpriemkever",
+            "out": "Bembidion tibiale has a common name Beekpriemkever."
+        },
+        {
+            "in": "<head> Common Buttonquail <rel_desc> common or vernacular name of a biological taxon <tail> Springvaktel, mazā trīspirkstīte, miškinė tripirštė",
+            "out": "The common name for a Common Buttonquail is Springvaktel, mazā trīspirkstīte, miškinė tripirštė."
+        },
+        {
+            "in": "<head> Santa Maria Island <rel_desc> geographic location code mantained by UNECE <tail> PTSMA",
+            "out": "Santa Maria Island’s UN/LOCODE is PTSMA."
+        },
+        {
+            "in": "<head> GJ 4276 c <rel_desc> exoplanet mass multiplied by the inclination angle <tail> 0.0135",
+            "out": "The M sin i of GJ 4276 c is 0.0135."
+        },
+        {
+            "in": "<head> Kepler-113c <rel_desc> exoplanet mass multiplied by the inclination angle <tail> 0.027",
+            "out": "Kepler-113c has an exoplanet mass of 0.027."
+        },
+        {
+            "in": "<head> HD 20794 b <rel_desc> exoplanet mass multiplied by the inclination angle <tail> 0.0085",
+            "out": "HD 20794 b has an exoplanet mass of 0.0085."
+        },
+        {
+            "in": "<head> Duby u Pavlíkovy hájovny <rel_desc> the taxon of an individual named organism (animal, plant) <tail> Quercus robur",
+            "out": "Duby u Pavlíkovy hájovny is classified as Quercus robur."
+        },
+        {
+            "in": "<head> Yuan Bao <rel_desc> the taxon of an individual named organism (animal, plant) <tail> Ailuropoda melanoleuca",
+            "out": "Yuan Bao is a Ailuropoda melanoleuca."
+        },
+        {
+            "in": "<head> Boji <rel_desc> the taxon of an individual named organism (animal, plant) <tail> dog",
+            "out": "Boji is a dog."
+        },
+        {
+            "in": "<head> 10999 Braga-Ribas <rel_desc> designation of an astronomical body after its discovery and before its official name <tail> 1978 VC6",
+            "out": "10999 Braga-Ribas is also known provisionally as 1978 VC6."
+        },
+        {
+            "in": "<head> The Prince of Egypt <rel_desc> rating of a film in the former (2004–2011) <tail> Category I",
+            "out": "The Prince of Egypt was rated Category I in filmiroda rating."
+        },
+        {
+            "in": "<head> Triumph of the Ten Gladiators <rel_desc> rating of a film in the former (2004–2011) <tail> Category II",
+            "out": "Triumph of the Ten Gladiators has a Filmiroda rating of Category II."
+        },
+        {
+            "in": "<head> Shrek Forever After <rel_desc> rating of a film in the former (2004–2011) <tail> Category I",
+            "out": "The filmiroda rating for Shrek Forever After is Category I."
+        },
+        {
+            "in": "<head> Reap the Wild Wind <rel_desc> rating in the Spanish motion picture content rating system <tail> suitable for all audiences",
+            "out": "The ICAA rating for the movie Reap the Wild Wind is suitable for all audiences."
+        },
+        {
+            "in": "<head> The Outpost <rel_desc> rating in the Spanish motion picture content rating system <tail> Not recommended for minors under 16",
+            "out": "The Outpost is rated 'Not recommended for minors under 16' by ICAA."
+        },
+        {
+            "in": "<head> Mulea <rel_desc> phonetic algorithm which assigns to words a sequence of digits, the phonetic code <tail> 65",
+            "out": "65 is a cologne phonetics code for Mulea."
+        },
+        {
+            "in": "<head> Geert Van Pamel <rel_desc> this items username on Slide share <tail> geertivp",
+            "out": "Geert Van Pamel's username on SlideShare is geertivp."
+        },
+        {
+            "in": "<head> Liam Boogar <rel_desc> this items username on Slide share <tail> liamboogar",
+            "out": "Liam Boogar has the slideshare username liamboogar."
+        },
+        {
+            "in": "<head> Mike Walsh <rel_desc> this items username on Slide share <tail> mikewalsh",
+            "out": "Mike Walsh's Slide share username is mikewalsh."
+        },
+        {
+            "in": "<head> Haunted Holiday <rel_desc> person responsible for dramaturgical aspects in a performing arts production <tail> Andrea Vészits",
+            "out": "Haunted Holiday's dramaturge is Andrea Vészits."
+        },
+        {
+            "in": "<head> Divergent <rel_desc> rating in the media content rating system of New Zealand <tail> M",
+            "out": "Divergent has an OFLC classification of M."
+        },
+        {
+            "in": "<head> Beware the Slenderman <rel_desc> rating in the media content rating system of New Zealand <tail> R13",
+            "out": "The OFLC classification of Beware the Slenderman is R13."
+        },
+        {
+            "in": "<head> Misaki font <rel_desc> name of the official Ubuntu package <tail> fonts-misaki",
+            "out": "The Misaki font is part of the fonts-misaki package in Ubuntu."
+        },
+        {
+            "in": "<head> Creed II <rel_desc> rating of a film or television program in the Philippines <tail> PG",
+            "out": "Creed II was rated PG by the MTRCB."
+        },
+        {
+            "in": "<head> Headlock <rel_desc> rating of a film or television program in the Philippines <tail> R-13",
+            "out": "Headlock has a MTRCB raging of R-13."
+        },
+        {
+            "in": "<head> Where the Wild Roses Grow <rel_desc> Indicates an item or Creative work that this item, or Creative work (in some sense), is part of. <tail> Murder Ballads",
+            "out": "Where the Wild Roses Grow is part of Murder Ballads."
+        },
+        {
+            "in": "<head> Esther 3 <rel_desc> Indicates an item or Creative work that this item, or Creative work (in some sense), is part of. <tail> Book of Esther",
+            "out": "Esther 3 is part of the Book of Esther."
+        },
+        {
+            "in": "<head> Wouldnit <rel_desc> Indicates an item or Creative work that this item, or Creative work (in some sense), is part of. <tail> Rising",
+            "out": "Wouldnit is a song on Rising."
+        },
+        {
+            "in": "<head> Systemagic <rel_desc> Indicates an item or Creative work that this item, or Creative work (in some sense), is part of. <tail> Silver Eye",
+            "out": "Systemagic is part of Silver Eye."
+        },
+        {
+            "in": "<head> This Will Be <rel_desc> Indicates an item or Creative work that this item, or Creative work (in some sense), is part of. <tail> Inseparable",
+            "out": "This Will Be is part of the album Inseparable."
+        },
+        {
+            "in": "<head> Nicholas Sutton <rel_desc> The persons spouse. <tail> Ayşe Gülnev Osmanoğlu",
+            "out": "Nicholas Sutton is married to Ayşe Gülnev Osmanoğlu."
+        },
+        {
+            "in": "<head> Roald Sagdeev <rel_desc> The persons spouse. <tail> Susan Eisenhower",
+            "out": "Roald Sagdeev is married to Susan Eisenhower."
+        },
+        {
+            "in": "<head> Madelyn Dunham <rel_desc> The persons spouse. <tail> Stanley Armour Dunham",
+            "out": "Stanley Armour Dunham is the spouse of Madelyn Dunham."
+        },
+        {
+            "in": "<head> Sydney Prior Hall <rel_desc> The persons spouse. <tail> Mary Gow",
+            "out": "Sydney Prior Hall is married to Mary Gow."
+        },
+        {
+            "in": "<head> Princess Tomohito of Mikasa <rel_desc> The persons spouse. <tail> Prince Tomohito of Mikasa",
+            "out": "Princess Tomohito of Mikasa is married to Prince Tomohito of Mikasa."
+        },
+        {
+            "in": "<head> Plummet Airlines <rel_desc> A former member of the band. <tail> Darryl Hunt",
+            "out": "Darryl Hunt is a former band member of Plummet Airlines."
+        },
+        {
+            "in": "<head> Utopia <rel_desc> A former member of the band. <tail> Tony Fox Sales",
+            "out": "Tony Fox Sales is a former band member of Utopia."
+        },
+        {
+            "in": "<head> Roxus <rel_desc> A former member of the band. <tail> Juno Roxas",
+            "out": "Juno Roxas is a former band member of Roxus."
+        },
+        {
+            "in": "<head> Bhaman Kalan <rel_desc> Body that owns/operates the Place. <tail> Gram panchayat",
+            "out": "Gram panchayat is the governing body of Bhaman Kalan."
+        },
+        {
+            "in": "<head> Tadepalle mandal, Guntur district <rel_desc> Body that owns/operates the Place. <tail> Panchayat samiti",
+            "out": "Tadepalle mandal, Guntur district is governed by Panchayat samiti."
+        },
+        {
+            "in": "<head> Pyeonsu <rel_desc> National cuisine of a Food or Restaurant <tail> Korean cuisine",
+            "out": "Pyeonsu is a dish of Korean cuisine."
+        },
+        {
+            "in": "<head> Belmond Le Manoir aux Quat'Saisons <rel_desc> National cuisine of a Food or Restaurant <tail> French cuisine",
+            "out": "The restaurant Belmond Le Manoir aux Quat'Saisons specialises in French cuisine."
+        },
+        {
+            "in": "<head> Esplanade Riel <rel_desc> Number of spans or arches. <tail> 2",
+            "out": "There are 2 spans on the Esplanade Riel."
+        },
+        {
+            "in": "<head> Gasworks Bridge <rel_desc> Number of spans or arches. <tail> 2",
+            "out": "Gasworks Bridge has 2 spans."
+        },
+        {
+            "in": "<head> Cantlop Bridge <rel_desc> Number of spans or arches. <tail> 1",
+            "out": "Cantlop Bridge has 1 span."
+        },
+        {
+            "in": "<head> album cover for Grace Jones, Slave to the Rhythm <rel_desc> person(s) or organization which designed the object <tail> Jean-Paul Goude",
+            "out": "Album cover for Grace Jones, Slave to the Rhythm was designed by Jean-Paul Goude."
+        },
+        {
+            "in": "<head> A Mind Forever Voyaging <rel_desc> person(s) or organization which designed the object <tail> Steve Meretzky",
+            "out": "A Mind Forever Voyaging was created by Steve Meretzky."
+        },
+        {
+            "in": "<head> ROMP <rel_desc> person(s) or organization which designed the object <tail> IBM",
+            "out": "ROMP is designed by IBM."
+        },
+        {
+            "in": "<head> Alvord Lake Bridge <rel_desc> person(s) or organization which designed the object <tail> Ernest L. Ransome",
+            "out": "Alvord Lake Bridge was designed by Ernest L. Ransome."
+        },
+        {
+            "in": "<head> tyramine <rel_desc> the taxon in which the item can be found <tail> Citrus ×limon",
+            "out": "Citrus ×limon can be found in the taxon tyramine."
+        },
+        {
+            "in": "<head> SPATA31C2 <rel_desc> the taxon in which the item can be found <tail> Homo sapiens",
+            "out": "Homo sapiens have the protein coding gene SPATA31C2."
+        },
+        {
+            "in": "<head> PHD-like zinc-binding protein <rel_desc> the taxon in which the item can be found <tail> Leishmania major Friedlin",
+            "out": "A PHD-like zinc-binding protein can be found in Leishmania major Friedlin."
+        },
+        {
+            "in": "<head> Paranormal Activity 2 <rel_desc> the narrative of the work is set in this location <tail> California",
+            "out": "Paranormal Activity 2 is set in California."
+        },
+        {
+            "in": "<head> Safari 3000 <rel_desc> the narrative of the work is set in this location <tail> Africa",
+            "out": "Safari 3000 is located in Africa."
+        },
+        {
+            "in": "<head> Extra deputy member of the Committee on Health and Welfare <rel_desc> who appointed the person to the office, can be used as a qualifier <tail> Parliament of Sweden",
+            "out": "The Parliament of Sweden appoints the Extra deputy member of the Committee on Health and Welfare."
+        },
+        {
+            "in": "<head> municipal executive of Wilp <rel_desc> who appointed the person to the office, can be used as a qualifier <tail> Wilp municipal council",
+            "out": "The municipal executive of Wilp is appointed by the Wilp municipal council."
+        },
+        {
+            "in": "<head> Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media <rel_desc> who appointed the person to the office, can be used as a qualifier <tail> President of Ireland",
+            "out": "The Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media is appointed by the President of Ireland."
+        },
+        {
+            "in": "<head> mayor of Wittem <rel_desc> who appointed the person to the office, can be used as a qualifier <tail> the Crown",
+            "out": "Mayor of Wittem is appointed by the Crown."
+        },
+        {
+            "in": "<head> Deputy Member of the Committee on Education <rel_desc> who appointed the person to the office, can be used as a qualifier <tail> Parliament of Sweden",
+            "out": "Deputy Member of the Committee on Education was appointed by the Parliament of Sweden."
+        },
+        {
+            "in": "<head> Sabah <rel_desc> official public holiday that occurs in this place in its honor, usually a non-working day <tail> Chinese New Year",
+            "out": "Chinese New Year is a public Holiday in Sabah."
+        },
+        {
+            "in": "<head> Mirandela <rel_desc> official public holiday that occurs in this place in its honor, usually a non-working day <tail> May 25",
+            "out": "May 25 is a public holiday in Mirandela."
+        },
+        {
+            "in": "<head> Bosio <rel_desc> official public holiday that occurs in this place in its honor, usually a non-working day <tail> patronal festival",
+            "out": "In Bosio the patronal festival is a public holiday."
+        },
+        {
+            "in": "<head> Nights of Labor <rel_desc> name of person or team creating cover artwork for book, record album, single record etc. <tail> Vincent van Gogh",
+            "out": "The book Nights of Labor has cover art by Vincent van Gogh."
+        },
+        {
+            "in": "<head> The Long Loud Silence <rel_desc> name of person or team creating cover artwork for book, record album, single record etc. <tail> Richard M. Powers",
+            "out": "Richard M. Powers provided the cover art for The Long Loud Silence."
+        },
+        {
+            "in": "<head> The Vergecast - Lumber guitar licks <rel_desc> main role in presenting a radio or television program or a performing arts show <tail> Nilay Patel",
+            "out": "Nilay Patel presents The Vergecast - Lumber guitar licks."
+        },
+        {
+            "in": "<head> All The Stations <rel_desc> main role in presenting a radio or television program or a performing arts show <tail> Vicki Pipe",
+            "out": "Vicki Pipe was the video presenter for All The Stations."
+        },
+        {
+            "in": "<head> Temple Hardy <rel_desc> for persons who are notable as commanding officers, the units they commanded <tail> HMS Thunderer",
+            "out": "HMS Thunderer is commanded by Temple Hardy."
+        },
+        {
+            "in": "<head> Vachakan Vlasov <rel_desc> for persons who are notable as commanding officers, the units they commanded <tail> Military Institute of the Kazakh Ground Forces",
+            "out": "Vachakan Vlasov is the commander of Military Institute of the Kazakh Ground Forces."
+        },
+        {
+            "in": "<head> Robert Bartels <rel_desc> for persons who are notable as commanding officers, the units they commanded <tail> German submarine U-197",
+            "out": "Robert Bartels is the commander of the German submarine U-197."
+        },
+        {
+            "in": "<head> John O'Brien <rel_desc> for persons who are notable as commanding officers, the units they commanded <tail> Royal Canadian Navy",
+            "out": "John O'Brien is the commander of the Royal Canadian Navy."
+        },
+        {
+            "in": "<head> Etrich Sport-Taube <rel_desc> date or point in time on which aircraft, rocket, or airline first flew <tail> 1929",
+            "out": "The Etrich Sport-Taube made its first flight in 1929."
+        },
+        {
+            "in": "<head> Freedom Aviation Phoenix <rel_desc> date or point in time on which aircraft, rocket, or airline first flew <tail> 2007-08-20",
+            "out": "Freedom Aviation Phoenix first flew on 2007-08-20."
+        },
+        {
+            "in": "<head> Arcturus T-20 <rel_desc> date or point in time on which aircraft, rocket, or airline first flew <tail> 2009-01-28",
+            "out": "Arcturus T-20's first flight was on 2009-01-28."
+        },
+        {
+            "in": "<head> American Eagle A-129 <rel_desc> date or point in time on which aircraft, rocket, or airline first flew <tail> 1929",
+            "out": "The first flight of the American Eagle A-129 was in 1929."
+        },
+        {
+            "in": "<head> Gunma Prefectural Road Route 241 <rel_desc> location of the terminus of a linear feature <tail> Tsumagoi",
+            "out": "Gunma Prefectural Road Route 241 terminates in Tsumagoi."
+        },
+        {
+            "in": "<head> Diplomat <rel_desc> location of the terminus of a linear feature <tail> Washington, D.C.",
+            "out": "The Diplomat terminated in Washington, D.C."
+        },
+        {
+            "in": "<head> jet lag <rel_desc> health treatment used to resolve or ameliorate a medical condition <tail> light therapy",
+            "out": "Jet lag may be solved with light therapy."
+        },
+        {
+            "in": "<head> borderline personality disorder <rel_desc> health treatment used to resolve or ameliorate a medical condition <tail> psychotherapy",
+            "out": "Borderline personality disorder can be treated with psychotherapy."
+        },
+        {
+            "in": "<head> trachoma <rel_desc> health treatment used to resolve or ameliorate a medical condition <tail> antibiotic",
+            "out": "An antibiotic possibly treats trachoma."
+        },
+        {
+            "in": "<head> infectious mononucleosis <rel_desc> health treatment used to resolve or ameliorate a medical condition <tail> corticosteroid",
+            "out": "Infectious mononucleosis can often be treated by a corticosteroid."
+        },
+        {
+            "in": "<head> Behçet's disease <rel_desc> health treatment used to resolve or ameliorate a medical condition <tail> immunoglobulin therapy",
+            "out": "A possible treatment for Behçet's disease is immunoglobulin therapy."
+        },
+        {
+            "in": "<head> Čuomasjohka <rel_desc> main source of a river, stream or lake <tail> Golmmešoaivi",
+            "out": "Čuomasjohka originates in Golmmešoaivi."
+        },
+        {
+            "in": "<head> Sungai Landak <rel_desc> main source of a river, stream or lake <tail> Mount Niut",
+            "out": "Sungai Landak has it's origin at Mount Niut."
+        },
+        {
+            "in": "<head> number-one hit in Slovakia <rel_desc> Wikimedia list related to this subject <tail> list of number-one hits of 2018 in Slovakia",
+            "out": "The number-one hit in Slovakia of 2018 is documented on the list of number-one hits of 2018 in Slovakia."
+        },
+        {
+            "in": "<head> Linus <rel_desc> Wikimedia list related to this subject <tail> list of popes",
+            "out": "Linus is present in the list of popes."
+        },
+        {
+            "in": "<head> raid on Scarborough, Hartlepool and Whitby <rel_desc> total (cumulative) number of people who died since start as a direct result of an event or cause <tail> 137",
+            "out": "Raid on Scarborough, Hartlepool and Whitby caused 137 deaths."
+        },
+        {
+            "in": "<head> CAAC Flight 296 <rel_desc> total (cumulative) number of people who died since start as a direct result of an event or cause <tail> 0",
+            "out": "There were 0 deaths on CAAC Flight 296."
+        },
+        {
+            "in": "<head> Kansas Wesleyan University <rel_desc> ratio of the number of applicants admitted to the total number of applicants <tail> 0.62",
+            "out": "Kansas Wesleyan University has an admission rate of 0.62."
+        },
+        {
+            "in": "<head> North Carolina Agricultural and Technical State University <rel_desc> ratio of the number of applicants admitted to the total number of applicants <tail> 0.57",
+            "out": "The North Carolina Agricultural and Technical State University reported an admission rate of 0.57."
+        },
+        {
+            "in": "<head> Randolph College <rel_desc> ratio of the number of applicants admitted to the total number of applicants <tail> 0.9",
+            "out": "The admission rate for Randolph College is 0.9."
+        },
+        {
+            "in": "<head> The House of Bernarda Alba <rel_desc> person who designed the stage or film set of this item <tail> Giorgos Patsas",
+            "out": "Giorgos Patsas was the scenographer for The House of Bernarda Alba."
+        },
+        {
+            "in": "<head> Afternoon of a Faun <rel_desc> person who designed the stage or film set of this item <tail> Pablo Picasso",
+            "out": "The set of Afternoon of a Faun was designed by Pablo Picasso."
+        },
+        {
+            "in": "<head> De Liefde van Don Juan <rel_desc> person who designed the stage or film set of this item <tail> Germinal Casado",
+            "out": "Germinal Casado was the scenographer of De Liefde van Don Juan."
+        },
+        {
+            "in": "<head> Joyeux Noël <rel_desc> historical, contemporary, or future period the work or genre is set in or event featured in the story of the work <tail> World War I",
+            "out": "Joyeux Noël was set in World War I."
+        },
+        {
+            "in": "<head> Enfant Terrible <rel_desc> historical, contemporary, or future period the work or genre is set in or event featured in the story of the work <tail> 1980s",
+            "out": "Enfant Terrible was set in 1980s."
+        },
+        {
+            "in": "<head> Aria the Avvenire <rel_desc> historical, contemporary, or future period the work or genre is set in or event featured in the story of the work <tail> future",
+            "out": "Aria the Avvenire is set in the future."
+        },
+        {
+            "in": "<head> Puppet Master <rel_desc> historical, contemporary, or future period the work or genre is set in or event featured in the story of the work <tail> 1939",
+            "out": "Puppet Master was set in 1939."
+        },
+        {
+            "in": "<head> Dead Souls <rel_desc> historical, contemporary, or future period the work or genre is set in or event featured in the story of the work <tail> 1830s",
+            "out": "Dead Souls was set in the 1830s."
+        },
+        {
+            "in": "<head> Soyuz TMA-11M <rel_desc> location where the craft landed <tail> Kazakhstan",
+            "out": "Soyuz TMA-11M landed in Kazakhstan."
+        },
+        {
+            "in": "<head> Soyuz 24 <rel_desc> location where the craft landed <tail> Kazakhstan",
+            "out": "Flight Soyuz 24 landed in Kazakhstan."
+        },
+        {
+            "in": "<head> Apollo 15 <rel_desc> location where the craft landed <tail> Pacific Ocean",
+            "out": "Apollo 15 landed in the Pacific Ocean."
+        },
+        {
+            "in": "<head> Soyuz TM-6 <rel_desc> location where the craft landed <tail> Kazakhstan",
+            "out": "The Soyuz TM-6's location of landing was Kazakhstan."
+        },
+        {
+            "in": "<head> 10:26:25 <rel_desc> indicate when something happens relative to its beginning <tail> 37585",
+            "out": "The time index for 10:26:25 is 37585."
+        },
+        {
+            "in": "<head> Diamond Langi <rel_desc> competition or event won by the subject <tail> Miss New Zealand",
+            "out": "Diamond Langi won the Miss New Zealand contest."
+        },
+        {
+            "in": "<head> CS Ştiinţa Bacău <rel_desc> competition or event won by the subject <tail> Liga Naţională",
+            "out": "CS Ştiinţa Bacău won the Liga Naţională."
+        },
+        {
+            "in": "<head> Fimleikafélag Hafnarfjarðar <rel_desc> competition or event won by the subject <tail> 2006 Úrvalsdeild",
+            "out": "Fimleikafélag Hafnarfjarðar won a match against 2006 Úrvalsdeild."
+        },
+        {
+            "in": "<head> Marelize Robberts <rel_desc> competition or event won by the subject <tail> Miss Namibia",
+            "out": "The model Marelize Robberts won the beauty contest Miss Namibia."
+        },
+        {
+            "in": "<head> Ingreed Mercredi <rel_desc> competition or event won by the subject <tail> Miss Réunion",
+            "out": "Ingreed Mercredi won Miss Réunion."
+        },
+        {
+            "in": "<head> Centaurea <rel_desc> object depicting this subject (creative works, books of the bible) <tail> postage stamp",
+            "out": "Centaurea is shown on a postage stamp."
+        },
+        {
+            "in": "<head> Mary Ann Pawson Hargrave Pawson <rel_desc> object depicting this subject (creative works, books of the bible) <tail> Mary Ann Pawson Hargrave, Lady Ramsay-Fairfax",
+            "out": "Mary Ann Pawson Hargrave Pawson is shown in the painting Mary Ann Pawson Hargrave, Lady Ramsay-Fairfax."
+        },
+        {
+            "in": "<head> Queen Olga of Württemberg <rel_desc> object depicting this subject (creative works, books of the bible) <tail> Portrait of Queen Olga von Württemberg",
+            "out": "Queen Olga of Württemberg has a painting Portrait of Queen Olga von Württemberg."
+        },
+        {
+            "in": "<head> Liget Gallery Archive <rel_desc> entity (person, organization, etc.) that caused a record or collection to be produced or gathered <tail> Tibor Várnagy",
+            "out": "The Liget Gallery Archive was created by Tibor Várnagy."
+        },
+        {
+            "in": "<head> Shindō <rel_desc> the item was located in the territory of this present-day administrative unit; however the two did not at any point coexist in time <tail> Tondabayashi",
+            "out": "Shindō is located in Tondabayashi."
+        },
+        {
+            "in": "<head> Minamimikuriya <rel_desc> the item was located in the territory of this present-day administrative unit; however the two did not at any point coexist in time <tail> Iwata",
+            "out": "Minamimikuriya is located in Iwata."
+        },
+        {
+            "in": "<head> Joel Shapiro <rel_desc> collection that has works of this person or organisation (use archive location P485 for the archives) <tail> Tate",
+            "out": "Joel Shapiro collection is in Tate."
+        },
+        {
+            "in": "<head> Edgar Levy <rel_desc> collection that has works of this person or organisation (use archive location P485 for the archives) <tail> National Gallery of Art",
+            "out": "Edgar Levy has artwork in the National Gallery of Art."
+        },
+        {
+            "in": "<head> Honoré Daumier <rel_desc> collection that has works of this person or organisation (use archive location P485 for the archives) <tail> Museum of Fine Arts of Lyon",
+            "out": "Honoré Daumier has art work potrayed at the Museum of Fine Arts of Lyon."
+        },
+        {
+            "in": "<head> Virgil Johnson <rel_desc> matches or games a player or a team played during an event. <tail> 76",
+            "out": "Virgil Johnson played 76 matches."
+        },
+        {
+            "in": "<head> Binter <rel_desc> matches or games a player or a team played during an event. <tail> 0",
+            "out": "The Binter team were in 0 matches."
+        },
+        {
+            "in": "<head> Fabre Urbain <rel_desc> matches or games a player or a team played during an event. <tail> 0",
+            "out": "Fabre Urbain has played 0 matches."
+        },
+        {
+            "in": "<head> British Formula One Racing Team <rel_desc> matches or games a player or a team played during an event. <tail> 0",
+            "out": "The British Formula One Racing Team took part in 0 races."
+        },
+        {
+            "in": "<head> Temple Buell <rel_desc> number of sporting matches, games or events won <tail> 0",
+            "out": "Temple Buell's number of wins was 0."
+        },
+        {
+            "in": "<head> Derrington-Francis <rel_desc> number of sporting matches, games or events won <tail> 0",
+            "out": "Derrington-Francis had 0 wins."
+        },
+        {
+            "in": "<head> Jean-Pierre Beltoise <rel_desc> number of sporting matches, games or events won <tail> 1",
+            "out": "Jean-Pierre Beltoise has won 1 race."
+        },
+        {
+            "in": "<head> Julius Seligmann <rel_desc> place where this person is or was detained <tail> Theresienstadt Ghetto",
+            "out": "Julius Seligmann was detained in Theresienstadt Ghetto."
+        },
+        {
+            "in": "<head> Zděnka Weilová <rel_desc> place where this person is or was detained <tail> Theresienstadt Ghetto",
+            "out": "Zděnka Weilová was held in Theresienstadt Ghetto."
+        },
+        {
+            "in": "<head> Šarlota Wassermannová <rel_desc> place where this person is or was detained <tail> Theresienstadt Ghetto",
+            "out": "Šarlota Wassermannová was held at Theresienstadt Ghetto."
+        },
+        {
+            "in": "<head> Nanda Herbermann <rel_desc> place where this person is or was detained <tail> Ravensbrück concentration camp",
+            "out": "Nanda Herbermann is detained in Ravensbrück concentration camp."
+        },
+        {
+            "in": "<head> LCRS B001813.4-413519 <rel_desc> astronomical equivalent of longitude <tail> 5.175667",
+            "out": "LCRS B001813.4-413519 has a right ascension of 5.175667."
+        },
+        {
+            "in": "<head> Annuario Trastevere Calcio <rel_desc> person who wrote the preface, foreword, or introduction of the book but who isnt an author of the rest of the book <tail> Pier Luigi Betturri",
+            "out": "Pier Luigi Betturri authored foreword to Annuario Trastevere Calcio."
+        },
+        {
+            "in": "<head> Les guerres civiles <rel_desc> person who wrote the preface, foreword, or introduction of the book but who isnt an author of the rest of the book <tail> Pierre Hassner",
+            "out": "The foreword of Les guerres civiles was written by Pierre Hassner."
+        },
+        {
+            "in": "<head> Chronological Bibliography of the Works of Robert D. Preus <rel_desc> person who wrote the preface, foreword, or introduction of the book but who isnt an author of the rest of the book <tail> David P. Scaer",
+            "out": "Chronological Bibliography of the Works of Robert D. Preus had the preface written by David P. Scaer."
+        },
+        {
+            "in": "<head> Trump on China: Putting America First <rel_desc> person who wrote the preface, foreword, or introduction of the book but who isnt an author of the rest of the book <tail> Robert C. O'Brien",
+            "out": "Trump on China: Putting America First is fore-worded by Robert C. O'Brien."
+        },
+        {
+            "in": "<head> Huisartsenpost Enschede <rel_desc> partnership (commercial or/and non-commercial) between this organization and another organization or institution <tail> Medisch Spectrum Twente",
+            "out": "Huisartsenpost Enschede has partnered with the Medisch Spectrum Twente."
+        },
+        {
+            "in": "<head> Cole & Weber <rel_desc> partnership (commercial or/and non-commercial) between this organization and another organization or institution <tail> Westin Hotels & Resorts",
+            "out": "Cole & Weber was in partnership with Westin Hotels & Resorts."
+        },
+        {
+            "in": "<head> Gerb- und Farbstoffwerke H. Renner & Co. <rel_desc> partnership (commercial or/and non-commercial) between this organization and another organization or institution <tail> Forestal Land, Timber and Railways Company",
+            "out": "Gerb- und Farbstoffwerke H. Renner & Co. is in partnership with Forestal Land, Timber and Railways Company."
+        },
+        {
+            "in": "<head> Regionale Huisartsenpost Drechtsteden <rel_desc> partnership (commercial or/and non-commercial) between this organization and another organization or institution <tail> Albert Schweitzer ziekenhuis",
+            "out": "Regionale Huisartsenpost Drechtsteden is in partnership with Albert Schweitzer ziekenhuis."
+        },
+        {
+            "in": "<head> Geneviève Maury <rel_desc> language(s) that a person or a people speaks, writes or signs, including the native language(s) <tail> French",
+            "out": "Geneviève Maury speaks French."
+        },
+        {
+            "in": "<head> Gavin Thompson <rel_desc> language(s) that a person or a people speaks, writes or signs, including the native language(s) <tail> English",
+            "out": "Gavin Thompson speaks English."
+        },
+        {
+            "in": "<head> Joseph Reiser <rel_desc> language(s) that a person or a people speaks, writes or signs, including the native language(s) <tail> French",
+            "out": "Joseph Reiser was fluent in French."
+        },
+        {
+            "in": "<head> Frank Windsor <rel_desc> language(s) that a person or a people speaks, writes or signs, including the native language(s) <tail> English",
+            "out": "Frank Windsor speaks English."
+        },
+        {
+            "in": "<head> Joensuu Airport <rel_desc> maximum temperature reached at this location <tail> 37.2",
+            "out": "The highest temperature reached at Joensuu Airport is 37.2."
+        },
+        {
+            "in": "<head> Dikson <rel_desc> maximum temperature reached at this location <tail> 26.9",
+            "out": "The highest temperature in Dikson is 26.9."
+        },
+        {
+            "in": "<head> Cell 211 <rel_desc> award nomination received by a person, organisation or creative work (inspired from award received (Property:P166)) <tail> Goya Award for Best New Actor",
+            "out": "Cell 211 was nominated for Goya Award for Best New Actor."
+        },
+        {
+            "in": "<head> Carol <rel_desc> award nomination received by a person, organisation or creative work (inspired from award received (Property:P166)) <tail> Academy Award for Best Costume Design",
+            "out": "Carol was nominated for the Academy Award for Best Costume Design."
+        },
+        {
+            "in": "<head> Maïwenn <rel_desc> award nomination received by a person, organisation or creative work (inspired from award received (Property:P166)) <tail> César Award for Best Director",
+            "out": "Maïwenn was nominated for César Award for Best Director."
+        },
+        {
+            "in": "<head> Das Experiment <rel_desc> award nomination received by a person, organisation or creative work (inspired from award received (Property:P166)) <tail> European Film Award - People's Choice Award for Best Director",
+            "out": "Das Experiment was nominated for the European Film Award - People's Choice Award for Best Director."
+        },
+        {
+            "in": "<head> James Bentley <rel_desc> award nomination received by a person, organisation or creative work (inspired from award received (Property:P166)) <tail> Goya Award for Best New Actor",
+            "out": "James Bentley was nominated for a Goya Award for Best New Actor."
+        },
+        {
+            "in": "<head> North Korean famine <rel_desc> nearest, proximate thing that directly resulted in the subject as outcome or effect. <tail> flood",
+            "out": "The North Korean famine was directly caused by a flood."
+        },
+        {
+            "in": "<head> Nintendo DS Game Card <rel_desc> item or concept that makes use of the subject (use sub-properties when appropriate) <tail> New Nintendo 3DS XL",
+            "out": "Nintendo DS Game Card was used by the New Nintendo 3DS XL."
+        },
+        {
+            "in": "<head> Ame-no-Ohabari <rel_desc> item or concept that makes use of the subject (use sub-properties when appropriate) <tail> Izanagi",
+            "out": "Ame-no-Ohabari is used by Izanagi."
+        },
+        {
+            "in": "<head> water crane <rel_desc> item or concept that makes use of the subject (use sub-properties when appropriate) <tail> steam locomotive",
+            "out": "Water crane is used by a steam locomotive."
+        },
+        {
+            "in": "<head> LEB128 <rel_desc> item or concept that makes use of the subject (use sub-properties when appropriate) <tail> Web assembly",
+            "out": "LEB128 is used by WebAssembly."
+        },
+        {
+            "in": "<head> Leica Q2 <rel_desc> time of the first public presentation of a subject by the creator, of information by the media <tail> 2019-03-07",
+            "out": "The Leica Q2 was presented to the public on 2019-03-07."
+        },
+        {
+            "in": "<head> Black Mesa <rel_desc> time of the first public presentation of a subject by the creator, of information by the media <tail> 2004-09-19",
+            "out": "The announcement date for The Black Mesa is 2004-09-19."
+        },
+        {
+            "in": "<head> Bronze bell of Van Ban pagoda <rel_desc> time of the first public presentation of a subject by the creator, of information by the media <tail> 1963",
+            "out": "The Bronze bell of Van Ban pagoda was announced in 1963."
+        },
+        {
+            "in": "<head> 2020 Chile COVID-19 closing of educational institutions <rel_desc> time of the first public presentation of a subject by the creator, of information by the media <tail> 2020-03-15",
+            "out": "2020 Chile COVID-19 closing of educational institutions was announced on 2020-03-15."
+        },
+        {
+            "in": "<head> Studia Africana <rel_desc> standard publication interval for daily or periodical publications <tail> 1",
+            "out": "The Studia Africana journal has a publication interval of 1."
+        },
+        {
+            "in": "<head> Bulletin du Muséum national d'histoire naturelle <rel_desc> standard publication interval for daily or periodical publications <tail> 2",
+            "out": "Bulletin du Muséum national d'histoire naturelle is published every 2 days."
+        },
+        {
+            "in": "<head> Valve Index <rel_desc> connectors which the device has/supports <tail> Display port",
+            "out": "Valve Index connects to devices using DisplayPort."
+        },
+        {
+            "in": "<head> Sony Xperia Z5 Compact <rel_desc> connectors which the device has/supports <tail> Micro-USB",
+            "out": "Sony Xperia Z5 Compact supports Micro-USB."
+        },
+        {
+            "in": "<head> Nest Cam <rel_desc> connectors which the device has/supports <tail> Wi-Fi",
+            "out": "Nest Cam Connects via Wi-Fi."
+        },
+        {
+            "in": "<head> Peniarth MS 227 <rel_desc> property for manuscripts, autographs, incunabula, distinct printed copies <tail> Ymborth yr enaid",
+            "out": "Peniarth MS 227 is the exemplar of Ymborth yr enaid."
+        },
+        {
+            "in": "<head> sparganosis <rel_desc> host species for the pathogen in which it is endemic <tail> bird",
+            "out": "Sparganosis invades bird."
+        },
+        {
+            "in": "<head> thelaziasis <rel_desc> host species for the pathogen in which it is endemic <tail> dog",
+            "out": "Thelaziasis is spread by dog."
+        },
+        {
+            "in": "<head> Zygmunt Mineyko <rel_desc> penalty imposed by an authority <tail> capital punishment",
+            "out": "Zygmunt Mineyko was sentenced to capital punishment."
+        },
+        {
+            "in": "<head> Trial of Rafi Nelson <rel_desc> penalty imposed by an authority <tail> fine",
+            "out": "The Trial of Rafi Nelson resulted in a fine."
+        },
+        {
+            "in": "<head> Johann Albrecht Adelgrief <rel_desc> penalty imposed by an authority <tail> capital punishment",
+            "out": "The verdict against Johann Albrecht Adelgrief was capital punishment."
+        },
+        {
+            "in": "<head> Anna Suter <rel_desc> penalty imposed by an authority <tail> capital punishment",
+            "out": "Anna Suter was sentenced to capital punishment."
+        },
+        {
+            "in": "<head> Cook collection <rel_desc> content specialist responsible for this collection or exhibition <tail> John Charles Robinson",
+            "out": "The Cook collection is curated by John Charles Robinson."
+        },
+        {
+            "in": "<head> Aspects of Etruscan Arts <rel_desc> content specialist responsible for this collection or exhibition <tail> Daniel Cazes",
+            "out": "Daniel Cazes is the curator of Aspects of Etruscan Arts."
+        },
+        {
+            "in": "<head> Virum Microlibrary <rel_desc> days in the week subject item is open within the opening season <tail> Monday",
+            "out": "The Virum Microlibrary is open every Monday."
+        },
+        {
+            "in": "<head> Eidsvold Library <rel_desc> days in the week subject item is open within the opening season <tail> Monday",
+            "out": "The Eidsvold Library is open every Monday."
+        },
+        {
+            "in": "<head> Bribie Island Library <rel_desc> days in the week subject item is open within the opening season <tail> Monday",
+            "out": "Bribie Island Library is open on Monday."
+        },
+        {
+            "in": "<head> Biblioteca Municipal Almerindo de Souza Pereira <rel_desc> days in the week subject item is open within the opening season <tail> Monday to Friday",
+            "out": "Biblioteca Municipal Almerindo de Souza Pereira is open Monday to Friday."
+        },
+        {
+            "in": "<head> SMD LED 5630 <rel_desc> measure of the emitted light intensity <tail> 8.594366927",
+            "out": "SMD LED 5630 has a luminous intensity of 8.594366927."
+        },
+        {
+            "in": "<head> Southwold lighthouse <rel_desc> measure of the emitted light intensity <tail> 17100",
+            "out": "Southwold lighthouse has a luminous intensity of 17100."
+        },
+        {
+            "in": "<head> Cape Banks lighthouse <rel_desc> measure of the emitted light intensity <tail> 20000",
+            "out": "The intensity of the Cape Banks lighthouse is 20000."
+        },
+        {
+            "in": "<head> Lundy North Lighthouse <rel_desc> measure of the emitted light intensity <tail> 16154",
+            "out": "The Lundy North Lighthouse has a luminous intensity of 16154."
+        },
+        {
+            "in": "<head> Joe Buckhalter <rel_desc> language or languages a person has learned from early childhood <tail> English",
+            "out": "The native language of Joe Buckhalter is English."
+        },
+        {
+            "in": "<head> Abraham de Vries <rel_desc> language or languages a person has learned from early childhood <tail> Dutch",
+            "out": "Abraham de Vries spoke Dutch."
+        },
+        {
+            "in": "<head> Lou Marini <rel_desc> language or languages a person has learned from early childhood <tail> English",
+            "out": "Lou Marini speaks English."
+        },
+        {
+            "in": "<head> Coen Verbraak <rel_desc> language or languages a person has learned from early childhood <tail> Dutch",
+            "out": "Coen Verbraak is a native speaker of Dutch."
+        },
+        {
+            "in": "<head> Bert Van Hoorick <rel_desc> language or languages a person has learned from early childhood <tail> Dutch",
+            "out": "Bert Van Hoorick's native language is Dutch."
+        },
+        {
+            "in": "<head> roadworks <rel_desc> type of agents that study this subject or work in this profession <tail> road worker",
+            "out": "Roadworks are practiced by a road worker."
+        },
+        {
+            "in": "<head> Amar Parvate <rel_desc> person or organization for which the subject works or worked <tail> Scripps Research",
+            "out": "Amar Parvate is an employee of Scripps Research."
+        },
+        {
+            "in": "<head> Peter A Biro <rel_desc> person or organization for which the subject works or worked <tail> Deakin University - Geelong Campus at Waurn Ponds",
+            "out": "Peter A Biro is employed by Deakin University - Geelong Campus at Waurn Ponds."
+        },
+        {
+            "in": "<head> Max Margules <rel_desc> person or organization for which the subject works or worked <tail> Austria",
+            "out": "Max Margules works in Austria."
+        },
+        {
+            "in": "<head> Pierre Charles L'Enfant <rel_desc> person or organization for which the subject works or worked <tail> United States Military Academy",
+            "out": "Pierre Charles L'Enfant is employed by the United States Military Academy."
+        },
+        {
+            "in": "<head> Mount Elbrus <rel_desc> parent is the peak whose territory this peak resides in, based on the contour of the lowest col <tail> Mount Everest",
+            "out": "Mount Elbrus has a parent peak called Mount Everest."
+        },
+        {
+            "in": "<head> Presidential Radio Address - 13 December 1997 <rel_desc> method (or type) of distribution for the subject <tail> radio communications",
+            "out": "Presidential Radio Address - 13 December 1997 was distributed by radio communications."
+        },
+        {
+            "in": "<head> Presidential Radio Address - 10 December 1994 <rel_desc> method (or type) of distribution for the subject <tail> radio communications",
+            "out": "Radio communications were used as the distribution format for the Presidential Radio Address - 10 December 1994."
+        },
+        {
+            "in": "<head> The Million Eyes of Sumuru <rel_desc> method (or type) of distribution for the subject <tail> video on demand",
+            "out": "The Million Eyes of Sumuru ia available to watch on video on demand."
+        },
+        {
+            "in": "<head> type 2 diabetes <rel_desc> drug, procedure, or therapy that can be used to treat a medical condition <tail> healthy diet",
+            "out": "Healthy diet is a treatment for type 2 diabetes."
+        },
+        {
+            "in": "<head> mood disorders <rel_desc> drug, procedure, or therapy that can be used to treat a medical condition <tail> flutoprazepam",
+            "out": "Mood Disorders can be treated with flutoprazepam."
+        },
+        {
+            "in": "<head> Post-transplant lymphoproliferative disorder <rel_desc> drug, procedure, or therapy that can be used to treat a medical condition <tail> doxorubicin",
+            "out": "Doxorubicin is a drug used for the treatment of Post-transplant lymphoproliferative disorder."
+        },
+        {
+            "in": "<head> Alla andra får varann <rel_desc> the person who directs a musical group, orchestra or chorus <tail> Thore Ehrling",
+            "out": "Thore Ehrling conducted the Alla andra får varann song."
+        },
+        {
+            "in": "<head> Budapest Festival Orchestra <rel_desc> the person who directs a musical group, orchestra or chorus <tail> Iván Fischer",
+            "out": "The music conductor at the Budapest Festival Orchestra was Iván Fischer."
+        },
+        {
+            "in": "<head> Vienna New Year's Concert 1960 <rel_desc> the person who directs a musical group, orchestra or chorus <tail> Willi Boskovsky",
+            "out": "Vienna New Year's Concert 1960 was conducted by Willi Boskovsky."
+        },
+        {
+            "in": "<head> Vienna New Year's Concert 1965 <rel_desc> the person who directs a musical group, orchestra or chorus <tail> Willi Boskovsky",
+            "out": "Willi Boskovsky conducted Vienna New Year's Concert 1965."
+        },
+        {
+            "in": "<head> Trishneet Arora <rel_desc> totality of wealth possessed by a person <tail> 118000000",
+            "out": "Trishneet Arora is worth 118000000."
+        },
+        {
+            "in": "<head> Kanye West <rel_desc> totality of wealth possessed by a person <tail> 1300000000",
+            "out": "Kanye West has a net worth of 1300000000."
+        },
+        {
+            "in": "<head> Jonas Tron <rel_desc> totality of wealth possessed by a person <tail> 900000000",
+            "out": "The net worth of Jonas Tron is 900000000."
+        },
+        {
+            "in": "<head> John D. Rockefeller <rel_desc> totality of wealth possessed by a person <tail> 663400000",
+            "out": "John D. Rockefeller has a net worth of 663400000."
+        },
+        {
+            "in": "<head> Stephen Bechtel, Jr. <rel_desc> totality of wealth possessed by a person <tail> 2.6",
+            "out": "Stephen Bechtel, Jr. has a net worth of 2.6."
+        },
+        {
+            "in": "<head> Expedition 53 <rel_desc> person(s) that participated operating or serving aboard this vehicle <tail> Paolo Nespoli",
+            "out": "Paolo Nespoli is, or was, a crew member of Expedition 53."
+        },
+        {
+            "in": "<head> Expedition 23 <rel_desc> person(s) that participated operating or serving aboard this vehicle <tail> Tracy Caldwell Dyson",
+            "out": "Tracy Caldwell Dyson is a crew member of Expedition 23."
+        },
+        {
+            "in": "<head> Gemini 7 <rel_desc> person(s) that participated operating or serving aboard this vehicle <tail> Frank Borman",
+            "out": "Frank Borman is a crew member of Gemini 7."
+        },
+        {
+            "in": "<head> Sobriety <rel_desc> immediately prior item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has replaced the preceding item, e.g. political offices, use replaces (P1365)] <tail> night",
+            "out": "Sobriety comes after night."
+        },
+        {
+            "in": "<head> Schreiber, Christian <rel_desc> immediately prior item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has replaced the preceding item, e.g. political offices, use replaces (P1365)] <tail> Schreiber, Alois Wilhelm",
+            "out": "Schreiber, Christian came after Schreiber, Alois Wilhelm."
+        },
+        {
+            "in": "<head> DJK Eintracht Erle <rel_desc> city, where an organizations headquarters is or has been situated. <tail> Gelsenkirchen",
+            "out": "DJK Eintracht Erle has headquarters in Gelsenkirchen."
+        },
+        {
+            "in": "<head> Camogie Association <rel_desc> city, where an organizations headquarters is or has been situated. <tail> Dublin",
+            "out": "Camogie Association is based in Dublin."
+        },
+        {
+            "in": "<head> View of Granville <rel_desc> depicted entity (see also P921: main subject) <tail> sunset",
+            "out": "View of Granville depicts a sunset."
+        },
+        {
+            "in": "<head> Allegory of Military Life <rel_desc> depicted entity (see also P921: main subject) <tail> Earth",
+            "out": "Allegory of Military Life is a depiction of Earth."
+        },
+        {
+            "in": "<head> Zoo montana <rel_desc> taxa, preferably species, present at a zoo, botanical garden,  collection, or other institution. <tail> North American river otter",
+            "out": "North American river otter is in the ZooMontana."
+        },
+        {
+            "in": "<head> Hellabrunn Zoo <rel_desc> taxa, preferably species, present at a zoo, botanical garden,  collection, or other institution. <tail> South American sea lion",
+            "out": "Hellabrunn Zoo keeps the South American sea lion."
+        },
+        {
+            "in": "<head> Charles Paddock Zoo <rel_desc> taxa, preferably species, present at a zoo, botanical garden,  collection, or other institution. <tail> White-faced Whistling Duck",
+            "out": "Charles Paddock Zoo is home to the White-faced Whistling Duck."
+        },
+        {
+            "in": "<head> Blackpool Zoo <rel_desc> taxa, preferably species, present at a zoo, botanical garden,  collection, or other institution. <tail> American Flamingo",
+            "out": "Blackpool Zoo has some American Flamingo."
+        },
+        {
+            "in": "<head> undecane <rel_desc> density of a substance with phase of matter and temperature as qualifiers <tail> 0.7402",
+            "out": "The density of undecane is 0.7402."
+        },
+        {
+            "in": "<head> praseodymium <rel_desc> density of a substance with phase of matter and temperature as qualifiers <tail> 6.773",
+            "out": "Praseodymium has the density of 6.773."
+        },
+        {
+            "in": "<head> dodecane <rel_desc> density of a substance with phase of matter and temperature as qualifiers <tail> 0.75",
+            "out": "The density of dodecane is 0.75."
+        },
+        {
+            "in": "<head> cyclopentadiene <rel_desc> density of a substance with phase of matter and temperature as qualifiers <tail> 0.8",
+            "out": "Cyclopentadiene has a density of 0.8."
+        },
+        {
+            "in": "<head> Gare de Villenouvelle <rel_desc> the stations next to this station, sharing the same line(s) <tail> Gare de Baziège",
+            "out": "Gare de Villenouvelle is the adjacent station to Gare de Baziège."
+        },
+        {
+            "in": "<head> Gare d'Auray <rel_desc> the stations next to this station, sharing the same line(s) <tail> Gare de Belz-Ploemel",
+            "out": "Gare d'Auray is adjacent to Gare de Belz-Ploemel."
+        },
+        {
+            "in": "<head> Tanesashi-Kaigan Station <rel_desc> the stations next to this station, sharing the same line(s) <tail> Mutsu-Shirahama Station",
+            "out": "Tanesashi-Kaigan Station is next to Mutsu-Shirahama Station."
+        },
+        {
+            "in": "<head> Hanwant railway station <rel_desc> the stations next to this station, sharing the same line(s) <tail> Salawas railway station",
+            "out": "Hanwant railway station is next to Salawas railway station."
+        },
+        {
+            "in": "<head> Mutsu-Sawabe Station <rel_desc> the stations next to this station, sharing the same line(s) <tail> Mutsu-Iwasaki Station",
+            "out": "The Mutsu-Sawabe Station is next to the Mutsu-Iwasaki Station."
+        },
+        {
+            "in": "<head> Her Dad the Constable <rel_desc> image width to height ratio of films, photographs, and other images <tail> 4:3",
+            "out": "The aspect ratio of the film, Her Dad the Constable, is 4:3."
+        },
+        {
+            "in": "<head> The Amateur Burglar <rel_desc> image width to height ratio of films, photographs, and other images <tail> 4:3",
+            "out": "The Amateur Burglar was shown in 4:3."
+        },
+        {
+            "in": "<head> Too Keen a Sense of Humour <rel_desc> image width to height ratio of films, photographs, and other images <tail> 4:3",
+            "out": "The film, Too Keen a Sense of Humour, has an aspect ratio of 4:3."
+        },
+        {
+            "in": "<head> Arrival of King and Queen at Edinburgh <rel_desc> image width to height ratio of films, photographs, and other images <tail> 4:3",
+            "out": "The film Arrival of King and Queen at Edinburgh was filmed in 4:3."
+        },
+        {
+            "in": "<head> Thomas Leveson-Gower <rel_desc> subject currently or formerly holds the object position or public office <tail> Member of Parliament of Great Britain",
+            "out": "Thomas Leveson-Gower was a Member of Parliament of Great Britain."
+        },
+        {
+            "in": "<head> George Wallace, Baron Wallace of Coslany <rel_desc> subject currently or formerly holds the object position or public office <tail> Member of the 44th Parliament of the United Kingdom",
+            "out": "George Wallace, Baron Wallace of Coslany is a Member of the 44th Parliament of the United Kingdom."
+        },
+        {
+            "in": "<head> Charles Howard, 2nd Earl of Nottingham <rel_desc> subject currently or formerly holds the object position or public office <tail> Member of Parliament in the Parliament of England",
+            "out": "Charles Howard, 2nd Earl of Nottingham held the position of Member of Parliament in the Parliament of England."
+        },
+        {
+            "in": "<head> Goronwy Roberts, Baron Goronwy-Roberts <rel_desc> subject currently or formerly holds the object position or public office <tail> Member of the 44th Parliament of the United Kingdom",
+            "out": "Goronwy Roberts, Baron Goronwy-Roberts was a Member of the 44th Parliament of the United Kingdom."
+        },
+        {
+            "in": "<head> Antigua and Barbuda <rel_desc> Internet domain name system top-level code <tail> .ag",
+            "out": "The internet domain designation for Antigua and Barbuda is .ag."
+        },
+        {
+            "in": "<head> Colombia <rel_desc> Internet domain name system top-level code <tail> .co",
+            "out": "The top-level Internet domain for Colombia is .co."
+        },
+        {
+            "in": "<head> Bulgaria <rel_desc> Internet domain name system top-level code <tail> .bg",
+            "out": ".bg is the top-level internet domain for Bulgaria."
+        },
+        {
+            "in": "<head> Literata <rel_desc> person or organization that commissioned this work <tail> Google",
+            "out": "Literata is commissioned by Google."
+        },
+        {
+            "in": "<head> B612 <rel_desc> person or organization that commissioned this work <tail> Airbus",
+            "out": "B612 was commissioned by Airbus."
+        },
+        {
+            "in": "<head> Enterographa venosa <rel_desc> the legitimate, previously published name on which a new combination or name at new rank is based <tail> Opegrapha venosa",
+            "out": "Enterographa venosa was previously known as Opegrapha venosa."
+        },
+        {
+            "in": "<head> Pinus lambertiana martirensis <rel_desc> the legitimate, previously published name on which a new combination or name at new rank is based <tail> Pinus lambertiana var. martirensis",
+            "out": "Pinus lambertiana martirensis used to be referred to as Pinus lambertiana var. martirensis."
+        },
+        {
+            "in": "<head> Russula nobilis <rel_desc> color of a mushroom spore print (see documentation for allowed values) <tail> white",
+            "out": "Russula nobilis spores are white."
+        },
+        {
+            "in": "<head> Amanita gemmata <rel_desc> color of a mushroom spore print (see documentation for allowed values) <tail> white",
+            "out": "The spore print colour of Amanita gemmata is white."
+        },
+        {
+            "in": "<head> insta360 ONE R 1-inch Edition <rel_desc> focal length of lens (telescope, etc.) <tail> 14.4",
+            "out": "Insta360 ONE R 1-inch Edition has a focal length of 14.4."
+        },
+        {
+            "in": "<head> 40-foot telescope <rel_desc> focal length of lens (telescope, etc.) <tail> 12",
+            "out": "40-foot telescope has a focal length of 12."
+        },
+        {
+            "in": "<head> BANK1 <rel_desc> general link between a disease and the causal genetic entity, if the detailed mechanism is unknown/unavailable <tail> systemic lupus erythematosus",
+            "out": "BANK1 gene is associated with systemic lupus erythematosus."
+        },
+        {
+            "in": "<head> hyperphosphatasia with mental retardation syndrome 5 <rel_desc> general link between a disease and the causal genetic entity, if the detailed mechanism is unknown/unavailable <tail> PIGW",
+            "out": "Hyperphosphatasia with mental retardation syndrome 5 is a genetic disease associated with PIGW."
+        },
+        {
+            "in": "<head> CFE 301 to 310 <rel_desc> wheel/axle arrangement for locomotives, railcars and other rolling stock <tail> 4-6-2",
+            "out": "CFE 301 to 310 have a wheel arrangement of 4-6-2."
+        },
+        {
+            "in": "<head> Union Pacific 4004 <rel_desc> wheel/axle arrangement for locomotives, railcars and other rolling stock <tail> 4-6-6-4",
+            "out": "Union Pacific 4004 has the wheel arrangement of 4-6-6-4."
+        },
+        {
+            "in": "<head> SR Merchant Navy Class 35022 Holland America Line <rel_desc> wheel/axle arrangement for locomotives, railcars and other rolling stock <tail> 4-6-2",
+            "out": "4-6-2 is the wheel arrangement of the SR Merchant Navy Class 35022 Holland America Line."
+        },
+        {
+            "in": "<head> Pennsylvania Railroad S2 <rel_desc> wheel/axle arrangement for locomotives, railcars and other rolling stock <tail> 6-8-6",
+            "out": "The Pennsylvania Railroad S2 locomotive has a wheel arrangement of 6-8-6."
+        },
+        {
+            "in": "<head> FLT3 TKD MUTATION <rel_desc> the presence of the genetic variant helps to prognose poor outcome for the disease <tail> acute myeloid leukemia",
+            "out": "FLT3 TKD MUTATION is a negative prognostic predictor of acute myeloid leukemia."
+        },
+        {
+            "in": "<head> FLT3 ITD <rel_desc> the presence of the genetic variant helps to prognose poor outcome for the disease <tail> acute myeloid leukemia",
+            "out": "FLT3 ITD can be a negative prognostic predictor of acute myeloid leukemia."
+        },
+        {
+            "in": "<head> 1994–95 FA Women's Cup <rel_desc> final event of a competition <tail> 1995 FA Women's Cup Final",
+            "out": "During the 1994–95 FA Women's Cup, the final event was the 1995 FA Women's Cup Final."
+        },
+        {
+            "in": "<head> 2018–19 UEFA Nations League <rel_desc> final event of a competition <tail> 2019 UEFA Nations League Final",
+            "out": "2019 UEFA Nations League Final was the final event of 2018–19 UEFA Nations League."
+        },
+        {
+            "in": "<head> C&C 26 Wave <rel_desc> qualifier to indicate a score given by the referenced source indicating the quality or completeness of the statement <tail> 219",
+            "out": "The score given to C&C 26 Wave is 219."
+        },
+        {
+            "in": "<head> Hunter 310 <rel_desc> qualifier to indicate a score given by the referenced source indicating the quality or completeness of the statement <tail> 168",
+            "out": "Hunter 310 is rated 168."
+        },
+        {
+            "in": "<head> Premier-President of the Parliament of Paris <rel_desc> who nominated a person for an office or award; can be used as a qualifier <tail> King of France",
+            "out": "Premier-President of the Parliament of Paris was nominated by the King of France."
+        },
+        {
+            "in": "<head> Rebecca Gomperts <rel_desc> who nominated a person for an office or award; can be used as a qualifier <tail> Time",
+            "out": "Rebecca Gomperts was nominated by Time."
+        },
+        {
+            "in": "<head> Justice of the South Australian Supreme Court <rel_desc> who nominated a person for an office or award; can be used as a qualifier <tail> Attorney-General of South Australia",
+            "out": "Justice of the South Australian Supreme Court was nominated by Attorney-General of South Australia."
+        },
+        {
+            "in": "<head> Louisville Company v. United States <rel_desc> specific court a legal case is/was heard/decided in <tail> Supreme Court of the United States",
+            "out": "Louisville Company v. United States took place in the Supreme Court of the United States."
+        },
+        {
+            "in": "<head> Fried frailty criteria <rel_desc> medical conditions associated with the subject medical finding <tail> frailty syndrome",
+            "out": "Fried frailty criteria suggests the existence of frailty syndrome."
+        },
+        {
+            "in": "<head> Riesman's sign <rel_desc> medical conditions associated with the subject medical finding <tail> toxic diffuse goiter",
+            "out": "Riesman's sign indicates toxic diffuse goiter."
+        },
+        {
+            "in": "<head> Finkelstein's test <rel_desc> medical conditions associated with the subject medical finding <tail> de Quervain syndrome",
+            "out": "Finkelstein's test suggests the existence of de Quervain syndrome."
+        },
+        {
+            "in": "<head> Fernandez reaction <rel_desc> medical conditions associated with the subject medical finding <tail> leprosy",
+            "out": "Fernandez reaction is a symptom of leprosy."
+        },
+        {
+            "in": "<head> Air crescent sign <rel_desc> medical conditions associated with the subject medical finding <tail> aspergilloma",
+            "out": "Air crescent sign suggests a possible diagnosis of aspergilloma."
+        },
+        {
+            "in": "<head> Singpur <rel_desc> number of illiterate people within a territorial entity (typically determined during a census) <tail> 0",
+            "out": "Singpur has an illiterate population of 0."
+        },
+        {
+            "in": "<head> 33rd US Colored Infantry, Misc Cards: Hamilton, Frederick <rel_desc> status of any use restrictions on the object, collection, or materials <tail> unrestricted access",
+            "out": "33rd US Colored Infantry, Misc Cards: Hamilton, Frederick has unrestricted access."
+        },
+        {
+            "in": "<head> Munsyi Dewan <rel_desc> optionally use together with subject has role (P2868) <tail> Dewan Bahasa dan Pustaka",
+            "out": "Munsyi Dewan received her accreditation from the Dewan Bahasa dan Pustaka."
+        },
+        {
+            "in": "<head> Helping Hands Home Care <rel_desc> optionally use together with subject has role (P2868) <tail> National Health Service",
+            "out": "Helping Hands Home Care is accredited by the National Health Service."
+        },
+        {
+            "in": "<head> Emirates Motorsports Organisation <rel_desc> optionally use together with subject has role (P2868) <tail> United Arab Emirates National Olympic Committee",
+            "out": "Emirates Motorsports Organisation is accredited by United Arab Emirates National Olympic Committee."
+        },
+        {
+            "in": "<head> Cathay 21 <rel_desc> depth below the water line to the bottom of a vessels hull <tail> 2.388",
+            "out": "The Cathay 21 has a draft of 2.388."
+        },
+        {
+            "in": "<head> MV Logos II <rel_desc> depth below the water line to the bottom of a vessels hull <tail> 5.12",
+            "out": "MV Logos II has a depth below the water line of 5.12."
+        },
+        {
+            "in": "<head> Geshé Kyab Seng <rel_desc> person who has taught this person <tail> Kyangpa Chö Lo",
+            "out": "Geshé Kyab Seng was taught by Kyangpa Chö Lo."
+        },
+        {
+            "in": "<head> Tangpa Könchok Bar <rel_desc> person who has taught this person <tail> Khön Tön Shyönnu",
+            "out": "Tangpa Könchok Bar was a student of Khön Tön Shyönnu."
+        },
+        {
+            "in": "<head> Robert Antoine Pinchon <rel_desc> person who has taught this person <tail> Claude Monet",
+            "out": "Robert Antoine Pinchon was a student of Claude Monet."
+        },
+        {
+            "in": "<head> Afu4g14110 <rel_desc> chromosome on which an entity is localized <tail> Chr4 A fumigatus Af293",
+            "out": "Afu4g14110 is found in the Chr4 A fumigatus Af293 chromosome."
+        },
+        {
+            "in": "<head> Republic of Hungary <rel_desc> subjects coat of arms <tail> coat of arms of Hungary",
+            "out": "Republic of Hungary's national symbol is coat of arms of Hungary."
+        }
+    ]
+}

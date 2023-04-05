@@ -1,0 +1,404 @@
+{
+    "data": [
+        {
+            "in": "<head> GSC 00227-00148 <rel> companion of <tail> GSC 00227-00221",
+            "out": "GSC 00227-00148 is a companion of GSC 00227-00221."
+        },
+        {
+            "in": "<head> Valencian State-Valencian Sovereignity <rel> political ideology <tail> Valencian nationalism",
+            "out": "Valencian State-Valencian Sovereignity have an ideology of Valencian Nationalism."
+        },
+        {
+            "in": "<head> History: Reviews of New Books <rel> ISO 4 abbreviation <tail> Hist. Rev. New Books",
+            "out": "The ISO 4 abbreviation of History: Reviews of New Books is Hist. Rev. New Books."
+        },
+        {
+            "in": "<head> Brionnais-Charolais dialect <rel> dialect of <tail> French",
+            "out": "Brionnais-Charolais dialect is a dialect of French."
+        },
+        {
+            "in": "<head> mental representation <rel> studied by <tail> cognitive science",
+            "out": "Cognitive science studies mental representation."
+        },
+        {
+            "in": "<head> Catharina Boudewijnshof <rel> named after <tail> Katherina Boudewyns",
+            "out": "Catharina Boudewijnshof was named after Katherina Boudewyns."
+        },
+        {
+            "in": "<head> trial of Violat Leyis <rel> prosecutor <tail> Alexander Jaffry",
+            "out": "The prosecutor at the trial of Violat Leyis was called Alexander Jaffry."
+        },
+        {
+            "in": "<head> Summertime Blues <rel> recorded at studio or venue <tail> University of Leeds Refectory",
+            "out": "Summertime Blues was recorded at the University of Leeds Refectory."
+        },
+        {
+            "in": "<head> Villemarette <rel> attested in <tail> 2010 United States Census surname index",
+            "out": "Villemarette was attested in the 2010 United States Census surname index."
+        },
+        {
+            "in": "<head> Rawl Lewis <rel> bowling style <tail> leg spin",
+            "out": "The leg spin is Rawl Lewis' bowling style."
+        },
+        {
+            "in": "<head> Muscle Car 3: Illegal Street <rel> maximum number of players <tail> 1",
+            "out": "The maximum number of players in Muscle Car 3: Illegal Street is 1."
+        },
+        {
+            "in": "<head> Steyr WD 815.74 <rel> engine displacement <tail> 11.97",
+            "out": "The Steyr WD 815.74 engine has an engine displacement of 11.97."
+        },
+        {
+            "in": "<head> Emilíana Torrini <rel> patronym or matronym for this person <tail> Davíðsdóttir",
+            "out": "The patronym or matronym for Emilíana Torrini is Davíðsdóttir."
+        },
+        {
+            "in": "<head> Rickrolling <rel> different from <tail> Never Gonna Give You Up",
+            "out": "Rickrolling is different from Never Gonna Give You Up."
+        },
+        {
+            "in": "<head> Julian Geske <rel> title of chess person <tail> International Master",
+            "out": "Julian Geske is an International Master of Chess."
+        },
+        {
+            "in": "<head> Encyclopedic Lexicon. Volume XV, 1838 <rel> RSL scanned books identifier <tail> 01003822962",
+            "out": "01003822962 is the RSL book identifier for Encyclopedic Lexicon. Volume XV, 1838."
+        },
+        {
+            "in": "<head> Prosody <rel> protocol <tail> XMPP",
+            "out": "XMPP is the communications protocol used by Prosody."
+        },
+        {
+            "in": "<head> Bay genomics ES cell line LST012 <rel> parent cell line <tail> ES-E14TG2a",
+            "out": "BayGenomics ES cell line LST012 has the parent cell line ES-E14TG2a."
+        },
+        {
+            "in": "<head> Shubh Vivah <rel> number of seasons <tail> 1",
+            "out": "Shubh Vivah had 1 season."
+        },
+        {
+            "in": "<head> UCAC2 13676232 <rel> surface gravity <tail> 224",
+            "out": "The surface gravity of UCAC2 13676232 is 224."
+        },
+        {
+            "in": "<head> Osana Najimi <rel> narrative age <tail> 17",
+            "out": "Osana Najimi is 17."
+        },
+        {
+            "in": "<head> Idrettsgallaen <rel> month of the year <tail> January",
+            "out": "Idrettsgallaen takes place in January."
+        },
+        {
+            "in": "<head> 2008 AP129 <rel> albedo <tail> 0.07",
+            "out": "2008 AP129 has a reflection coefficient of 0.07."
+        },
+        {
+            "in": "<head> Iriomote Island <rel> taxon found at location <tail> Iriomote cat",
+            "out": "Iriomote Island is home to the Iriomote cat."
+        },
+        {
+            "in": "<head> Die Tüdelband <rel> inception <tail> 2009",
+            "out": "Die Tüdelband was established in 2009."
+        },
+        {
+            "in": "<head> New Taipei <rel> contains administrative territorial entity <tail> Zhonghe District",
+            "out": "Zhonghe District is a territory in New Taipei."
+        },
+        {
+            "in": "<head> Riells i Viabrea <rel> female population <tail> 2011",
+            "out": "The female population of Riells i Viabrea is 2011."
+        },
+        {
+            "in": "<head> Ibex Airlines <rel> airline hub <tail> Sendai Airport",
+            "out": "Sendai Airport acts as a hub for Ibex Airlines."
+        },
+        {
+            "in": "<head> Galvus <rel> has active ingredient <tail> vildagliptin",
+            "out": "Galvus' active ingredient is vildagliptin."
+        },
+        {
+            "in": "<head> Gymnopilus picreus <rel> mushroom ecological type <tail> saprotrophic nutrition",
+            "out": "Gymnopilus picreus feeds via saprotrophic nutrition."
+        },
+        {
+            "in": "<head> Armscor M1700 <rel> ammunition <tail> .17 HMR",
+            "out": "Armscor M1700 has .17 HMR ammunition."
+        },
+        {
+            "in": "<head> rhenium-189 <rel> binding energy <tail> 1504781.901",
+            "out": "The energy required to split rhenium-189 is 1504781.901."
+        },
+        {
+            "in": "<head> Nishiki <rel> official symbol <tail> Meadow Bunting",
+            "out": "Nishiki has the official symbol of the Meadow Bunting."
+        },
+        {
+            "in": "<head> Operation Flashpoint: Dragon Rising <rel> ESRB rating <tail> Mature 17+",
+            "out": "The video game Operation Flashpoint: Dragon Rising's rating is Mature 17+."
+        },
+        {
+            "in": "<head> sulfur trioxide <rel> decomposition point <tail> 22.45",
+            "out": "Sulfur trioxide's decomposition point is 22.45."
+        },
+        {
+            "in": "<head> IOS 8 <rel> copyright holder <tail> Apple Inc.",
+            "out": "IOS 8 is owned by Apple Inc."
+        },
+        {
+            "in": "<head> individual double-skin barrel drums <rel> Hornbostel-Sachs classification <tail> 211.222.1",
+            "out": "Individual double-skin barrel drums have a Hornbostel-Sachs classification of 211.222.1."
+        },
+        {
+            "in": "<head> National Wrestling Hall of Fame and Museum <rel> Wikidata property <tail> National Wrestling Hall of Fame University team ID",
+            "out": "The National Wrestling Hall of Fame University team ID is the Wikidata property of National Wrestling Hall of Fame and Museum."
+        },
+        {
+            "in": "<head> Delta 5000 <rel> rocket function <tail> Expendable launch system",
+            "out": "Delta 5000 is an Expendable launch system."
+        },
+        {
+            "in": "<head> Mering–Weilheim railway <rel> speed limit <tail> 120",
+            "out": "Mering–Weilheim railway has a speed limit of 120."
+        },
+        {
+            "in": "<head> Anantara Seminyak Bali <rel> number of rooms <tail> 60",
+            "out": "Anantara Seminyak Bali has 60 rooms."
+        },
+        {
+            "in": "<head> Robert Hamilton, Seigneur d'Aubigny <rel> mother <tail> Mary Stewart",
+            "out": "Robert Hamilton, Seigneur d'Aubigny's mother is Mary Stewart."
+        },
+        {
+            "in": "<head> Inner West Light Rail <rel> train depot <tail> Pyrmont",
+            "out": "The train depot of Inner West Light Rail is in Pyrmont."
+        },
+        {
+            "in": "<head> Ishq Subhan Allah <rel> number of episodes <tail> 0",
+            "out": "The show Ishq Subhan Allah had 0 episodes."
+        },
+        {
+            "in": "<head> Collide <rel> EIRIN film rating <tail> G",
+            "out": "Collide was rated G in the Japanese film rating system."
+        },
+        {
+            "in": "<head> Hyangchal <rel> time of discovery or invention <tail> 1100",
+            "out": "Hyangchal was invented in 1100."
+        },
+        {
+            "in": "<head> Angel Has Fallen <rel> IFCO rating <tail> 15A",
+            "out": "The IFCO rating of Angel Has Fallen is 15A."
+        },
+        {
+            "in": "<head> Suwon Station <rel> daily patronage <tail> 115043",
+            "out": "Suwon Station is used daily by 115043 people."
+        },
+        {
+            "in": "<head> STS-98 <rel> orbits completed <tail> 203",
+            "out": "STS-98 has completed 203 orbits."
+        },
+        {
+            "in": "<head> The Fisher Boy <rel> material <tail> Oil paint",
+            "out": "The Fisher Boy was created using Oil paint."
+        },
+        {
+            "in": "<head> C.Vélo <rel> number of subscribers <tail> 10000",
+            "out": "C.Vélo has 10000 subscribers."
+        },
+        {
+            "in": "<head> benzophenone <rel> solubility <tail> 0.14",
+            "out": "Benzophenone has solubility of 0.14."
+        },
+        {
+            "in": "<head> Syria <rel> mains voltage <tail> 220",
+            "out": "Syria has mains electricity voltage of 220."
+        },
+        {
+            "in": "<head> argon-36 <rel> natural abundance <tail> 0.003336",
+            "out": "Argon-36 has a relative proportion of 0.003336."
+        },
+        {
+            "in": "<head> Kratovo Municipality <rel> FIPS 10-4 <tail> MK51",
+            "out": "The FIPS 10-4 identifier for Kratovo Municipality is MK51."
+        },
+        {
+            "in": "<head> Scipione Ammirato <rel> influenced by <tail> Tacitus",
+            "out": "Scipione Ammirato was influenced by Tacitus."
+        },
+        {
+            "in": "<head> Froward Point daymark <rel> does not have part <tail> roof",
+            "out": "Froward Point daymark does not have a roof."
+        },
+        {
+            "in": "<head> Gong Qiuxia <rel> valid in period <tail> 20th century",
+            "out": "Gong Qiuxia is from the 20th century."
+        },
+        {
+            "in": "<head> Bely <rel> volcano observatory <tail> Institute of Volcanology and Seismology",
+            "out": "Bely is a volcano being observed by Institute of Volcanology and Seismology."
+        },
+        {
+            "in": "<head> William Paterson University <rel> admission yield rate <tail> 0.15",
+            "out": "William Paterson University has an admission yield rate of 0.15."
+        },
+        {
+            "in": "<head> Douglas Anthony Kendrew <rel> work period <tail> 1963",
+            "out": "Douglas Anthony Kendrew was working in 1963."
+        },
+        {
+            "in": "<head> Clun Forest <rel> FAO risk status <tail> not at risk",
+            "out": "Clun Forest's FAO risk status is not at risk."
+        },
+        {
+            "in": "<head> BQ Aquaris E4.5 <rel> maximum size or capacity <tail> 8",
+            "out": "The largest size of BQ Aquaris E4.5 is 8."
+        },
+        {
+            "in": "<head> Maastricht School of Management <rel> chairperson <tail> Léon Frissen",
+            "out": "The chairperson for Maastricht School of Management is Léon Frissen."
+        },
+        {
+            "in": "<head> octane exposure <rel> afflicts <tail> human",
+            "out": "Octane exposure can adversely affect human beings."
+        },
+        {
+            "in": "<head> Salinger <rel> production company <tail> The Weinstein Company",
+            "out": "Salinger was produced by The Weinstein Company."
+        },
+        {
+            "in": "<head> SNCF BB 12000 <rel> quantity <tail> 148",
+            "out": "There are 148 SNCF BB 12000."
+        },
+        {
+            "in": "<head> Group of children <rel> digitised by <tail> KBR",
+            "out": "Group of children was digitised by KBR."
+        },
+        {
+            "in": "<head> Clipper Hermod <rel> service entry <tail> 2008",
+            "out": "Clipper Hermod entered his role in 2008."
+        },
+        {
+            "in": "<head> Ministry of Road Transport and Bridges <rel> office held by head of the organization <tail> Minister of Road Transport and Bridges",
+            "out": "The Ministry of Road Transport and Bridges is held by the Minister of Road Transport and Bridges."
+        },
+        {
+            "in": "<head> K-1 visa <rel> regulated by <tail> United States Citizenship and Immigration Services",
+            "out": "K-1 visa is regulated by United States Citizenship and Immigration Services."
+        },
+        {
+            "in": "<head> UCAC2 11733382 <rel> effective temperature <tail> 3995",
+            "out": "UCAC2 11733382 has an effective temperature of 3995 degrees."
+        },
+        {
+            "in": "<head> Soyuz 6 <rel> time of spacecraft landing <tail> 1969-10-16",
+            "out": "Soyuz 6 landed their spacecraft on 1969-10-16."
+        },
+        {
+            "in": "<head> Gilbert Carlton Walker <rel> birth place <tail> Susquehanna County, Pennsylvania",
+            "out": "Gilbert Carlton Walker was born in Susquehanna County, Pennsylvania."
+        },
+        {
+            "in": "<head> Geosynchronous Satellite Launch Vehicle GSLV 1 <rel> maiden flight <tail> 2001-04-18",
+            "out": "Geosynchronous Satellite Launch Vehicle GSLV 1 made its maiden flight on 2001-04-18."
+        },
+        {
+            "in": "<head> Weissite - a new mineral <rel> section, verse, paragraph, or clause <tail> 5",
+            "out": "Weissite - a new mineral is discussed in section 5."
+        },
+        {
+            "in": "<head> soy milk <rel> carbon footprint <tail> 0.4",
+            "out": "Soy milk has a carbon footprint of 0.4."
+        },
+        {
+            "in": "<head> Ameli Haager <rel> sports discipline competed in <tail> speed climbing",
+            "out": "Ameli Haager does speed climbing."
+        },
+        {
+            "in": "<head> Marguerite Mooers Marshall <rel> date of disappearance <tail> 1964-05-03",
+            "out": "Marguerite Mooers Marshall disappeared on 1964-05-03."
+        },
+        {
+            "in": "<head> Iron Cove Bridge <rel> state of conservation <tail> demolished or destroyed",
+            "out": "Iron Cove Bridge has been demolished or destroyed."
+        },
+        {
+            "in": "<head> Kanagawa Museum of Modern Literature <rel> adjacent building <tail> Osaragi Jiro Memorial Museum",
+            "out": "Kanagawa Museum of Modern Literature is adjacent to the Osaragi Jiro Memorial Museum."
+        },
+        {
+            "in": "<head> Orlen Latvija <rel> net profit <tail> 3400000",
+            "out": "Orlen Latvija made a net profit of 3400000."
+        },
+        {
+            "in": "<head> Novruz Bayhanov <rel> sports competition competed at <tail> 2020 Winter Youth Olympics",
+            "out": "Novruz Bayhanov competed in the 2020 Winter Youth Olympics."
+        },
+        {
+            "in": "<head> Bayanmönkh Jonon <rel> killed by <tail> Manduul Khan",
+            "out": "Bayanmönkh Jonon was killed by Manduul Khan."
+        },
+        {
+            "in": "<head> world <rel> said to be the same as <tail> Earth",
+            "out": "The world and the Earth are the same thing."
+        },
+        {
+            "in": "<head> Norske tog Class 74 <rel> people or cargo transported <tail> passenger",
+            "out": "Norske tog Class 74 transported passengers."
+        },
+        {
+            "in": "<head> Pink Flamingos <rel> box office <tail> 6000000",
+            "out": "The film Pink Flamingos had a taking at the box office of 6000000."
+        },
+        {
+            "in": "<head> United States presidential election <rel> immediate cause of <tail> United States presidential inauguration",
+            "out": "United States presidential election was the immediate cause of the United States presidential inauguration."
+        },
+        {
+            "in": "<head> Eiffel <rel> programming paradigm <tail> object-oriented programming",
+            "out": "The programming paradigm for Eiffel was object-oriented programming."
+        },
+        {
+            "in": "<head> Villa Florio <rel> main building contractor <tail> Ignazio Florio",
+            "out": "Villa Florio's main building contractor is Ignazio Florio."
+        },
+        {
+            "in": "<head> Wilcox Public Library <rel> visitors per year <tail> 3000",
+            "out": "Wilcox Public Library had 3000 visitors each year."
+        },
+        {
+            "in": "<head> Elvis Taione <rel> country of citizenship <tail> Australia",
+            "out": "Elvis Taione is from Australia."
+        },
+        {
+            "in": "<head> Lunar Orbiter 1 <rel> time of object orbit decay <tail> 1966-10-29",
+            "out": "Lunar Orbiter 1 reached orbit decay at 1966-10-29."
+        },
+        {
+            "in": "<head> Annunciation Church <rel> appears in the heritage monument list <tail> list of cultural heritage monuments in Kolsky district",
+            "out": "Annunciation Church appears in the heritage monument list of cultural heritage monuments in Kolsky district."
+        },
+        {
+            "in": "<head> TYC 9534-22-1 <rel> declination <tail> -89.8621970024968",
+            "out": "TYC 9534-22-1 has a declination of -89.8621970024968."
+        },
+        {
+            "in": "<head> Katarína Vlčková <rel> number of children <tail> 3",
+            "out": "Katarína Vlčková has 3 children."
+        },
+        {
+            "in": "<head> Global Frequency <rel> colorist <tail> David Baron",
+            "out": "The colorist of Global Frequency is David Baron."
+        },
+        {
+            "in": "<head> light departing tone <rel> facet of <tail> historical Chinese phonology",
+            "out": "A light departing tone is characteristic of historical Chinese phonology."
+        },
+        {
+            "in": "<head> Emilia Plater <rel> place of burial <tail> Kapčiamiestis",
+            "out": "Emilia Plater is buried in Kapčiamiestis."
+        },
+        {
+            "in": "<head> Cat and Mouse in Partnership <rel> Aarne–Thompson–Uther Tale Type Index <tail> 15",
+            "out": "The Cat and Mouse in Partnership's Aarne-Thompson-Uther Tale Type Index is 15."
+        }
+    ]
+}
